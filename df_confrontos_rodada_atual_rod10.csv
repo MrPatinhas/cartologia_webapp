@@ -1,0 +1,11 @@
+partida_id,clube_casa_id,clube_casa_posicao,clube_visitante_id,aproveitamento_mandante,aproveitamento_visitante,clube_visitante_posicao,partida_data,timestamp,local,valida,placar_oficial_mandante,placar_oficial_visitante,campeonato_id,rodada_id
+302803,276,8,293,"['e', 'v', 'v', 'd', 'd']","['v', 'd', 'd', 'v', 'e']",7,2023-06-21 19:00:00,1687384800,Morumbi,True,,,26.0,11.0
+302806,283,9,356,"['v', 'd', 'e', 'd', 'e']","['e', 'd', 'v', 'e', 'd']",11,2023-06-21 19:00:00,1687384800,Mineirão,True,,,26.0,11.0
+302804,277,13,264,"['v', 'e', 'd', 'e', 'e']","['e', 'd', 'v', 'd', 'e']",16,2023-06-21 20:00:00,1687388400,Vila Belmiro,True,,,26.0,11.0
+302801,266,5,282,"['v', 'd', 'd', 'v', 'e']","['v', 'v', 'e', 'v', 'e']",4,2023-06-21 21:30:00,1687393800,Raulino de Oliveira,True,,,26.0,11.0
+302809,265,15,275,"['d', 'e', 'd', 'e', 'e']","['e', 'e', 'e', 'v', 'v']",2,2023-06-21 21:30:00,1687393800,Itaipava Arena Fonte Nova,True,,,26.0,11.0
+302807,284,6,327,"['e', 'v', 'v', 'v', 'd']","['d', 'v', 'd', 'v', 'e']",18,2023-06-22 19:00:00,1687471200,Arena do Grêmio,True,,,26.0,11.0
+302802,267,19,290,"['d', 'd', 'd', 'd', 'd']","['v', 'e', 'd', 'd', 'e']",17,2023-06-22 20:00:00,1687474800,São Januário,True,,,26.0,11.0
+302808,294,20,285,"['d', 'd', 'e', 'd', 'e']","['d', 'd', 'v', 'e', 'v']",10,2023-06-22 20:00:00,1687474800,Couto Pereira,True,,,26.0,11.0
+302810,1371,14,263,"['d', 'v', 'e', 'v', 'e']","['d', 'v', 'v', 'd', 'v']",1,2023-06-22 20:00:00,1687474800,Arena Pantanal,True,,,26.0,11.0
+302805,280,12,262,"['e', 'v', 'v', 'd', 'e']","['v', 'v', 'e', 'v', 'v']",3,2023-06-22 21:30:00,1687480200,Nabi Abi Chedid,True,,,26.0,11.0
