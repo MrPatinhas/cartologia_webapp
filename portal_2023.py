@@ -1881,7 +1881,7 @@ lottie_hello = load_lottieurl(lottie_url_hello)
 
 stream.set_page_config(
      page_title="Cartologia | Cartola 2023",
-     page_icon="🎲",
+     page_icon="🎩",
      layout="wide",
      initial_sidebar_state="expanded",
      menu_items={
@@ -1921,7 +1921,7 @@ c5.write("https://nubank.com.br/pagar/5jd11/73HqUsxHMi")
 
 stream.write(" --- ")
 stream.markdown("### 🎲 Cartologia by Thiago Villani | Soccer Analysis | Portal de Análises para Cartola FC ")
-stream.markdown(" 💡 *Obs: Para otimizar visibilidade deixe o zoom do seu navegador em 75%*")
+stream.markdown(" ##### 💡 *Obs: Para otimizar visibilidade deixe o zoom do seu navegador em 75%*")
 
 tabela_times, df_geodata_total, base_global_partidas, base_interacao_scouts, base_scouts, global_line_data_, df_confrontos_rodada_atual, df_atletas, df_data_scouts___, df_status, df_posicoes, base_global_partidas_og, rodada_atual_num, df_clubes, dataframe_player, depara_times_footstats, base_data_foodstat_, full_players_rank = get_full_datatables_required()
 
@@ -1939,17 +1939,17 @@ with stream.expander("Glossário & Premissas"):
         """)
 
 
-stream.write(""" 
-Selecione no menu abaixo uma das secções do Portal \n
-                 Análise de Equipe -> Navege pelos principais indicadores de um clube específico \n
-                 Análise de Campeonato -> Confira o TOP10 por scout e o Mapa do Confronto da Rodada \n
-                 Sugestão de Escalação -> O Robô Cartológico tem o Algortimo para te ajudar a escalar o time da rodada
+stream.text(""" 
+Selecione no menu abaixo uma das seções do Portal \n
+                 ⛹️‍♂️ Análise de Equipe -> Navege pelos principais indicadores de um clube específico \n
+                 ⚽ Análise de Campeonato -> Confira o TOP10 por scout e o Mapa do Confronto da Rodada \n
+                 🎲 Sugestão de Escalação -> O Robô Cartológico tem o Algortimo para te ajudar a escalar o time da rodada
                 """)
 cb1, cb2, cb3, cb4 = stream.columns(4)
-flag_plot_time_conteiner = cb1.checkbox('Análise de Equipe')
-flag_plot_campeonato_conteiner = cb2.checkbox('Análise de Campeonato')
+flag_plot_time_conteiner = cb1.checkbox(' ⛹️‍♂️ Análise de Equipe')
+flag_plot_campeonato_conteiner = cb2.checkbox(' ⚽ Análise de Campeonato')
 flag_plot_suggestion = False
-flag_plot_pitch = cb3.checkbox('Sugestão de Escalação')
+flag_plot_pitch = cb3.checkbox(' 🎲 Sugestão de Escalação')
 pos_selection = ""
 
 stream.write("#### Rodada Atual - {0}".format(rodada_atual_num))
@@ -1977,7 +1977,8 @@ if(flag_plot_time_conteiner):
         #)
 
         stream.markdown("#### Overview Geral")
-        cb1, cb2 = stream.columns([1, 1])
+        stream.markdown("##### Mapa de passes dos jogadores demonstrando as principais interações e posições médias. A direita, a média e desvio padrão dos principais jogadores de cada time ")
+        cb1, cb2 = stream.columns([3, 2])
         nome_footstats = tabela_times[tabela_times['clube_name']==league_selection].team_name.tolist()[0]
         fig_geral = get_pass_network_on_pitch_plot(nome_footstats, 'Passes', percentile_filter = 0.5, flag_filter_local = '', flag_insta_params = False, flag_hist=True)
         fig_geral.width = 900
@@ -1997,6 +1998,8 @@ if(flag_plot_time_conteiner):
         cb2.bokeh_chart(f_round)
 
         stream.markdown("#### Históricos de Performance")
+        stream.markdown("##### Melhor pontuador por posição dos últimos 6 jogos da equipe, sendo PB = Pontuação Básica e PD = Pontuação Decisiva (Gol, Assistência e Saldo de Gol). A direita, o melhor pontuador por posição CONTRA o adversário da próxima rodada")
+        
         cb1, cb2 = stream.columns([1, 1])
         clube_id = df_data_scouts___[df_data_scouts___['clube_name']==league_selection].clube_id.unique().tolist()[0]
         table_atuante = get_table_resumo_atuante(clube_id, flag_insta=False)
@@ -2013,6 +2016,8 @@ if(flag_plot_time_conteiner):
         stream.write("----")
 
         stream.markdown("#### Radares de Scout para Confronto")
+        stream.markdown("##### % executada pela equipe e cedida pelo adversário com relação a média do campeonato por posição e por scout positivo. Scouts verdes demonstram bom match pro contronto implicando em um evento que a equipe desempenha bem (acima da média) e o oponente cede com frequência (acima da média)")
+        
         cb1, cb2, cb3, cb4 = stream.columns([1, 1, 1, 1])
         f_radar = aux_func.get_radar_plot(clube_id, 'ata', df_data_scouts___, df_confrontos_rodada_atual, df_clubes)
         f_radar.width = 400
@@ -2045,7 +2050,7 @@ if(flag_plot_time_conteiner):
             f_round_quantile.toolbar_location = None
             cb1.bokeh_chart(f_round_quantile)
 
-            f_ponts_dist = get_distribution_points_plot(df_data_scouts___, atleta_id)
+            f_ponts_dist = aux_func.get_distribution_points_plot(df_data_scouts___, atleta_id)
             f_ponts_dist.width = 500
             f_ponts_dist.height = 500
             f_ponts_dist.toolbar.logo = None
@@ -2478,7 +2483,7 @@ if(flag_plot_pitch):
                 cb1,cb2,cb3 = stream.columns(3)
                 for p_,c__ in zip(list_players_seg[8:10],[cb1,cb2]):
 
-                    f_ponts_dist = get_distribution_points_plot(df_data_scouts___, p_)
+                    f_ponts_dist = aux_func.get_distribution_points_plot(df_data_scouts___, p_)
                     c__.bokeh_chart(f_ponts_dist)
 
                 cb1, cb2 = stream.columns(2)
@@ -2661,7 +2666,7 @@ if(flag_plot_pitch):
                 cb1,cb2,cb3 = stream.columns(3)
                 for p_,c__ in zip(list_players_seg[8:10],[cb1,cb2]):
 
-                    f_ponts_dist = get_distribution_points_plot(df_data_scouts___, p_)
+                    f_ponts_dist = aux_func.get_distribution_points_plot(df_data_scouts___, p_)
                     c__.bokeh_chart(f_ponts_dist)
 
                 cb1, cb2, cb3 = stream.columns(3)
@@ -2845,7 +2850,7 @@ if(flag_plot_pitch):
                 cb1,cb2,cb3 = stream.columns(3)
                 for p_,c__ in zip(list_players_seg[8:10],[cb1,cb2]):
 
-                    f_ponts_dist = get_distribution_points_plot(df_data_scouts___, p_)
+                    f_ponts_dist = aux_func.get_distribution_points_plot(df_data_scouts___, p_)
                     c__.bokeh_chart(f_ponts_dist)
 
                 cb1, cb2, cb3 = stream.columns(3)
