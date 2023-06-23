@@ -1,0 +1,11 @@
+partida_id,clube_casa_id,clube_casa_posicao,clube_visitante_id,aproveitamento_mandante,aproveitamento_visitante,clube_visitante_posicao,partida_data,timestamp,local,valida,placar_oficial_mandante,placar_oficial_visitante,campeonato_id,rodada_id
+302828,293,11,264,"['d', 'd', 'v', 'e', 'd']","['d', 'v', 'd', 'e', 'v']",15,2023-06-24 16:00:00,1687633200,Arena da Baixada,True,,,26.0,12.0
+302821,266,7,265,"['d', 'd', 'v', 'e', 'e']","['e', 'd', 'e', 'e', 'v']",14,2023-06-24 18:30:00,1687642200,Maracanã,True,,,26.0,12.0
+302829,356,10,282,"['d', 'v', 'e', 'd', 'v']","['v', 'e', 'v', 'e', 'e']",5,2023-06-24 18:30:00,1687642200,Castelão (CE),True,,,26.0,12.0
+302826,283,12,276,"['d', 'e', 'd', 'e', 'd']","['v', 'v', 'd', 'd', 'v']",6,2023-06-24 21:00:00,1687651200,Independência,True,,,26.0,12.0
+302823,275,2,263,"['e', 'e', 'v', 'v', 'd']","['v', 'v', 'd', 'v', 'v']",1,2023-06-25 16:00:00,1687719600,Allianz Parque,True,,,26.0,12.0
+302827,284,3,294,"['v', 'v', 'v', 'd', 'v']","['d', 'e', 'd', 'e', 'd']",20,2023-06-25 16:00:00,1687719600,Arena do Grêmio,True,,,26.0,12.0
+302824,277,13,262,"['e', 'd', 'e', 'e', 'd']","['v', 'e', 'v', 'v', 'd']",4,2023-06-25 18:30:00,1687728600,Vila Belmiro,True,,,26.0,12.0
+302825,280,9,290,"['v', 'v', 'd', 'e', 'v']","['e', 'd', 'd', 'e', 'v']",17,2023-06-25 18:30:00,1687728600,Nabi Abi Chedid,True,,,26.0,12.0
+302830,327,18,285,"['v', 'd', 'v', 'e', 'd']","['d', 'v', 'e', 'v', 'v']",8,2023-06-25 18:30:00,1687728600,Independência,True,,,26.0,12.0
+302822,267,19,1371,"['d', 'd', 'd', 'd', 'd']","['v', 'e', 'v', 'e', 'd']",16,2023-06-26 21:00:00,1687824000,São Januário,True,,,26.0,12.0
