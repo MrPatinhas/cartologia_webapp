@@ -1,0 +1,11 @@
+partida_id,clube_casa_id,clube_casa_posicao,clube_visitante_id,aproveitamento_mandante,aproveitamento_visitante,clube_visitante_posicao,partida_data,timestamp,local,valida,placar_oficial_mandante,placar_oficial_visitante,campeonato_id,rodada_id
+302853,276,11,266,"['v', 'd', 'd', 'v', 'd']","['d', 'v', 'e', 'e', 'v']",5,2023-07-01 16:00:00,1688238000,Morumbi,True,,,26.0,13.0
+302851,262,3,356,"['e', 'v', 'v', 'd', 'v']","['v', 'e', 'd', 'v', 'v']",8,2023-07-01 18:30:00,1688247000,Maracanã,True,,,26.0,13.0
+302859,265,14,284,"['d', 'e', 'e', 'v', 'd']","['v', 'v', 'd', 'v', 'v']",2,2023-07-01 18:30:00,1688247000,Itaipava Arena Fonte Nova,True,,,26.0,13.0
+302857,285,6,283,"['v', 'e', 'v', 'v', 'v']","['e', 'd', 'e', 'd', 'v']",12,2023-07-01 21:00:00,1688256000,Beira-Rio,True,,,26.0,13.0
+302854,264,15,280,"['v', 'd', 'e', 'v', 'd']","['v', 'd', 'e', 'v', 'v']",7,2023-07-02 11:00:00,1688306400,Neo Química Arena,True,,,26.0,13.0
+302852,263,1,267,"['v', 'd', 'v', 'v', 'v']","['d', 'd', 'd', 'd', 'v']",18,2023-07-02 16:00:00,1688324400,Nilton Santos (Engenhão),True,,,26.0,13.0
+302856,282,10,327,"['e', 'v', 'e', 'e', 'd']","['d', 'v', 'e', 'd', 'd']",19,2023-07-02 16:00:00,1688324400,Mineirão,True,,,26.0,13.0
+302858,293,9,275,"['d', 'v', 'e', 'd', 'v']","['e', 'v', 'v', 'd', 'd']",4,2023-07-02 16:00:00,1688324400,Ligga Arena,True,,,26.0,13.0
+302860,1371,16,277,"['e', 'v', 'e', 'd', 'd']","['d', 'e', 'e', 'd', 'd']",13,2023-07-02 18:30:00,1688333400,Arena Pantanal,True,,,26.0,13.0
+302855,290,17,294,"['d', 'd', 'e', 'v', 'd']","['e', 'd', 'e', 'd', 'd']",20,2023-07-03 20:00:00,1688425200,Hailé Pinheiro (Serrinha),True,,,26.0,13.0

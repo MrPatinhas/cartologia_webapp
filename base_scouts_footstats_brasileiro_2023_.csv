@@ -29473,3 +29473,2639 @@
 29471,206839,25,Cartões amarelos,Gustavo Campanharo,1018,1,0,Internacional
 29472,206839,25,Cartões amarelos,John Victor,1018,1,0,Internacional
 29473,206839,25,Cartões amarelos,Renê,1018,1,0,Internacional
+29474,206470,2,Passes,Artur,1012,23,5,Palmeiras
+29475,206470,2,Passes,Bruno Tabata,1012,10,3,Palmeiras
+29476,206470,2,Passes,Dudu,1012,27,6,Palmeiras
+29477,206470,2,Passes,Endrick,1012,1,0,Palmeiras
+29478,206470,2,Passes,Gustavo Gómez,1012,61,3,Palmeiras
+29479,206470,2,Passes,Jhon Jhon,1012,3,1,Palmeiras
+29480,206470,2,Passes,Joaquín Piquerez,1012,50,2,Palmeiras
+29481,206470,2,Passes,Luan,1012,59,2,Palmeiras
+29482,206470,2,Passes,Luis Guilherme,1012,6,1,Palmeiras
+29483,206470,2,Passes,Manuel López,1012,4,4,Palmeiras
+29484,206470,2,Passes,Mayke,1012,56,4,Palmeiras
+29485,206470,2,Passes,Raphael Veiga,1012,23,6,Palmeiras
+29486,206470,2,Passes,Richard Ríos,1012,18,2,Palmeiras
+29487,206470,2,Passes,Rony,1012,8,2,Palmeiras
+29488,206470,2,Passes,Weverton,1012,18,0,Palmeiras
+29489,206470,2,Passes,Zé Rafael,1012,42,1,Palmeiras
+29490,206470,2,Passes,Adryelson,1003,12,3,Botafogo
+29491,206470,2,Passes,Danilo Barbosa,1003,12,3,Botafogo
+29492,206470,2,Passes,Eduardo,1003,22,5,Botafogo
+29493,206470,2,Passes,Hugo Neto,1003,20,7,Botafogo
+29494,206470,2,Passes,Júnior Santos,1003,6,1,Botafogo
+29495,206470,2,Passes,Leonel Di Placido,1003,3,1,Botafogo
+29496,206470,2,Passes,Lucas Perri,1003,7,1,Botafogo
+29497,206470,2,Passes,Luis Henrique,1003,8,1,Botafogo
+29498,206470,2,Passes,Marlon Freitas,1003,24,1,Botafogo
+29499,206470,2,Passes,Matheus Nascimento,1003,1,0,Botafogo
+29500,206470,2,Passes,Matias Segovia,1003,14,4,Botafogo
+29501,206470,2,Passes,Rafael,1003,21,6,Botafogo
+29502,206470,2,Passes,Tchê Tchê,1003,4,0,Botafogo
+29503,206470,2,Passes,Tiquinho Soares,1003,14,5,Botafogo
+29504,206470,2,Passes,Víctor Cuesta,1003,18,1,Botafogo
+29505,206470,2,Passes,Victor Sá,1003,13,0,Botafogo
+29506,206470,3,Finalizações,Artur,1012,2,0,Palmeiras
+29507,206470,3,Finalizações,Bruno Tabata,1012,0,1,Palmeiras
+29508,206470,3,Finalizações,Gustavo Gómez,1012,0,1,Palmeiras
+29509,206470,3,Finalizações,Luan,1012,0,1,Palmeiras
+29510,206470,3,Finalizações,Luis Guilherme,1012,0,1,Palmeiras
+29511,206470,3,Finalizações,Raphael Veiga,1012,2,0,Palmeiras
+29512,206470,3,Finalizações,Richard Ríos,1012,0,2,Palmeiras
+29513,206470,3,Finalizações,Rony,1012,2,0,Palmeiras
+29514,206470,3,Finalizações,Danilo Barbosa,1003,0,1,Botafogo
+29515,206470,3,Finalizações,Luis Henrique,1003,1,0,Botafogo
+29516,206470,3,Finalizações,Marlon Freitas,1003,0,1,Botafogo
+29517,206470,3,Finalizações,Tiquinho Soares,1003,1,0,Botafogo
+29518,206470,3,Finalizações,Victor Sá,1003,0,1,Botafogo
+29519,206470,5,Desarmes,Gustavo Gómez,1012,2,0,Palmeiras
+29520,206470,5,Desarmes,Joaquín Piquerez,1012,2,0,Palmeiras
+29521,206470,5,Desarmes,Luis Guilherme,1012,1,0,Palmeiras
+29522,206470,5,Desarmes,Mayke,1012,3,2,Palmeiras
+29523,206470,5,Desarmes,Raphael Veiga,1012,0,1,Palmeiras
+29524,206470,5,Desarmes,Richard Ríos,1012,1,0,Palmeiras
+29525,206470,5,Desarmes,Rony,1012,1,0,Palmeiras
+29526,206470,5,Desarmes,Zé Rafael,1012,4,1,Palmeiras
+29527,206470,5,Desarmes,Eduardo,1003,1,0,Botafogo
+29528,206470,5,Desarmes,Hugo Neto,1003,3,1,Botafogo
+29529,206470,5,Desarmes,Júnior Santos,1003,0,1,Botafogo
+29530,206470,5,Desarmes,Marlon Freitas,1003,2,0,Botafogo
+29531,206470,5,Desarmes,Rafael,1003,3,0,Botafogo
+29532,206470,5,Desarmes,Víctor Cuesta,1003,1,0,Botafogo
+29533,206470,5,Desarmes,Victor Sá,1003,2,0,Botafogo
+29534,206470,14,Cruzamentos,Artur,1012,1,3,Palmeiras
+29535,206470,14,Cruzamentos,Bruno Tabata,1012,0,5,Palmeiras
+29536,206470,14,Cruzamentos,Dudu,1012,3,2,Palmeiras
+29537,206470,14,Cruzamentos,Joaquín Piquerez,1012,1,4,Palmeiras
+29538,206470,14,Cruzamentos,Luan,1012,0,2,Palmeiras
+29539,206470,14,Cruzamentos,Luis Guilherme,1012,2,4,Palmeiras
+29540,206470,14,Cruzamentos,Manuel López,1012,0,2,Palmeiras
+29541,206470,14,Cruzamentos,Mayke,1012,0,6,Palmeiras
+29542,206470,14,Cruzamentos,Raphael Veiga,1012,2,14,Palmeiras
+29543,206470,14,Cruzamentos,Richard Ríos,1012,1,1,Palmeiras
+29544,206470,14,Cruzamentos,Rony,1012,0,2,Palmeiras
+29545,206470,14,Cruzamentos,Eduardo,1003,0,1,Botafogo
+29546,206470,14,Cruzamentos,Hugo Neto,1003,0,2,Botafogo
+29547,206470,14,Cruzamentos,Luis Henrique,1003,0,1,Botafogo
+29548,206470,14,Cruzamentos,Matias Segovia,1003,0,1,Botafogo
+29549,206470,14,Cruzamentos,Rafael,1003,1,2,Botafogo
+29550,206470,1,Lançamentos,Artur,1012,0,1,Palmeiras
+29551,206470,1,Lançamentos,Dudu,1012,0,1,Palmeiras
+29552,206470,1,Lançamentos,Gustavo Gómez,1012,1,0,Palmeiras
+29553,206470,1,Lançamentos,Joaquín Piquerez,1012,2,0,Palmeiras
+29554,206470,1,Lançamentos,Luan,1012,7,4,Palmeiras
+29555,206470,1,Lançamentos,Luis Guilherme,1012,0,2,Palmeiras
+29556,206470,1,Lançamentos,Mayke,1012,1,0,Palmeiras
+29557,206470,1,Lançamentos,Raphael Veiga,1012,3,0,Palmeiras
+29558,206470,1,Lançamentos,Weverton,1012,1,4,Palmeiras
+29559,206470,1,Lançamentos,Zé Rafael,1012,0,2,Palmeiras
+29560,206470,1,Lançamentos,Adryelson,1003,0,2,Botafogo
+29561,206470,1,Lançamentos,Lucas Perri,1003,5,21,Botafogo
+29562,206470,1,Lançamentos,Luis Henrique,1003,0,1,Botafogo
+29563,206470,1,Lançamentos,Marlon Freitas,1003,1,1,Botafogo
+29564,206470,1,Lançamentos,Matias Segovia,1003,0,2,Botafogo
+29565,206470,1,Lançamentos,Rafael,1003,1,1,Botafogo
+29566,206470,1,Lançamentos,Tchê Tchê,1003,2,0,Botafogo
+29567,206470,1,Lançamentos,Víctor Cuesta,1003,3,5,Botafogo
+29568,206470,24,Interceptações,Artur,1012,1,0,Palmeiras
+29569,206470,24,Interceptações,Mayke,1012,1,0,Palmeiras
+29570,206470,24,Interceptações,Danilo Barbosa,1003,1,0,Botafogo
+29571,206470,24,Interceptações,Leonel Di Placido,1003,1,0,Botafogo
+29572,206470,4,Dribles,Dudu,1012,4,1,Palmeiras
+29573,206470,4,Dribles,Joaquín Piquerez,1012,0,1,Palmeiras
+29574,206470,4,Dribles,Raphael Veiga,1012,0,1,Palmeiras
+29575,206470,4,Dribles,Zé Rafael,1012,0,1,Palmeiras
+29576,206470,4,Dribles,Danilo Barbosa,1003,1,0,Botafogo
+29577,206470,4,Dribles,Eduardo,1003,1,1,Botafogo
+29578,206470,4,Dribles,Júnior Santos,1003,2,0,Botafogo
+29579,206470,4,Dribles,Luis Henrique,1003,1,0,Botafogo
+29580,206470,4,Dribles,Matias Segovia,1003,2,0,Botafogo
+29581,206470,4,Dribles,Tiquinho Soares,1003,1,0,Botafogo
+29582,206470,22,Viradas de jogo,Dudu,1012,0,1,Palmeiras
+29583,206470,22,Viradas de jogo,Raphael Veiga,1012,2,0,Palmeiras
+29584,206470,22,Viradas de jogo,Zé Rafael,1012,0,1,Palmeiras
+29585,206470,20,Posse de bola,Artur,1012,99,0,Palmeiras
+29586,206470,20,Posse de bola,Bruno Tabata,1012,45,0,Palmeiras
+29587,206470,20,Posse de bola,Dudu,1012,178,0,Palmeiras
+29588,206470,20,Posse de bola,Endrick,1012,4,0,Palmeiras
+29589,206470,20,Posse de bola,Gustavo Gómez,1012,179,0,Palmeiras
+29590,206470,20,Posse de bola,Jhon Jhon,1012,8,0,Palmeiras
+29591,206470,20,Posse de bola,Joaquín Piquerez,1012,148,0,Palmeiras
+29592,206470,20,Posse de bola,Luan,1012,207,0,Palmeiras
+29593,206470,20,Posse de bola,Luis Guilherme,1012,58,0,Palmeiras
+29594,206470,20,Posse de bola,Manuel López,1012,36,0,Palmeiras
+29595,206470,20,Posse de bola,Mayke,1012,167,0,Palmeiras
+29596,206470,20,Posse de bola,Raphael Veiga,1012,154,0,Palmeiras
+29597,206470,20,Posse de bola,Richard Ríos,1012,68,0,Palmeiras
+29598,206470,20,Posse de bola,Rony,1012,40,0,Palmeiras
+29599,206470,20,Posse de bola,Weverton,1012,68,0,Palmeiras
+29600,206470,20,Posse de bola,Zé Rafael,1012,146,0,Palmeiras
+29601,206470,20,Posse de bola,Adryelson,1003,79,0,Botafogo
+29602,206470,20,Posse de bola,Danilo Barbosa,1003,56,0,Botafogo
+29603,206470,20,Posse de bola,Eduardo,1003,97,0,Botafogo
+29604,206470,20,Posse de bola,Hugo Neto,1003,91,0,Botafogo
+29605,206470,20,Posse de bola,Júnior Santos,1003,39,0,Botafogo
+29606,206470,20,Posse de bola,Leonel Di Placido,1003,20,0,Botafogo
+29607,206470,20,Posse de bola,Lucas Perri,1003,247,0,Botafogo
+29608,206470,20,Posse de bola,Luis Henrique,1003,33,0,Botafogo
+29609,206470,20,Posse de bola,Marlon Freitas,1003,90,0,Botafogo
+29610,206470,20,Posse de bola,Matheus Nascimento,1003,6,0,Botafogo
+29611,206470,20,Posse de bola,Matias Segovia,1003,58,0,Botafogo
+29612,206470,20,Posse de bola,Rafael,1003,140,0,Botafogo
+29613,206470,20,Posse de bola,Tchê Tchê,1003,20,0,Botafogo
+29614,206470,20,Posse de bola,Tiquinho Soares,1003,71,0,Botafogo
+29615,206470,20,Posse de bola,Víctor Cuesta,1003,94,0,Botafogo
+29616,206470,20,Posse de bola,Victor Sá,1003,49,0,Botafogo
+29617,206470,20,Posse de bola,Artur,1012,99,0,Palmeiras
+29618,206470,20,Posse de bola,Bruno Tabata,1012,45,0,Palmeiras
+29619,206470,20,Posse de bola,Dudu,1012,178,0,Palmeiras
+29620,206470,20,Posse de bola,Endrick,1012,4,0,Palmeiras
+29621,206470,20,Posse de bola,Gustavo Gómez,1012,179,0,Palmeiras
+29622,206470,20,Posse de bola,Jhon Jhon,1012,8,0,Palmeiras
+29623,206470,20,Posse de bola,Joaquín Piquerez,1012,148,0,Palmeiras
+29624,206470,20,Posse de bola,Luan,1012,207,0,Palmeiras
+29625,206470,20,Posse de bola,Luis Guilherme,1012,58,0,Palmeiras
+29626,206470,20,Posse de bola,Manuel López,1012,36,0,Palmeiras
+29627,206470,20,Posse de bola,Mayke,1012,167,0,Palmeiras
+29628,206470,20,Posse de bola,Raphael Veiga,1012,154,0,Palmeiras
+29629,206470,20,Posse de bola,Richard Ríos,1012,68,0,Palmeiras
+29630,206470,20,Posse de bola,Rony,1012,40,0,Palmeiras
+29631,206470,20,Posse de bola,Weverton,1012,68,0,Palmeiras
+29632,206470,20,Posse de bola,Zé Rafael,1012,146,0,Palmeiras
+29633,206470,20,Posse de bola,Adryelson,1003,79,0,Botafogo
+29634,206470,20,Posse de bola,Danilo Barbosa,1003,56,0,Botafogo
+29635,206470,20,Posse de bola,Eduardo,1003,97,0,Botafogo
+29636,206470,20,Posse de bola,Hugo Neto,1003,91,0,Botafogo
+29637,206470,20,Posse de bola,Júnior Santos,1003,39,0,Botafogo
+29638,206470,20,Posse de bola,Leonel Di Placido,1003,20,0,Botafogo
+29639,206470,20,Posse de bola,Lucas Perri,1003,247,0,Botafogo
+29640,206470,20,Posse de bola,Luis Henrique,1003,33,0,Botafogo
+29641,206470,20,Posse de bola,Marlon Freitas,1003,90,0,Botafogo
+29642,206470,20,Posse de bola,Matheus Nascimento,1003,6,0,Botafogo
+29643,206470,20,Posse de bola,Matias Segovia,1003,58,0,Botafogo
+29644,206470,20,Posse de bola,Rafael,1003,140,0,Botafogo
+29645,206470,20,Posse de bola,Tchê Tchê,1003,20,0,Botafogo
+29646,206470,20,Posse de bola,Tiquinho Soares,1003,71,0,Botafogo
+29647,206470,20,Posse de bola,Víctor Cuesta,1003,94,0,Botafogo
+29648,206470,20,Posse de bola,Victor Sá,1003,49,0,Botafogo
+29649,206470,8,Gols,Tiquinho Soares,1003,1,0,Botafogo
+29650,206470,28,Assistências para finalização,Artur,1012,2,0,Palmeiras
+29651,206470,28,Assistências para finalização,Joaquín Piquerez,1012,1,0,Palmeiras
+29652,206470,28,Assistências para finalização,Luis Guilherme,1012,2,0,Palmeiras
+29653,206470,28,Assistências para finalização,Mayke,1012,1,0,Palmeiras
+29654,206470,28,Assistências para finalização,Raphael Veiga,1012,4,0,Palmeiras
+29655,206470,28,Assistências para finalização,Zé Rafael,1012,1,0,Palmeiras
+29656,206470,28,Assistências para finalização,Eduardo,1003,2,0,Botafogo
+29657,206470,28,Assistências para finalização,Matias Segovia,1003,1,0,Botafogo
+29658,206470,28,Assistências para finalização,Victor Sá,1003,1,0,Botafogo
+29659,206470,15,Defesas,Weverton,1012,1,0,Palmeiras
+29660,206470,15,Defesas,Danilo Barbosa,1003,1,0,Botafogo
+29661,206470,15,Defesas,Lucas Perri,1003,2,0,Botafogo
+29662,206470,15,Defesas,Víctor Cuesta,1003,1,0,Botafogo
+29663,206470,15,Defesas,Victor Sá,1003,1,0,Botafogo
+29664,206470,15,Defesas,Weverton,1012,1,0,Palmeiras
+29665,206470,15,Defesas,Danilo Barbosa,1003,1,0,Botafogo
+29666,206470,15,Defesas,Lucas Perri,1003,2,0,Botafogo
+29667,206470,15,Defesas,Víctor Cuesta,1003,1,0,Botafogo
+29668,206470,15,Defesas,Victor Sá,1003,1,0,Botafogo
+29669,206470,23,Defesas difíceis,Lucas Perri,1003,3,0,Botafogo
+29670,206470,19,Rebatidas,Artur,1012,2,0,Palmeiras
+29671,206470,19,Rebatidas,Gustavo Gómez,1012,13,0,Palmeiras
+29672,206470,19,Rebatidas,Joaquín Piquerez,1012,3,0,Palmeiras
+29673,206470,19,Rebatidas,Luan,1012,9,0,Palmeiras
+29674,206470,19,Rebatidas,Manuel López,1012,1,0,Palmeiras
+29675,206470,19,Rebatidas,Mayke,1012,2,0,Palmeiras
+29676,206470,19,Rebatidas,Raphael Veiga,1012,3,0,Palmeiras
+29677,206470,19,Rebatidas,Richard Ríos,1012,1,0,Palmeiras
+29678,206470,19,Rebatidas,Zé Rafael,1012,2,0,Palmeiras
+29679,206470,19,Rebatidas,Adryelson,1003,21,0,Botafogo
+29680,206470,19,Rebatidas,Danilo Barbosa,1003,3,0,Botafogo
+29681,206470,19,Rebatidas,Eduardo,1003,1,0,Botafogo
+29682,206470,19,Rebatidas,Hugo Neto,1003,3,0,Botafogo
+29683,206470,19,Rebatidas,Júnior Santos,1003,2,0,Botafogo
+29684,206470,19,Rebatidas,Leonel Di Placido,1003,3,0,Botafogo
+29685,206470,19,Rebatidas,Lucas Perri,1003,4,0,Botafogo
+29686,206470,19,Rebatidas,Marlon Freitas,1003,10,0,Botafogo
+29687,206470,19,Rebatidas,Rafael,1003,8,0,Botafogo
+29688,206470,19,Rebatidas,Tchê Tchê,1003,1,0,Botafogo
+29689,206470,19,Rebatidas,Tiquinho Soares,1003,2,0,Botafogo
+29690,206470,19,Rebatidas,Víctor Cuesta,1003,8,0,Botafogo
+29691,206470,6,Faltas cometidas,Dudu,1012,1,0,Palmeiras
+29692,206470,6,Faltas cometidas,Endrick,1012,1,0,Palmeiras
+29693,206470,6,Faltas cometidas,Gustavo Gómez,1012,1,0,Palmeiras
+29694,206470,6,Faltas cometidas,Luan,1012,3,0,Palmeiras
+29695,206470,6,Faltas cometidas,Manuel López,1012,1,0,Palmeiras
+29696,206470,6,Faltas cometidas,Mayke,1012,2,0,Palmeiras
+29697,206470,6,Faltas cometidas,Raphael Veiga,1012,2,0,Palmeiras
+29698,206470,6,Faltas cometidas,Richard Ríos,1012,1,0,Palmeiras
+29699,206470,6,Faltas cometidas,Rony,1012,1,0,Palmeiras
+29700,206470,6,Faltas cometidas,Zé Rafael,1012,4,0,Palmeiras
+29701,206470,6,Faltas cometidas,Danilo Barbosa,1003,2,0,Botafogo
+29702,206470,6,Faltas cometidas,Eduardo,1003,1,0,Botafogo
+29703,206470,6,Faltas cometidas,Hugo Neto,1003,2,0,Botafogo
+29704,206470,6,Faltas cometidas,Júnior Santos,1003,1,0,Botafogo
+29705,206470,6,Faltas cometidas,Marlon Freitas,1003,1,0,Botafogo
+29706,206470,6,Faltas cometidas,Matheus Nascimento,1003,1,0,Botafogo
+29707,206470,6,Faltas cometidas,Rafael,1003,2,0,Botafogo
+29708,206470,6,Faltas cometidas,Tchê Tchê,1003,1,0,Botafogo
+29709,206470,6,Faltas cometidas,Tiquinho Soares,1003,1,0,Botafogo
+29710,206470,6,Faltas cometidas,Victor Sá,1003,1,0,Botafogo
+29711,206470,7,Faltas sofridas,Artur,1012,1,0,Palmeiras
+29712,206470,7,Faltas sofridas,Dudu,1012,2,0,Palmeiras
+29713,206470,7,Faltas sofridas,Gustavo Gómez,1012,1,0,Palmeiras
+29714,206470,7,Faltas sofridas,Joaquín Piquerez,1012,1,0,Palmeiras
+29715,206470,7,Faltas sofridas,Luan,1012,1,0,Palmeiras
+29716,206470,7,Faltas sofridas,Raphael Veiga,1012,3,0,Palmeiras
+29717,206470,7,Faltas sofridas,Richard Ríos,1012,1,0,Palmeiras
+29718,206470,7,Faltas sofridas,Zé Rafael,1012,3,0,Palmeiras
+29719,206470,7,Faltas sofridas,Danilo Barbosa,1003,2,0,Botafogo
+29720,206470,7,Faltas sofridas,Eduardo,1003,3,0,Botafogo
+29721,206470,7,Faltas sofridas,Hugo Neto,1003,1,0,Botafogo
+29722,206470,7,Faltas sofridas,Júnior Santos,1003,1,0,Botafogo
+29723,206470,7,Faltas sofridas,Marlon Freitas,1003,1,0,Botafogo
+29724,206470,7,Faltas sofridas,Matheus Nascimento,1003,1,0,Botafogo
+29725,206470,7,Faltas sofridas,Rafael,1003,1,0,Botafogo
+29726,206470,7,Faltas sofridas,Tchê Tchê,1003,1,0,Botafogo
+29727,206470,7,Faltas sofridas,Tiquinho Soares,1003,3,0,Botafogo
+29728,206470,7,Faltas sofridas,Víctor Cuesta,1003,1,0,Botafogo
+29729,206470,7,Faltas sofridas,Victor Sá,1003,2,0,Botafogo
+29730,206470,9,Impedimentos,Gustavo Gómez,1012,1,0,Palmeiras
+29731,206470,9,Impedimentos,Luan,1012,2,0,Palmeiras
+29732,206470,9,Impedimentos,Rony,1012,1,0,Palmeiras
+29733,206470,11,Pênaltis,Manuel López,1012,1,0,Palmeiras
+29734,206470,12,Perda da posse de bola,Artur,1012,8,0,Palmeiras
+29735,206470,12,Perda da posse de bola,Dudu,1012,10,0,Palmeiras
+29736,206470,12,Perda da posse de bola,Gustavo Gómez,1012,2,0,Palmeiras
+29737,206470,12,Perda da posse de bola,Luan,1012,1,0,Palmeiras
+29738,206470,12,Perda da posse de bola,Mayke,1012,1,0,Palmeiras
+29739,206470,12,Perda da posse de bola,Raphael Veiga,1012,4,0,Palmeiras
+29740,206470,12,Perda da posse de bola,Richard Ríos,1012,3,0,Palmeiras
+29741,206470,12,Perda da posse de bola,Rony,1012,1,0,Palmeiras
+29742,206470,12,Perda da posse de bola,Zé Rafael,1012,1,0,Palmeiras
+29743,206470,12,Perda da posse de bola,Danilo Barbosa,1003,2,0,Botafogo
+29744,206470,12,Perda da posse de bola,Eduardo,1003,3,0,Botafogo
+29745,206470,12,Perda da posse de bola,Hugo Neto,1003,2,0,Botafogo
+29746,206470,12,Perda da posse de bola,Júnior Santos,1003,3,0,Botafogo
+29747,206470,12,Perda da posse de bola,Leonel Di Placido,1003,1,0,Botafogo
+29748,206470,12,Perda da posse de bola,Luis Henrique,1003,1,0,Botafogo
+29749,206470,12,Perda da posse de bola,Matias Segovia,1003,1,0,Botafogo
+29750,206470,12,Perda da posse de bola,Rafael,1003,2,0,Botafogo
+29751,206470,12,Perda da posse de bola,Tchê Tchê,1003,1,0,Botafogo
+29752,206470,12,Perda da posse de bola,Tiquinho Soares,1003,6,0,Botafogo
+29753,206470,12,Perda da posse de bola,Víctor Cuesta,1003,1,0,Botafogo
+29754,206470,12,Perda da posse de bola,Victor Sá,1003,2,0,Botafogo
+29755,206470,12,Perda da posse de bola,Artur,1012,8,0,Palmeiras
+29756,206470,12,Perda da posse de bola,Dudu,1012,10,0,Palmeiras
+29757,206470,12,Perda da posse de bola,Gustavo Gómez,1012,2,0,Palmeiras
+29758,206470,12,Perda da posse de bola,Luan,1012,1,0,Palmeiras
+29759,206470,12,Perda da posse de bola,Mayke,1012,1,0,Palmeiras
+29760,206470,12,Perda da posse de bola,Raphael Veiga,1012,4,0,Palmeiras
+29761,206470,12,Perda da posse de bola,Richard Ríos,1012,3,0,Palmeiras
+29762,206470,12,Perda da posse de bola,Rony,1012,1,0,Palmeiras
+29763,206470,12,Perda da posse de bola,Zé Rafael,1012,1,0,Palmeiras
+29764,206470,12,Perda da posse de bola,Danilo Barbosa,1003,2,0,Botafogo
+29765,206470,12,Perda da posse de bola,Eduardo,1003,3,0,Botafogo
+29766,206470,12,Perda da posse de bola,Hugo Neto,1003,2,0,Botafogo
+29767,206470,12,Perda da posse de bola,Júnior Santos,1003,3,0,Botafogo
+29768,206470,12,Perda da posse de bola,Leonel Di Placido,1003,1,0,Botafogo
+29769,206470,12,Perda da posse de bola,Luis Henrique,1003,1,0,Botafogo
+29770,206470,12,Perda da posse de bola,Matias Segovia,1003,1,0,Botafogo
+29771,206470,12,Perda da posse de bola,Rafael,1003,2,0,Botafogo
+29772,206470,12,Perda da posse de bola,Tchê Tchê,1003,1,0,Botafogo
+29773,206470,12,Perda da posse de bola,Tiquinho Soares,1003,6,0,Botafogo
+29774,206470,12,Perda da posse de bola,Víctor Cuesta,1003,1,0,Botafogo
+29775,206470,12,Perda da posse de bola,Victor Sá,1003,2,0,Botafogo
+29776,206470,25,Cartões amarelos,Danilo Barbosa,1003,1,0,Botafogo
+29777,206470,25,Cartões amarelos,Matheus Nascimento,1003,1,0,Botafogo
+29778,206470,25,Cartões amarelos,Tchê Tchê,1003,1,0,Botafogo
+29779,206523,2,Passes,Ângelo,1011,8,1,Santos
+29780,206523,2,Passes,Bruno Mezenga,1011,4,0,Santos
+29781,206523,2,Passes,Dodi,1011,18,0,Santos
+29782,206523,2,Passes,Gabriel Inocêncio,1011,33,5,Santos
+29783,206523,2,Passes,João Paulo,1011,12,0,Santos
+29784,206523,2,Passes,Joaquim,1011,33,2,Santos
+29785,206523,2,Passes,Luan Dias,1011,13,0,Santos
+29786,206523,2,Passes,Lucas Barbosa,1011,5,2,Santos
+29787,206523,2,Passes,Lucas Lima,1011,9,1,Santos
+29788,206523,2,Passes,Lucas Pires,1011,37,2,Santos
+29789,206523,2,Passes,Marcos Leonardo,1011,11,3,Santos
+29790,206523,2,Passes,Messias,1011,18,0,Santos
+29791,206523,2,Passes,Rodrigo Fernández,1011,17,1,Santos
+29792,206523,2,Passes,Sandry,1011,19,1,Santos
+29793,206523,2,Passes,Soteldo,1011,10,0,Santos
+29794,206523,2,Passes,Stiven Mendoza,1011,23,2,Santos
+29795,206523,2,Passes,Arrascaeta,1005,13,4,Flamengo
+29796,206523,2,Passes,Ayrton Lucas,1005,71,8,Flamengo
+29797,206523,2,Passes,Bruno Henrique,1005,9,1,Flamengo
+29798,206523,2,Passes,Erick Pulgar,1005,72,7,Flamengo
+29799,206523,2,Passes,Everton,1005,26,6,Flamengo
+29800,206523,2,Passes,Everton Ribeiro,1005,37,6,Flamengo
+29801,206523,2,Passes,Fabrício Bruno,1005,65,0,Flamengo
+29802,206523,2,Passes,Filipe Luís,1005,7,0,Flamengo
+29803,206523,2,Passes,Gabriel,1005,31,2,Flamengo
+29804,206523,2,Passes,Gerson,1005,62,4,Flamengo
+29805,206523,2,Passes,Léo Pereira,1005,88,0,Flamengo
+29806,206523,2,Passes,Matheus Cunha,1005,35,0,Flamengo
+29807,206523,2,Passes,Pedro,1005,7,0,Flamengo
+29808,206523,2,Passes,Thiago Maia,1005,11,2,Flamengo
+29809,206523,2,Passes,Victor Hugo,1005,28,1,Flamengo
+29810,206523,2,Passes,Wesley,1005,50,6,Flamengo
+29811,206523,3,Finalizações,Lucas Pires,1011,2,0,Santos
+29812,206523,3,Finalizações,Marcos Leonardo,1011,0,3,Santos
+29813,206523,3,Finalizações,Messias,1011,1,0,Santos
+29814,206523,3,Finalizações,Rodrigo Fernández,1011,1,0,Santos
+29815,206523,3,Finalizações,Stiven Mendoza,1011,1,4,Santos
+29816,206523,3,Finalizações,Erick Pulgar,1005,1,1,Flamengo
+29817,206523,3,Finalizações,Everton,1005,2,1,Flamengo
+29818,206523,3,Finalizações,Everton Ribeiro,1005,1,1,Flamengo
+29819,206523,3,Finalizações,Fabrício Bruno,1005,0,1,Flamengo
+29820,206523,3,Finalizações,Gabriel,1005,0,1,Flamengo
+29821,206523,3,Finalizações,Pedro,1005,0,1,Flamengo
+29822,206523,5,Desarmes,Dodi,1011,1,0,Santos
+29823,206523,5,Desarmes,Gabriel Inocêncio,1011,3,0,Santos
+29824,206523,5,Desarmes,Luan Dias,1011,1,0,Santos
+29825,206523,5,Desarmes,Lucas Barbosa,1011,1,0,Santos
+29826,206523,5,Desarmes,Lucas Lima,1011,2,0,Santos
+29827,206523,5,Desarmes,Messias,1011,1,0,Santos
+29828,206523,5,Desarmes,Rodrigo Fernández,1011,1,1,Santos
+29829,206523,5,Desarmes,Sandry,1011,0,1,Santos
+29830,206523,5,Desarmes,Soteldo,1011,1,0,Santos
+29831,206523,5,Desarmes,Ayrton Lucas,1005,3,0,Flamengo
+29832,206523,5,Desarmes,Bruno Henrique,1005,1,1,Flamengo
+29833,206523,5,Desarmes,Erick Pulgar,1005,0,1,Flamengo
+29834,206523,5,Desarmes,Everton Ribeiro,1005,0,1,Flamengo
+29835,206523,5,Desarmes,Fabrício Bruno,1005,1,0,Flamengo
+29836,206523,5,Desarmes,Victor Hugo,1005,2,1,Flamengo
+29837,206523,5,Desarmes,Wesley,1005,2,2,Flamengo
+29838,206523,14,Cruzamentos,Bruno Mezenga,1011,0,1,Santos
+29839,206523,14,Cruzamentos,Gabriel Inocêncio,1011,0,1,Santos
+29840,206523,14,Cruzamentos,Luan Dias,1011,0,1,Santos
+29841,206523,14,Cruzamentos,Lucas Barbosa,1011,0,2,Santos
+29842,206523,14,Cruzamentos,Lucas Lima,1011,2,1,Santos
+29843,206523,14,Cruzamentos,Lucas Pires,1011,0,2,Santos
+29844,206523,14,Cruzamentos,Soteldo,1011,2,1,Santos
+29845,206523,14,Cruzamentos,Stiven Mendoza,1011,0,1,Santos
+29846,206523,14,Cruzamentos,Arrascaeta,1005,0,3,Flamengo
+29847,206523,14,Cruzamentos,Ayrton Lucas,1005,0,1,Flamengo
+29848,206523,14,Cruzamentos,Bruno Henrique,1005,0,1,Flamengo
+29849,206523,14,Cruzamentos,Everton,1005,1,7,Flamengo
+29850,206523,14,Cruzamentos,Everton Ribeiro,1005,0,3,Flamengo
+29851,206523,14,Cruzamentos,Fabrício Bruno,1005,0,1,Flamengo
+29852,206523,14,Cruzamentos,Gabriel,1005,0,2,Flamengo
+29853,206523,14,Cruzamentos,Gerson,1005,1,1,Flamengo
+29854,206523,14,Cruzamentos,Victor Hugo,1005,0,2,Flamengo
+29855,206523,14,Cruzamentos,Wesley,1005,0,3,Flamengo
+29856,206523,1,Lançamentos,Ângelo,1011,1,0,Santos
+29857,206523,1,Lançamentos,Gabriel Inocêncio,1011,0,2,Santos
+29858,206523,1,Lançamentos,João Paulo,1011,3,7,Santos
+29859,206523,1,Lançamentos,Joaquim,1011,3,5,Santos
+29860,206523,1,Lançamentos,Lucas Lima,1011,2,0,Santos
+29861,206523,1,Lançamentos,Lucas Pires,1011,2,3,Santos
+29862,206523,1,Lançamentos,Marcos Leonardo,1011,1,1,Santos
+29863,206523,1,Lançamentos,Messias,1011,0,2,Santos
+29864,206523,1,Lançamentos,Rodrigo Fernández,1011,0,2,Santos
+29865,206523,1,Lançamentos,Sandry,1011,2,1,Santos
+29866,206523,1,Lançamentos,Ayrton Lucas,1005,1,0,Flamengo
+29867,206523,1,Lançamentos,Erick Pulgar,1005,2,1,Flamengo
+29868,206523,1,Lançamentos,Everton,1005,0,1,Flamengo
+29869,206523,1,Lançamentos,Fabrício Bruno,1005,2,3,Flamengo
+29870,206523,1,Lançamentos,Léo Pereira,1005,5,2,Flamengo
+29871,206523,1,Lançamentos,Matheus Cunha,1005,6,9,Flamengo
+29872,206523,1,Lançamentos,Thiago Maia,1005,0,1,Flamengo
+29873,206523,24,Interceptações,Luan Dias,1011,1,0,Santos
+29874,206523,24,Interceptações,Messias,1011,1,0,Santos
+29875,206523,24,Interceptações,Ayrton Lucas,1005,1,1,Flamengo
+29876,206523,24,Interceptações,Erick Pulgar,1005,1,0,Flamengo
+29877,206523,24,Interceptações,Everton Ribeiro,1005,0,1,Flamengo
+29878,206523,24,Interceptações,Fabrício Bruno,1005,1,0,Flamengo
+29879,206523,24,Interceptações,Wesley,1005,1,0,Flamengo
+29880,206523,4,Dribles,Ângelo,1011,1,0,Santos
+29881,206523,4,Dribles,Gabriel Inocêncio,1011,3,0,Santos
+29882,206523,4,Dribles,Lucas Pires,1011,1,0,Santos
+29883,206523,4,Dribles,Marcos Leonardo,1011,2,0,Santos
+29884,206523,4,Dribles,Soteldo,1011,0,1,Santos
+29885,206523,4,Dribles,Arrascaeta,1005,1,0,Flamengo
+29886,206523,4,Dribles,Bruno Henrique,1005,2,0,Flamengo
+29887,206523,4,Dribles,Everton Ribeiro,1005,1,0,Flamengo
+29888,206523,4,Dribles,Gerson,1005,2,0,Flamengo
+29889,206523,4,Dribles,Victor Hugo,1005,2,0,Flamengo
+29890,206523,22,Viradas de jogo,Dodi,1011,1,0,Santos
+29891,206523,22,Viradas de jogo,Rodrigo Fernández,1011,1,0,Santos
+29892,206523,22,Viradas de jogo,Sandry,1011,3,0,Santos
+29893,206523,22,Viradas de jogo,Everton Ribeiro,1005,0,1,Flamengo
+29894,206523,22,Viradas de jogo,Fabrício Bruno,1005,1,0,Flamengo
+29895,206523,22,Viradas de jogo,Gerson,1005,1,0,Flamengo
+29896,206523,22,Viradas de jogo,Wesley,1005,1,0,Flamengo
+29897,206523,20,Posse de bola,Ângelo,1011,53,0,Santos
+29898,206523,20,Posse de bola,Bruno Mezenga,1011,16,0,Santos
+29899,206523,20,Posse de bola,Dodi,1011,51,0,Santos
+29900,206523,20,Posse de bola,Gabriel Inocêncio,1011,144,0,Santos
+29901,206523,20,Posse de bola,João Paulo,1011,95,0,Santos
+29902,206523,20,Posse de bola,Joaquim,1011,133,0,Santos
+29903,206523,20,Posse de bola,Luan Dias,1011,47,0,Santos
+29904,206523,20,Posse de bola,Lucas Barbosa,1011,30,0,Santos
+29905,206523,20,Posse de bola,Lucas Lima,1011,59,0,Santos
+29906,206523,20,Posse de bola,Lucas Pires,1011,159,0,Santos
+29907,206523,20,Posse de bola,Marcos Leonardo,1011,66,0,Santos
+29908,206523,20,Posse de bola,Messias,1011,80,0,Santos
+29909,206523,20,Posse de bola,Rodrigo Fernández,1011,77,0,Santos
+29910,206523,20,Posse de bola,Sandry,1011,68,0,Santos
+29911,206523,20,Posse de bola,Soteldo,1011,75,0,Santos
+29912,206523,20,Posse de bola,Stiven Mendoza,1011,94,0,Santos
+29913,206523,20,Posse de bola,Arrascaeta,1005,66,0,Flamengo
+29914,206523,20,Posse de bola,Ayrton Lucas,1005,223,0,Flamengo
+29915,206523,20,Posse de bola,Bruno Henrique,1005,46,0,Flamengo
+29916,206523,20,Posse de bola,Erick Pulgar,1005,197,0,Flamengo
+29917,206523,20,Posse de bola,Everton,1005,122,0,Flamengo
+29918,206523,20,Posse de bola,Everton Ribeiro,1005,122,0,Flamengo
+29919,206523,20,Posse de bola,Fabrício Bruno,1005,236,0,Flamengo
+29920,206523,20,Posse de bola,Filipe Luís,1005,16,0,Flamengo
+29921,206523,20,Posse de bola,Gabriel,1005,90,0,Flamengo
+29922,206523,20,Posse de bola,Gerson,1005,174,0,Flamengo
+29923,206523,20,Posse de bola,Léo Pereira,1005,234,0,Flamengo
+29924,206523,20,Posse de bola,Matheus Cunha,1005,204,0,Flamengo
+29925,206523,20,Posse de bola,Pedro,1005,16,0,Flamengo
+29926,206523,20,Posse de bola,Thiago Maia,1005,30,0,Flamengo
+29927,206523,20,Posse de bola,Victor Hugo,1005,101,0,Flamengo
+29928,206523,20,Posse de bola,Wesley,1005,161,0,Flamengo
+29929,206523,8,Gols,Rodrigo Fernández,1011,1,0,Santos
+29930,206523,8,Gols,Stiven Mendoza,1011,1,0,Santos
+29931,206523,8,Gols,Erick Pulgar,1005,1,0,Flamengo
+29932,206523,8,Gols,Everton,1005,1,0,Flamengo
+29933,206523,8,Gols,Everton Ribeiro,1005,1,0,Flamengo
+29934,206523,28,Assistências para finalização,Ângelo,1011,1,0,Santos
+29935,206523,28,Assistências para finalização,Lucas Lima,1011,1,0,Santos
+29936,206523,28,Assistências para finalização,Soteldo,1011,1,0,Santos
+29937,206523,28,Assistências para finalização,Stiven Mendoza,1011,2,0,Santos
+29938,206523,28,Assistências para finalização,Bruno Henrique,1005,1,0,Flamengo
+29939,206523,28,Assistências para finalização,Everton,1005,2,0,Flamengo
+29940,206523,28,Assistências para finalização,Victor Hugo,1005,1,0,Flamengo
+29941,206523,27,Assistências,Soteldo,1011,1,0,Santos
+29942,206523,27,Assistências,Gerson,1005,2,0,Flamengo
+29943,206523,15,Defesas,João Paulo,1011,1,0,Santos
+29944,206523,15,Defesas,Joaquim,1011,1,0,Santos
+29945,206523,15,Defesas,Lucas Lima,1011,1,0,Santos
+29946,206523,15,Defesas,Lucas Pires,1011,2,0,Santos
+29947,206523,15,Defesas,Messias,1011,1,0,Santos
+29948,206523,15,Defesas,Fabrício Bruno,1005,1,0,Flamengo
+29949,206523,15,Defesas,Léo Pereira,1005,1,0,Flamengo
+29950,206523,15,Defesas,Matheus Cunha,1005,3,0,Flamengo
+29951,206523,19,Rebatidas,Gabriel Inocêncio,1011,13,0,Santos
+29952,206523,19,Rebatidas,João Paulo,1011,1,0,Santos
+29953,206523,19,Rebatidas,Joaquim,1011,11,0,Santos
+29954,206523,19,Rebatidas,Lucas Barbosa,1011,1,0,Santos
+29955,206523,19,Rebatidas,Lucas Pires,1011,4,0,Santos
+29956,206523,19,Rebatidas,Marcos Leonardo,1011,2,0,Santos
+29957,206523,19,Rebatidas,Messias,1011,11,0,Santos
+29958,206523,19,Rebatidas,Rodrigo Fernández,1011,1,0,Santos
+29959,206523,19,Rebatidas,Stiven Mendoza,1011,1,0,Santos
+29960,206523,19,Rebatidas,Ayrton Lucas,1005,4,0,Flamengo
+29961,206523,19,Rebatidas,Fabrício Bruno,1005,7,0,Flamengo
+29962,206523,19,Rebatidas,Filipe Luís,1005,1,0,Flamengo
+29963,206523,19,Rebatidas,Gerson,1005,2,0,Flamengo
+29964,206523,19,Rebatidas,Léo Pereira,1005,2,0,Flamengo
+29965,206523,19,Rebatidas,Matheus Cunha,1005,1,0,Flamengo
+29966,206523,19,Rebatidas,Wesley,1005,1,0,Flamengo
+29967,206523,6,Faltas cometidas,Bruno Mezenga,1011,1,0,Santos
+29968,206523,6,Faltas cometidas,Dodi,1011,2,0,Santos
+29969,206523,6,Faltas cometidas,Gabriel Inocêncio,1011,1,0,Santos
+29970,206523,6,Faltas cometidas,Joaquim,1011,1,0,Santos
+29971,206523,6,Faltas cometidas,Luan Dias,1011,1,0,Santos
+29972,206523,6,Faltas cometidas,Lucas Barbosa,1011,1,0,Santos
+29973,206523,6,Faltas cometidas,Lucas Pires,1011,2,0,Santos
+29974,206523,6,Faltas cometidas,Marcos Leonardo,1011,1,0,Santos
+29975,206523,6,Faltas cometidas,Rodrigo Fernández,1011,4,0,Santos
+29976,206523,6,Faltas cometidas,Arrascaeta,1005,2,0,Flamengo
+29977,206523,6,Faltas cometidas,Erick Pulgar,1005,2,0,Flamengo
+29978,206523,6,Faltas cometidas,Everton,1005,2,0,Flamengo
+29979,206523,6,Faltas cometidas,Gerson,1005,1,0,Flamengo
+29980,206523,6,Faltas cometidas,Thiago Maia,1005,1,0,Flamengo
+29981,206523,6,Faltas cometidas,Victor Hugo,1005,1,0,Flamengo
+29982,206523,6,Faltas cometidas,Wesley,1005,2,0,Flamengo
+29983,206523,7,Faltas sofridas,Ângelo,1011,2,0,Santos
+29984,206523,7,Faltas sofridas,Lucas Lima,1011,1,0,Santos
+29985,206523,7,Faltas sofridas,Rodrigo Fernández,1011,2,0,Santos
+29986,206523,7,Faltas sofridas,Sandry,1011,1,0,Santos
+29987,206523,7,Faltas sofridas,Soteldo,1011,1,0,Santos
+29988,206523,7,Faltas sofridas,Stiven Mendoza,1011,3,0,Santos
+29989,206523,7,Faltas sofridas,Arrascaeta,1005,2,0,Flamengo
+29990,206523,7,Faltas sofridas,Everton,1005,1,0,Flamengo
+29991,206523,7,Faltas sofridas,Gabriel,1005,1,0,Flamengo
+29992,206523,7,Faltas sofridas,Gerson,1005,5,0,Flamengo
+29993,206523,7,Faltas sofridas,Léo Pereira,1005,2,0,Flamengo
+29994,206523,7,Faltas sofridas,Victor Hugo,1005,1,0,Flamengo
+29995,206523,7,Faltas sofridas,Wesley,1005,2,0,Flamengo
+29996,206523,9,Impedimentos,Lucas Lima,1011,2,0,Santos
+29997,206523,9,Impedimentos,Arrascaeta,1005,1,0,Flamengo
+29998,206523,12,Perda da posse de bola,Ângelo,1011,3,0,Santos
+29999,206523,12,Perda da posse de bola,Bruno Mezenga,1011,1,0,Santos
+30000,206523,12,Perda da posse de bola,Lucas Lima,1011,2,0,Santos
+30001,206523,12,Perda da posse de bola,Lucas Pires,1011,3,0,Santos
+30002,206523,12,Perda da posse de bola,Marcos Leonardo,1011,6,0,Santos
+30003,206523,12,Perda da posse de bola,Rodrigo Fernández,1011,2,0,Santos
+30004,206523,12,Perda da posse de bola,Soteldo,1011,7,0,Santos
+30005,206523,12,Perda da posse de bola,Stiven Mendoza,1011,6,0,Santos
+30006,206523,12,Perda da posse de bola,Arrascaeta,1005,2,0,Flamengo
+30007,206523,12,Perda da posse de bola,Ayrton Lucas,1005,3,0,Flamengo
+30008,206523,12,Perda da posse de bola,Bruno Henrique,1005,2,0,Flamengo
+30009,206523,12,Perda da posse de bola,Erick Pulgar,1005,2,0,Flamengo
+30010,206523,12,Perda da posse de bola,Everton,1005,4,0,Flamengo
+30011,206523,12,Perda da posse de bola,Everton Ribeiro,1005,1,0,Flamengo
+30012,206523,12,Perda da posse de bola,Gabriel,1005,2,0,Flamengo
+30013,206523,12,Perda da posse de bola,Gerson,1005,4,0,Flamengo
+30014,206523,12,Perda da posse de bola,Léo Pereira,1005,1,0,Flamengo
+30015,206523,12,Perda da posse de bola,Victor Hugo,1005,4,0,Flamengo
+30016,206523,12,Perda da posse de bola,Wesley,1005,5,0,Flamengo
+30017,206523,25,Cartões amarelos,Luan Dias,1011,1,0,Santos
+30018,206523,25,Cartões amarelos,Lucas Pires,1011,1,0,Santos
+30019,206523,25,Cartões amarelos,Erick Pulgar,1005,1,0,Flamengo
+30020,206550,2,Passes,Aderlan,1055,16,2,Red Bull Bragantino
+30021,206550,2,Passes,Cleiton,1055,12,0,Red Bull Bragantino
+30022,206550,2,Passes,Eduardo,1055,35,1,Red Bull Bragantino
+30023,206550,2,Passes,Eduardo Sasha,1055,12,2,Red Bull Bragantino
+30024,206550,2,Passes,Eric Ramires,1055,17,1,Red Bull Bragantino
+30025,206550,2,Passes,Guilherme Lopes,1055,9,0,Red Bull Bragantino
+30026,206550,2,Passes,Gustavinho,1055,14,2,Red Bull Bragantino
+30027,206550,2,Passes,Jadsom Silva,1055,31,6,Red Bull Bragantino
+30028,206550,2,Passes,Juninho Capixaba,1055,53,2,Red Bull Bragantino
+30029,206550,2,Passes,Luan Patrick,1055,40,3,Red Bull Bragantino
+30030,206550,2,Passes,Lucas Evangelista,1055,40,5,Red Bull Bragantino
+30031,206550,2,Passes,Matheus Fernandes,1055,30,3,Red Bull Bragantino
+30032,206550,2,Passes,Nathan,1055,4,0,Red Bull Bragantino
+30033,206550,2,Passes,Sorriso,1055,20,2,Red Bull Bragantino
+30034,206550,2,Passes,Thiago Borbas ,1055,8,3,Red Bull Bragantino
+30035,206550,2,Passes,Vitinho,1055,27,6,Red Bull Bragantino
+30036,206550,2,Passes,Alesson,1014,2,0,Goiás
+30037,206550,2,Passes,Apodi,1014,0,1,Goiás
+30038,206550,2,Passes,Bruno,1014,11,2,Goiás
+30039,206550,2,Passes,Bruno Melo,1014,31,1,Goiás
+30040,206550,2,Passes,Dodô,1014,7,0,Goiás
+30041,206550,2,Passes,Everton Morelli,1014,15,3,Goiás
+30042,206550,2,Passes,Guilherme,1014,18,7,Goiás
+30043,206550,2,Passes,Julián Palacios,1014,11,3,Goiás
+30044,206550,2,Passes,Lucão,1014,2,0,Goiás
+30045,206550,2,Passes,Lucas Halter,1014,28,4,Goiás
+30046,206550,2,Passes,Maguinho,1014,14,2,Goiás
+30047,206550,2,Passes,Matheus Peixoto,1014,5,3,Goiás
+30048,206550,2,Passes,Matheusinho,1014,3,2,Goiás
+30049,206550,2,Passes,Sander,1014,23,4,Goiás
+30050,206550,2,Passes,Tadeu,1014,16,0,Goiás
+30051,206550,2,Passes,Zé Ricardo,1014,27,6,Goiás
+30052,206550,3,Finalizações,Eduardo,1055,1,1,Red Bull Bragantino
+30053,206550,3,Finalizações,Eduardo Sasha,1055,3,0,Red Bull Bragantino
+30054,206550,3,Finalizações,Lucas Evangelista,1055,2,4,Red Bull Bragantino
+30055,206550,3,Finalizações,Sorriso,1055,1,2,Red Bull Bragantino
+30056,206550,3,Finalizações,Thiago Borbas ,1055,1,1,Red Bull Bragantino
+30057,206550,3,Finalizações,Vitinho,1055,0,4,Red Bull Bragantino
+30058,206550,3,Finalizações,Dodô,1014,0,1,Goiás
+30059,206550,3,Finalizações,Guilherme,1014,0,1,Goiás
+30060,206550,3,Finalizações,Matheusinho,1014,0,1,Goiás
+30061,206550,5,Desarmes,Aderlan,1055,1,0,Red Bull Bragantino
+30062,206550,5,Desarmes,Eduardo Sasha,1055,0,1,Red Bull Bragantino
+30063,206550,5,Desarmes,Eric Ramires,1055,1,0,Red Bull Bragantino
+30064,206550,5,Desarmes,Guilherme Lopes,1055,0,1,Red Bull Bragantino
+30065,206550,5,Desarmes,Gustavinho,1055,1,0,Red Bull Bragantino
+30066,206550,5,Desarmes,Jadsom Silva,1055,1,0,Red Bull Bragantino
+30067,206550,5,Desarmes,Juninho Capixaba,1055,1,0,Red Bull Bragantino
+30068,206550,5,Desarmes,Lucas Evangelista,1055,1,0,Red Bull Bragantino
+30069,206550,5,Desarmes,Matheus Fernandes,1055,0,1,Red Bull Bragantino
+30070,206550,5,Desarmes,Sorriso,1055,2,0,Red Bull Bragantino
+30071,206550,5,Desarmes,Apodi,1014,2,0,Goiás
+30072,206550,5,Desarmes,Bruno,1014,1,2,Goiás
+30073,206550,5,Desarmes,Everton Morelli,1014,1,0,Goiás
+30074,206550,5,Desarmes,Guilherme,1014,1,1,Goiás
+30075,206550,5,Desarmes,Maguinho,1014,1,0,Goiás
+30076,206550,5,Desarmes,Matheusinho,1014,1,0,Goiás
+30077,206550,5,Desarmes,Zé Ricardo,1014,4,0,Goiás
+30078,206550,14,Cruzamentos,Aderlan,1055,0,1,Red Bull Bragantino
+30079,206550,14,Cruzamentos,Eduardo Sasha,1055,0,1,Red Bull Bragantino
+30080,206550,14,Cruzamentos,Eric Ramires,1055,2,0,Red Bull Bragantino
+30081,206550,14,Cruzamentos,Guilherme Lopes,1055,0,2,Red Bull Bragantino
+30082,206550,14,Cruzamentos,Gustavinho,1055,0,2,Red Bull Bragantino
+30083,206550,14,Cruzamentos,Juninho Capixaba,1055,1,3,Red Bull Bragantino
+30084,206550,14,Cruzamentos,Lucas Evangelista,1055,3,10,Red Bull Bragantino
+30085,206550,14,Cruzamentos,Sorriso,1055,0,4,Red Bull Bragantino
+30086,206550,14,Cruzamentos,Vitinho,1055,2,3,Red Bull Bragantino
+30087,206550,14,Cruzamentos,Dodô,1014,1,0,Goiás
+30088,206550,14,Cruzamentos,Guilherme,1014,1,2,Goiás
+30089,206550,14,Cruzamentos,Julián Palacios,1014,1,1,Goiás
+30090,206550,14,Cruzamentos,Maguinho,1014,0,1,Goiás
+30091,206550,14,Cruzamentos,Matheus Peixoto,1014,0,1,Goiás
+30092,206550,14,Cruzamentos,Sander,1014,0,1,Goiás
+30093,206550,1,Lançamentos,Aderlan,1055,1,0,Red Bull Bragantino
+30094,206550,1,Lançamentos,Cleiton,1055,6,7,Red Bull Bragantino
+30095,206550,1,Lançamentos,Eduardo,1055,1,2,Red Bull Bragantino
+30096,206550,1,Lançamentos,Gustavinho,1055,0,1,Red Bull Bragantino
+30097,206550,1,Lançamentos,Jadsom Silva,1055,2,2,Red Bull Bragantino
+30098,206550,1,Lançamentos,Juninho Capixaba,1055,4,1,Red Bull Bragantino
+30099,206550,1,Lançamentos,Luan Patrick,1055,4,3,Red Bull Bragantino
+30100,206550,1,Lançamentos,Lucas Evangelista,1055,1,0,Red Bull Bragantino
+30101,206550,1,Lançamentos,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30102,206550,1,Lançamentos,Nathan,1055,0,1,Red Bull Bragantino
+30103,206550,1,Lançamentos,Sorriso,1055,0,1,Red Bull Bragantino
+30104,206550,1,Lançamentos,Bruno Melo,1014,2,3,Goiás
+30105,206550,1,Lançamentos,Everton Morelli,1014,1,0,Goiás
+30106,206550,1,Lançamentos,Julián Palacios,1014,0,1,Goiás
+30107,206550,1,Lançamentos,Lucas Halter,1014,2,4,Goiás
+30108,206550,1,Lançamentos,Sander,1014,0,2,Goiás
+30109,206550,1,Lançamentos,Tadeu,1014,6,15,Goiás
+30110,206550,1,Lançamentos,Zé Ricardo,1014,6,2,Goiás
+30111,206550,24,Interceptações,Aderlan,1055,0,1,Red Bull Bragantino
+30112,206550,24,Interceptações,Eduardo Sasha,1055,1,0,Red Bull Bragantino
+30113,206550,24,Interceptações,Juninho Capixaba,1055,1,0,Red Bull Bragantino
+30114,206550,24,Interceptações,Lucas Evangelista,1055,1,0,Red Bull Bragantino
+30115,206550,24,Interceptações,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30116,206550,24,Interceptações,Sorriso,1055,0,1,Red Bull Bragantino
+30117,206550,24,Interceptações,Bruno,1014,1,2,Goiás
+30118,206550,24,Interceptações,Guilherme,1014,1,0,Goiás
+30119,206550,24,Interceptações,Lucas Halter,1014,0,1,Goiás
+30120,206550,24,Interceptações,Zé Ricardo,1014,3,0,Goiás
+30121,206550,4,Dribles,Eduardo,1055,1,0,Red Bull Bragantino
+30122,206550,4,Dribles,Lucas Evangelista,1055,0,1,Red Bull Bragantino
+30123,206550,4,Dribles,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30124,206550,4,Dribles,Vitinho,1055,1,0,Red Bull Bragantino
+30125,206550,4,Dribles,Bruno,1014,0,1,Goiás
+30126,206550,4,Dribles,Dodô,1014,1,0,Goiás
+30127,206550,4,Dribles,Guilherme,1014,1,0,Goiás
+30128,206550,4,Dribles,Matheusinho,1014,2,1,Goiás
+30129,206550,22,Viradas de jogo,Eduardo Sasha,1055,1,0,Red Bull Bragantino
+30130,206550,22,Viradas de jogo,Guilherme Lopes,1055,0,1,Red Bull Bragantino
+30131,206550,22,Viradas de jogo,Juninho Capixaba,1055,3,0,Red Bull Bragantino
+30132,206550,22,Viradas de jogo,Luan Patrick,1055,1,0,Red Bull Bragantino
+30133,206550,22,Viradas de jogo,Lucas Evangelista,1055,1,0,Red Bull Bragantino
+30134,206550,22,Viradas de jogo,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30135,206550,22,Viradas de jogo,Sorriso,1055,1,0,Red Bull Bragantino
+30136,206550,22,Viradas de jogo,Guilherme,1014,1,0,Goiás
+30137,206550,22,Viradas de jogo,Lucas Halter,1014,1,0,Goiás
+30138,206550,22,Viradas de jogo,Matheus Peixoto,1014,1,0,Goiás
+30139,206550,20,Posse de bola,Aderlan,1055,59,0,Red Bull Bragantino
+30140,206550,20,Posse de bola,Cleiton,1055,116,0,Red Bull Bragantino
+30141,206550,20,Posse de bola,Eduardo,1055,117,0,Red Bull Bragantino
+30142,206550,20,Posse de bola,Eduardo Sasha,1055,63,0,Red Bull Bragantino
+30143,206550,20,Posse de bola,Eric Ramires,1055,55,0,Red Bull Bragantino
+30144,206550,20,Posse de bola,Guilherme Lopes,1055,30,0,Red Bull Bragantino
+30145,206550,20,Posse de bola,Gustavinho,1055,50,0,Red Bull Bragantino
+30146,206550,20,Posse de bola,Jadsom Silva,1055,105,0,Red Bull Bragantino
+30147,206550,20,Posse de bola,Juninho Capixaba,1055,169,0,Red Bull Bragantino
+30148,206550,20,Posse de bola,Luan Patrick,1055,145,0,Red Bull Bragantino
+30149,206550,20,Posse de bola,Lucas Evangelista,1055,161,0,Red Bull Bragantino
+30150,206550,20,Posse de bola,Matheus Fernandes,1055,86,0,Red Bull Bragantino
+30151,206550,20,Posse de bola,Nathan,1055,12,0,Red Bull Bragantino
+30152,206550,20,Posse de bola,Sorriso,1055,109,0,Red Bull Bragantino
+30153,206550,20,Posse de bola,Thiago Borbas ,1055,38,0,Red Bull Bragantino
+30154,206550,20,Posse de bola,Vitinho,1055,160,0,Red Bull Bragantino
+30155,206550,20,Posse de bola,Alesson,1014,16,0,Goiás
+30156,206550,20,Posse de bola,Apodi,1014,12,0,Goiás
+30157,206550,20,Posse de bola,Bruno,1014,48,0,Goiás
+30158,206550,20,Posse de bola,Bruno Melo,1014,111,0,Goiás
+30159,206550,20,Posse de bola,Dodô,1014,32,0,Goiás
+30160,206550,20,Posse de bola,Everton Morelli,1014,67,0,Goiás
+30161,206550,20,Posse de bola,Guilherme,1014,92,0,Goiás
+30162,206550,20,Posse de bola,Julián Palacios,1014,50,0,Goiás
+30163,206550,20,Posse de bola,Lucão,1014,12,0,Goiás
+30164,206550,20,Posse de bola,Lucas Halter,1014,129,0,Goiás
+30165,206550,20,Posse de bola,Maguinho,1014,54,0,Goiás
+30166,206550,20,Posse de bola,Matheus Peixoto,1014,40,0,Goiás
+30167,206550,20,Posse de bola,Matheusinho,1014,30,0,Goiás
+30168,206550,20,Posse de bola,Sander,1014,91,0,Goiás
+30169,206550,20,Posse de bola,Tadeu,1014,119,0,Goiás
+30170,206550,20,Posse de bola,Zé Ricardo,1014,128,0,Goiás
+30171,206550,8,Gols,Eduardo Sasha,1055,1,0,Red Bull Bragantino
+30172,206550,8,Gols,Sorriso,1055,1,0,Red Bull Bragantino
+30173,206550,28,Assistências para finalização,Eduardo Sasha,1055,1,0,Red Bull Bragantino
+30174,206550,28,Assistências para finalização,Eric Ramires,1055,2,0,Red Bull Bragantino
+30175,206550,28,Assistências para finalização,Juninho Capixaba,1055,4,0,Red Bull Bragantino
+30176,206550,28,Assistências para finalização,Luan Patrick,1055,1,0,Red Bull Bragantino
+30177,206550,28,Assistências para finalização,Lucas Evangelista,1055,2,0,Red Bull Bragantino
+30178,206550,28,Assistências para finalização,Matheus Fernandes,1055,2,0,Red Bull Bragantino
+30179,206550,28,Assistências para finalização,Nathan,1055,1,0,Red Bull Bragantino
+30180,206550,28,Assistências para finalização,Julián Palacios,1014,2,0,Goiás
+30181,206550,27,Assistências,Eric Ramires,1055,1,0,Red Bull Bragantino
+30182,206550,27,Assistências,Vitinho,1055,1,0,Red Bull Bragantino
+30183,206550,15,Defesas,Eduardo,1055,1,0,Red Bull Bragantino
+30184,206550,15,Defesas,Gustavinho,1055,1,0,Red Bull Bragantino
+30185,206550,15,Defesas,Juninho Capixaba,1055,1,0,Red Bull Bragantino
+30186,206550,15,Defesas,Everton Morelli,1014,1,0,Goiás
+30187,206550,15,Defesas,Lucas Halter,1014,1,0,Goiás
+30188,206550,15,Defesas,Tadeu,1014,3,0,Goiás
+30189,206550,15,Defesas,Zé Ricardo,1014,1,0,Goiás
+30190,206550,15,Defesas,Eduardo,1055,1,0,Red Bull Bragantino
+30191,206550,15,Defesas,Gustavinho,1055,1,0,Red Bull Bragantino
+30192,206550,15,Defesas,Juninho Capixaba,1055,1,0,Red Bull Bragantino
+30193,206550,15,Defesas,Everton Morelli,1014,1,0,Goiás
+30194,206550,15,Defesas,Lucas Halter,1014,1,0,Goiás
+30195,206550,15,Defesas,Tadeu,1014,3,0,Goiás
+30196,206550,15,Defesas,Zé Ricardo,1014,1,0,Goiás
+30197,206550,23,Defesas difíceis,Tadeu,1014,1,0,Goiás
+30198,206550,19,Rebatidas,Aderlan,1055,3,0,Red Bull Bragantino
+30199,206550,19,Rebatidas,Eduardo,1055,5,0,Red Bull Bragantino
+30200,206550,19,Rebatidas,Guilherme Lopes,1055,1,0,Red Bull Bragantino
+30201,206550,19,Rebatidas,Gustavinho,1055,1,0,Red Bull Bragantino
+30202,206550,19,Rebatidas,Jadsom Silva,1055,3,0,Red Bull Bragantino
+30203,206550,19,Rebatidas,Juninho Capixaba,1055,5,0,Red Bull Bragantino
+30204,206550,19,Rebatidas,Luan Patrick,1055,6,0,Red Bull Bragantino
+30205,206550,19,Rebatidas,Matheus Fernandes,1055,2,0,Red Bull Bragantino
+30206,206550,19,Rebatidas,Apodi,1014,2,0,Goiás
+30207,206550,19,Rebatidas,Bruno,1014,2,0,Goiás
+30208,206550,19,Rebatidas,Bruno Melo,1014,11,0,Goiás
+30209,206550,19,Rebatidas,Dodô,1014,2,0,Goiás
+30210,206550,19,Rebatidas,Everton Morelli,1014,3,0,Goiás
+30211,206550,19,Rebatidas,Guilherme,1014,3,0,Goiás
+30212,206550,19,Rebatidas,Lucão,1014,1,0,Goiás
+30213,206550,19,Rebatidas,Lucas Halter,1014,14,0,Goiás
+30214,206550,19,Rebatidas,Maguinho,1014,5,0,Goiás
+30215,206550,19,Rebatidas,Matheus Peixoto,1014,3,0,Goiás
+30216,206550,19,Rebatidas,Matheusinho,1014,1,0,Goiás
+30217,206550,19,Rebatidas,Sander,1014,5,0,Goiás
+30218,206550,19,Rebatidas,Tadeu,1014,1,0,Goiás
+30219,206550,19,Rebatidas,Zé Ricardo,1014,1,0,Goiás
+30220,206550,6,Faltas cometidas,Aderlan,1055,1,0,Red Bull Bragantino
+30221,206550,6,Faltas cometidas,Eduardo,1055,3,0,Red Bull Bragantino
+30222,206550,6,Faltas cometidas,Eduardo Sasha,1055,2,0,Red Bull Bragantino
+30223,206550,6,Faltas cometidas,Gustavinho,1055,1,0,Red Bull Bragantino
+30224,206550,6,Faltas cometidas,Luan Patrick,1055,1,0,Red Bull Bragantino
+30225,206550,6,Faltas cometidas,Lucas Evangelista,1055,1,0,Red Bull Bragantino
+30226,206550,6,Faltas cometidas,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30227,206550,6,Faltas cometidas,Sorriso,1055,3,0,Red Bull Bragantino
+30228,206550,6,Faltas cometidas,Thiago Borbas ,1055,3,0,Red Bull Bragantino
+30229,206550,6,Faltas cometidas,Vitinho,1055,1,0,Red Bull Bragantino
+30230,206550,6,Faltas cometidas,Bruno,1014,1,0,Goiás
+30231,206550,6,Faltas cometidas,Bruno Melo,1014,1,0,Goiás
+30232,206550,6,Faltas cometidas,Everton Morelli,1014,1,0,Goiás
+30233,206550,6,Faltas cometidas,Guilherme,1014,4,0,Goiás
+30234,206550,6,Faltas cometidas,Julián Palacios,1014,3,0,Goiás
+30235,206550,6,Faltas cometidas,Lucão,1014,1,0,Goiás
+30236,206550,6,Faltas cometidas,Lucas Halter,1014,2,0,Goiás
+30237,206550,6,Faltas cometidas,Maguinho,1014,4,0,Goiás
+30238,206550,6,Faltas cometidas,Matheus Peixoto,1014,4,0,Goiás
+30239,206550,6,Faltas cometidas,Sander,1014,1,0,Goiás
+30240,206550,6,Faltas cometidas,Zé Ricardo,1014,2,0,Goiás
+30241,206550,7,Faltas sofridas,Aderlan,1055,1,0,Red Bull Bragantino
+30242,206550,7,Faltas sofridas,Eduardo,1055,3,0,Red Bull Bragantino
+30243,206550,7,Faltas sofridas,Eduardo Sasha,1055,2,0,Red Bull Bragantino
+30244,206550,7,Faltas sofridas,Gustavinho,1055,1,0,Red Bull Bragantino
+30245,206550,7,Faltas sofridas,Jadsom Silva,1055,1,0,Red Bull Bragantino
+30246,206550,7,Faltas sofridas,Lucas Evangelista,1055,4,0,Red Bull Bragantino
+30247,206550,7,Faltas sofridas,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30248,206550,7,Faltas sofridas,Nathan,1055,1,0,Red Bull Bragantino
+30249,206550,7,Faltas sofridas,Sorriso,1055,3,0,Red Bull Bragantino
+30250,206550,7,Faltas sofridas,Vitinho,1055,5,0,Red Bull Bragantino
+30251,206550,7,Faltas sofridas,Bruno,1014,1,0,Goiás
+30252,206550,7,Faltas sofridas,Bruno Melo,1014,1,0,Goiás
+30253,206550,7,Faltas sofridas,Everton Morelli,1014,1,0,Goiás
+30254,206550,7,Faltas sofridas,Guilherme,1014,1,0,Goiás
+30255,206550,7,Faltas sofridas,Julián Palacios,1014,1,0,Goiás
+30256,206550,7,Faltas sofridas,Matheus Peixoto,1014,3,0,Goiás
+30257,206550,7,Faltas sofridas,Matheusinho,1014,1,0,Goiás
+30258,206550,7,Faltas sofridas,Sander,1014,4,0,Goiás
+30259,206550,7,Faltas sofridas,Tadeu,1014,1,0,Goiás
+30260,206550,7,Faltas sofridas,Zé Ricardo,1014,3,0,Goiás
+30261,206550,7,Faltas sofridas,Aderlan,1055,1,0,Red Bull Bragantino
+30262,206550,7,Faltas sofridas,Eduardo,1055,3,0,Red Bull Bragantino
+30263,206550,7,Faltas sofridas,Eduardo Sasha,1055,2,0,Red Bull Bragantino
+30264,206550,7,Faltas sofridas,Gustavinho,1055,1,0,Red Bull Bragantino
+30265,206550,7,Faltas sofridas,Jadsom Silva,1055,1,0,Red Bull Bragantino
+30266,206550,7,Faltas sofridas,Lucas Evangelista,1055,4,0,Red Bull Bragantino
+30267,206550,7,Faltas sofridas,Matheus Fernandes,1055,1,0,Red Bull Bragantino
+30268,206550,7,Faltas sofridas,Nathan,1055,1,0,Red Bull Bragantino
+30269,206550,7,Faltas sofridas,Sorriso,1055,3,0,Red Bull Bragantino
+30270,206550,7,Faltas sofridas,Vitinho,1055,5,0,Red Bull Bragantino
+30271,206550,7,Faltas sofridas,Bruno,1014,1,0,Goiás
+30272,206550,7,Faltas sofridas,Bruno Melo,1014,1,0,Goiás
+30273,206550,7,Faltas sofridas,Everton Morelli,1014,1,0,Goiás
+30274,206550,7,Faltas sofridas,Guilherme,1014,1,0,Goiás
+30275,206550,7,Faltas sofridas,Julián Palacios,1014,1,0,Goiás
+30276,206550,7,Faltas sofridas,Matheus Peixoto,1014,3,0,Goiás
+30277,206550,7,Faltas sofridas,Matheusinho,1014,1,0,Goiás
+30278,206550,7,Faltas sofridas,Sander,1014,4,0,Goiás
+30279,206550,7,Faltas sofridas,Tadeu,1014,1,0,Goiás
+30280,206550,7,Faltas sofridas,Zé Ricardo,1014,3,0,Goiás
+30281,206550,9,Impedimentos,Alesson,1014,2,0,Goiás
+30282,206550,9,Impedimentos,Apodi,1014,1,0,Goiás
+30283,206550,9,Impedimentos,Guilherme,1014,1,0,Goiás
+30284,206550,9,Impedimentos,Julián Palacios,1014,1,0,Goiás
+30285,206550,9,Impedimentos,Matheusinho,1014,1,0,Goiás
+30286,206550,12,Perda da posse de bola,Cleiton,1055,1,0,Red Bull Bragantino
+30287,206550,12,Perda da posse de bola,Eduardo Sasha,1055,4,0,Red Bull Bragantino
+30288,206550,12,Perda da posse de bola,Eric Ramires,1055,2,0,Red Bull Bragantino
+30289,206550,12,Perda da posse de bola,Jadsom Silva,1055,2,0,Red Bull Bragantino
+30290,206550,12,Perda da posse de bola,Juninho Capixaba,1055,1,0,Red Bull Bragantino
+30291,206550,12,Perda da posse de bola,Lucas Evangelista,1055,5,0,Red Bull Bragantino
+30292,206550,12,Perda da posse de bola,Sorriso,1055,7,0,Red Bull Bragantino
+30293,206550,12,Perda da posse de bola,Thiago Borbas ,1055,3,0,Red Bull Bragantino
+30294,206550,12,Perda da posse de bola,Vitinho,1055,10,0,Red Bull Bragantino
+30295,206550,12,Perda da posse de bola,Alesson,1014,4,0,Goiás
+30296,206550,12,Perda da posse de bola,Dodô,1014,2,0,Goiás
+30297,206550,12,Perda da posse de bola,Everton Morelli,1014,5,0,Goiás
+30298,206550,12,Perda da posse de bola,Guilherme,1014,2,0,Goiás
+30299,206550,12,Perda da posse de bola,Julián Palacios,1014,3,0,Goiás
+30300,206550,12,Perda da posse de bola,Lucão,1014,2,0,Goiás
+30301,206550,12,Perda da posse de bola,Lucas Halter,1014,2,0,Goiás
+30302,206550,12,Perda da posse de bola,Matheusinho,1014,2,0,Goiás
+30303,206550,12,Perda da posse de bola,Sander,1014,1,0,Goiás
+30304,206550,12,Perda da posse de bola,Zé Ricardo,1014,3,0,Goiás
+30305,206550,25,Cartões amarelos,Jadsom Silva,1055,1,0,Red Bull Bragantino
+30306,206550,25,Cartões amarelos,Vitinho,1055,1,0,Red Bull Bragantino
+30307,206550,25,Cartões amarelos,Bruno Melo,1014,1,0,Goiás
+30308,206550,25,Cartões amarelos,Maguinho,1014,1,0,Goiás
+30309,206567,2,Passes,Alex Teixeira,1015,21,0,Vasco
+30310,206567,2,Passes,Eguinaldo,1015,0,2,Vasco
+30311,206567,2,Passes,Erick Marcus,1015,1,4,Vasco
+30312,206567,2,Passes,Gabriel Pec,1015,12,2,Vasco
+30313,206567,2,Passes,Jair,1015,44,3,Vasco
+30314,206567,2,Passes,Léo,1015,43,1,Vasco
+30315,206567,2,Passes,Léo Jardim,1015,11,0,Vasco
+30316,206567,2,Passes,Lucas Figueiredo,1015,10,6,Vasco
+30317,206567,2,Passes,Lucas Piton,1015,39,5,Vasco
+30318,206567,2,Passes,Marlon Gomes,1015,35,5,Vasco
+30319,206567,2,Passes,Matías Galarza,1015,1,0,Vasco
+30320,206567,2,Passes,Puma Rodríguez,1015,32,5,Vasco
+30321,206567,2,Passes,Rayan Vitor,1015,15,2,Vasco
+30322,206567,2,Passes,Robson Bambu,1015,33,2,Vasco
+30323,206567,2,Passes,Alan Empereur,1755,39,1,Cuiabá
+30324,206567,2,Passes,Denilson Alves,1755,34,3,Cuiabá
+30325,206567,2,Passes,Deyverson,1755,11,11,Cuiabá
+30326,206567,2,Passes,Fernando Sobral,1755,32,1,Cuiabá
+30327,206567,2,Passes,Filipe Augusto,1755,51,1,Cuiabá
+30328,206567,2,Passes,Isidro Pitta,1755,2,1,Cuiabá
+30329,206567,2,Passes,Jonathan Cafu,1755,11,3,Cuiabá
+30330,206567,2,Passes,Marllon,1755,32,1,Cuiabá
+30331,206567,2,Passes,Nicolás Quagliata,1755,19,0,Cuiabá
+30332,206567,2,Passes,Pablo Ceppelini,1755,9,0,Cuiabá
+30333,206567,2,Passes,PK,1755,7,0,Cuiabá
+30334,206567,2,Passes,Raniele,1755,35,5,Cuiabá
+30335,206567,2,Passes,Rikelme,1755,30,3,Cuiabá
+30336,206567,2,Passes,Ronald,1755,4,0,Cuiabá
+30337,206567,2,Passes,Walter,1755,10,1,Cuiabá
+30338,206567,2,Passes,Wellington Silva,1755,14,3,Cuiabá
+30339,206567,3,Finalizações,Alex Teixeira,1015,0,1,Vasco
+30340,206567,3,Finalizações,Gabriel Pec,1015,0,1,Vasco
+30341,206567,3,Finalizações,Jair,1015,1,0,Vasco
+30342,206567,3,Finalizações,Lucas Figueiredo,1015,1,2,Vasco
+30343,206567,3,Finalizações,Puma Rodríguez,1015,0,2,Vasco
+30344,206567,3,Finalizações,Alan Empereur,1755,1,0,Cuiabá
+30345,206567,3,Finalizações,Denilson Alves,1755,1,1,Cuiabá
+30346,206567,3,Finalizações,Fernando Sobral,1755,0,2,Cuiabá
+30347,206567,3,Finalizações,Jonathan Cafu,1755,0,1,Cuiabá
+30348,206567,3,Finalizações,Nicolás Quagliata,1755,0,2,Cuiabá
+30349,206567,3,Finalizações,Pablo Ceppelini,1755,1,0,Cuiabá
+30350,206567,3,Finalizações,Raniele,1755,0,2,Cuiabá
+30351,206567,3,Finalizações,Wellington Silva,1755,0,1,Cuiabá
+30352,206567,5,Desarmes,Eguinaldo,1015,1,1,Vasco
+30353,206567,5,Desarmes,Erick Marcus,1015,1,0,Vasco
+30354,206567,5,Desarmes,Gabriel Pec,1015,1,0,Vasco
+30355,206567,5,Desarmes,Jair,1015,1,0,Vasco
+30356,206567,5,Desarmes,Léo,1015,1,0,Vasco
+30357,206567,5,Desarmes,Lucas Piton,1015,0,1,Vasco
+30358,206567,5,Desarmes,Marlon Gomes,1015,1,1,Vasco
+30359,206567,5,Desarmes,Puma Rodríguez,1015,3,1,Vasco
+30360,206567,5,Desarmes,Alan Empereur,1755,2,1,Cuiabá
+30361,206567,5,Desarmes,Denilson Alves,1755,2,0,Cuiabá
+30362,206567,5,Desarmes,Fernando Sobral,1755,2,0,Cuiabá
+30363,206567,5,Desarmes,Filipe Augusto,1755,1,0,Cuiabá
+30364,206567,5,Desarmes,Jonathan Cafu,1755,2,0,Cuiabá
+30365,206567,5,Desarmes,Marllon,1755,1,0,Cuiabá
+30366,206567,5,Desarmes,PK,1755,1,0,Cuiabá
+30367,206567,5,Desarmes,Raniele,1755,2,0,Cuiabá
+30368,206567,5,Desarmes,Rikelme,1755,4,0,Cuiabá
+30369,206567,14,Cruzamentos,Alex Teixeira,1015,0,1,Vasco
+30370,206567,14,Cruzamentos,Gabriel Pec,1015,2,3,Vasco
+30371,206567,14,Cruzamentos,Lucas Figueiredo,1015,0,1,Vasco
+30372,206567,14,Cruzamentos,Lucas Piton,1015,1,1,Vasco
+30373,206567,14,Cruzamentos,Paulo Henrique,1015,0,1,Vasco
+30374,206567,14,Cruzamentos,Puma Rodríguez,1015,0,1,Vasco
+30375,206567,14,Cruzamentos,Alan Empereur,1755,0,2,Cuiabá
+30376,206567,14,Cruzamentos,Denilson Alves,1755,1,5,Cuiabá
+30377,206567,14,Cruzamentos,Deyverson,1755,0,2,Cuiabá
+30378,206567,14,Cruzamentos,Fernando Sobral,1755,0,1,Cuiabá
+30379,206567,14,Cruzamentos,Filipe Augusto,1755,2,4,Cuiabá
+30380,206567,14,Cruzamentos,Isidro Pitta,1755,0,1,Cuiabá
+30381,206567,14,Cruzamentos,Jonathan Cafu,1755,0,1,Cuiabá
+30382,206567,14,Cruzamentos,Nicolás Quagliata,1755,0,2,Cuiabá
+30383,206567,14,Cruzamentos,PK,1755,0,2,Cuiabá
+30384,206567,14,Cruzamentos,Raniele,1755,0,2,Cuiabá
+30385,206567,14,Cruzamentos,Rikelme,1755,0,4,Cuiabá
+30386,206567,1,Lançamentos,Jair,1015,3,1,Vasco
+30387,206567,1,Lançamentos,Léo,1015,2,2,Vasco
+30388,206567,1,Lançamentos,Léo Jardim,1015,5,8,Vasco
+30389,206567,1,Lançamentos,Lucas Piton,1015,0,1,Vasco
+30390,206567,1,Lançamentos,Marlon Gomes,1015,1,1,Vasco
+30391,206567,1,Lançamentos,Puma Rodríguez,1015,0,1,Vasco
+30392,206567,1,Lançamentos,Robson Bambu,1015,2,4,Vasco
+30393,206567,1,Lançamentos,Alan Empereur,1755,3,1,Cuiabá
+30394,206567,1,Lançamentos,Denilson Alves,1755,1,1,Cuiabá
+30395,206567,1,Lançamentos,Deyverson,1755,0,2,Cuiabá
+30396,206567,1,Lançamentos,Fernando Sobral,1755,0,1,Cuiabá
+30397,206567,1,Lançamentos,Filipe Augusto,1755,0,2,Cuiabá
+30398,206567,1,Lançamentos,Marllon,1755,0,3,Cuiabá
+30399,206567,1,Lançamentos,Raniele,1755,2,5,Cuiabá
+30400,206567,1,Lançamentos,Rikelme,1755,4,1,Cuiabá
+30401,206567,1,Lançamentos,Ronald,1755,0,1,Cuiabá
+30402,206567,1,Lançamentos,Walter,1755,8,6,Cuiabá
+30403,206567,24,Interceptações,Jair,1015,1,0,Vasco
+30404,206567,24,Interceptações,Lucas Figueiredo,1015,1,0,Vasco
+30405,206567,24,Interceptações,Marlon Gomes,1015,1,1,Vasco
+30406,206567,24,Interceptações,Robson Bambu,1015,1,0,Vasco
+30407,206567,24,Interceptações,Filipe Augusto,1755,1,1,Cuiabá
+30408,206567,24,Interceptações,Raniele,1755,1,0,Cuiabá
+30409,206567,24,Interceptações,Rikelme,1755,1,0,Cuiabá
+30410,206567,4,Dribles,Alex Teixeira,1015,1,0,Vasco
+30411,206567,4,Dribles,Erick Marcus,1015,1,0,Vasco
+30412,206567,4,Dribles,Gabriel Pec,1015,3,0,Vasco
+30413,206567,4,Dribles,Lucas Figueiredo,1015,2,1,Vasco
+30414,206567,4,Dribles,Lucas Piton,1015,0,1,Vasco
+30415,206567,4,Dribles,Marlon Gomes,1015,0,1,Vasco
+30416,206567,4,Dribles,Puma Rodríguez,1015,0,1,Vasco
+30417,206567,4,Dribles,Rayan Vitor,1015,2,1,Vasco
+30418,206567,4,Dribles,Filipe Augusto,1755,1,0,Cuiabá
+30419,206567,22,Viradas de jogo,Jair,1015,2,0,Vasco
+30420,206567,22,Viradas de jogo,Léo,1015,1,0,Vasco
+30421,206567,22,Viradas de jogo,Lucas Figueiredo,1015,0,1,Vasco
+30422,206567,22,Viradas de jogo,Marlon Gomes,1015,1,1,Vasco
+30423,206567,22,Viradas de jogo,Puma Rodríguez,1015,1,0,Vasco
+30424,206567,22,Viradas de jogo,Deyverson,1755,0,1,Cuiabá
+30425,206567,22,Viradas de jogo,Filipe Augusto,1755,1,0,Cuiabá
+30426,206567,22,Viradas de jogo,Raniele,1755,1,0,Cuiabá
+30427,206567,20,Posse de bola,Alex Teixeira,1015,65,0,Vasco
+30428,206567,20,Posse de bola,Eguinaldo,1015,14,0,Vasco
+30429,206567,20,Posse de bola,Erick Marcus,1015,18,0,Vasco
+30430,206567,20,Posse de bola,Gabriel Pec,1015,98,0,Vasco
+30431,206567,20,Posse de bola,Jair,1015,156,0,Vasco
+30432,206567,20,Posse de bola,Léo,1015,135,0,Vasco
+30433,206567,20,Posse de bola,Léo Jardim,1015,96,0,Vasco
+30434,206567,20,Posse de bola,Lucas Figueiredo,1015,73,0,Vasco
+30435,206567,20,Posse de bola,Lucas Piton,1015,131,0,Vasco
+30436,206567,20,Posse de bola,Marlon Gomes,1015,129,0,Vasco
+30437,206567,20,Posse de bola,Matías Galarza,1015,4,0,Vasco
+30438,206567,20,Posse de bola,Paulo Henrique,1015,6,0,Vasco
+30439,206567,20,Posse de bola,Puma Rodríguez,1015,144,0,Vasco
+30440,206567,20,Posse de bola,Rayan Vitor,1015,54,0,Vasco
+30441,206567,20,Posse de bola,Robson Bambu,1015,165,0,Vasco
+30442,206567,20,Posse de bola,Zé Gabriel,1015,6,0,Vasco
+30443,206567,20,Posse de bola,Alan Empereur,1755,164,0,Cuiabá
+30444,206567,20,Posse de bola,Denilson Alves,1755,137,0,Cuiabá
+30445,206567,20,Posse de bola,Deyverson,1755,92,0,Cuiabá
+30446,206567,20,Posse de bola,Fernando Sobral,1755,100,0,Cuiabá
+30447,206567,20,Posse de bola,Filipe Augusto,1755,159,0,Cuiabá
+30448,206567,20,Posse de bola,Isidro Pitta,1755,15,0,Cuiabá
+30449,206567,20,Posse de bola,Jonathan Cafu,1755,58,0,Cuiabá
+30450,206567,20,Posse de bola,Marllon,1755,98,0,Cuiabá
+30451,206567,20,Posse de bola,Nicolás Quagliata,1755,52,0,Cuiabá
+30452,206567,20,Posse de bola,Pablo Ceppelini,1755,22,0,Cuiabá
+30453,206567,20,Posse de bola,PK,1755,33,0,Cuiabá
+30454,206567,20,Posse de bola,Raniele,1755,134,0,Cuiabá
+30455,206567,20,Posse de bola,Rikelme,1755,118,0,Cuiabá
+30456,206567,20,Posse de bola,Ronald,1755,12,0,Cuiabá
+30457,206567,20,Posse de bola,Walter,1755,138,0,Cuiabá
+30458,206567,20,Posse de bola,Wellington Silva,1755,67,0,Cuiabá
+30459,206567,8,Gols,Jair,1015,1,0,Vasco
+30460,206567,28,Assistências para finalização,Alex Teixeira,1015,1,0,Vasco
+30461,206567,28,Assistências para finalização,Gabriel Pec,1015,1,0,Vasco
+30462,206567,28,Assistências para finalização,Lucas Piton,1015,1,0,Vasco
+30463,206567,28,Assistências para finalização,Denilson Alves,1755,1,0,Cuiabá
+30464,206567,28,Assistências para finalização,Fernando Sobral,1755,1,0,Cuiabá
+30465,206567,28,Assistências para finalização,Filipe Augusto,1755,3,0,Cuiabá
+30466,206567,28,Assistências para finalização,Raniele,1755,1,0,Cuiabá
+30467,206567,28,Assistências para finalização,Rikelme,1755,1,0,Cuiabá
+30468,206567,15,Defesas,Eguinaldo,1015,1,0,Vasco
+30469,206567,15,Defesas,Léo Jardim,1015,3,0,Vasco
+30470,206567,15,Defesas,Marlon Gomes,1015,1,0,Vasco
+30471,206567,15,Defesas,Paulo Henrique,1015,1,0,Vasco
+30472,206567,15,Defesas,Puma Rodríguez,1015,1,0,Vasco
+30473,206567,15,Defesas,Robson Bambu,1015,1,0,Vasco
+30474,206567,15,Defesas,Deyverson,1755,1,0,Cuiabá
+30475,206567,15,Defesas,Filipe Augusto,1755,1,0,Cuiabá
+30476,206567,15,Defesas,Rikelme,1755,1,0,Cuiabá
+30477,206567,15,Defesas,Walter,1755,1,0,Cuiabá
+30478,206567,19,Rebatidas,Erick Marcus,1015,1,0,Vasco
+30479,206567,19,Rebatidas,Jair,1015,4,0,Vasco
+30480,206567,19,Rebatidas,Léo,1015,8,0,Vasco
+30481,206567,19,Rebatidas,Léo Jardim,1015,1,0,Vasco
+30482,206567,19,Rebatidas,Lucas Piton,1015,9,0,Vasco
+30483,206567,19,Rebatidas,Marlon Gomes,1015,5,0,Vasco
+30484,206567,19,Rebatidas,Matías Galarza,1015,1,0,Vasco
+30485,206567,19,Rebatidas,Puma Rodríguez,1015,15,0,Vasco
+30486,206567,19,Rebatidas,Rayan Vitor,1015,1,0,Vasco
+30487,206567,19,Rebatidas,Robson Bambu,1015,16,0,Vasco
+30488,206567,19,Rebatidas,Zé Gabriel,1015,2,0,Vasco
+30489,206567,19,Rebatidas,Alan Empereur,1755,11,0,Cuiabá
+30490,206567,19,Rebatidas,Deyverson,1755,3,0,Cuiabá
+30491,206567,19,Rebatidas,Fernando Sobral,1755,2,0,Cuiabá
+30492,206567,19,Rebatidas,Filipe Augusto,1755,5,0,Cuiabá
+30493,206567,19,Rebatidas,Jonathan Cafu,1755,1,0,Cuiabá
+30494,206567,19,Rebatidas,Marllon,1755,9,0,Cuiabá
+30495,206567,19,Rebatidas,PK,1755,1,0,Cuiabá
+30496,206567,19,Rebatidas,Raniele,1755,1,0,Cuiabá
+30497,206567,19,Rebatidas,Rikelme,1755,4,0,Cuiabá
+30498,206567,19,Rebatidas,Walter,1755,1,0,Cuiabá
+30499,206567,19,Rebatidas,Wellington Silva,1755,1,0,Cuiabá
+30500,206567,6,Faltas cometidas,Alex Teixeira,1015,1,0,Vasco
+30501,206567,6,Faltas cometidas,Eguinaldo,1015,1,0,Vasco
+30502,206567,6,Faltas cometidas,Gabriel Pec,1015,2,0,Vasco
+30503,206567,6,Faltas cometidas,Jair,1015,5,0,Vasco
+30504,206567,6,Faltas cometidas,Léo,1015,1,0,Vasco
+30505,206567,6,Faltas cometidas,Lucas Figueiredo,1015,1,0,Vasco
+30506,206567,6,Faltas cometidas,Lucas Piton,1015,1,0,Vasco
+30507,206567,6,Faltas cometidas,Puma Rodríguez,1015,1,0,Vasco
+30508,206567,6,Faltas cometidas,Rayan Vitor,1015,1,0,Vasco
+30509,206567,6,Faltas cometidas,Robson Bambu,1015,3,0,Vasco
+30510,206567,6,Faltas cometidas,Zé Gabriel,1015,1,0,Vasco
+30511,206567,6,Faltas cometidas,Denilson Alves,1755,3,0,Cuiabá
+30512,206567,6,Faltas cometidas,Deyverson,1755,2,0,Cuiabá
+30513,206567,6,Faltas cometidas,Fernando Sobral,1755,1,0,Cuiabá
+30514,206567,6,Faltas cometidas,Jonathan Cafu,1755,1,0,Cuiabá
+30515,206567,6,Faltas cometidas,PK,1755,1,0,Cuiabá
+30516,206567,6,Faltas cometidas,Raniele,1755,1,0,Cuiabá
+30517,206567,6,Faltas cometidas,Rikelme,1755,1,0,Cuiabá
+30518,206567,6,Faltas cometidas,Wellington Silva,1755,3,0,Cuiabá
+30519,206567,7,Faltas sofridas,Alex Teixeira,1015,2,0,Vasco
+30520,206567,7,Faltas sofridas,Gabriel Pec,1015,2,0,Vasco
+30521,206567,7,Faltas sofridas,Jair,1015,3,0,Vasco
+30522,206567,7,Faltas sofridas,Lucas Figueiredo,1015,2,0,Vasco
+30523,206567,7,Faltas sofridas,Marlon Gomes,1015,2,0,Vasco
+30524,206567,7,Faltas sofridas,Rayan Vitor,1015,1,0,Vasco
+30525,206567,7,Faltas sofridas,Denilson Alves,1755,3,0,Cuiabá
+30526,206567,7,Faltas sofridas,Deyverson,1755,4,0,Cuiabá
+30527,206567,7,Faltas sofridas,Fernando Sobral,1755,1,0,Cuiabá
+30528,206567,7,Faltas sofridas,Isidro Pitta,1755,1,0,Cuiabá
+30529,206567,7,Faltas sofridas,Jonathan Cafu,1755,2,0,Cuiabá
+30530,206567,7,Faltas sofridas,PK,1755,2,0,Cuiabá
+30531,206567,7,Faltas sofridas,Raniele,1755,1,0,Cuiabá
+30532,206567,7,Faltas sofridas,Walter,1755,1,0,Cuiabá
+30533,206567,7,Faltas sofridas,Wellington Silva,1755,2,0,Cuiabá
+30534,206567,9,Impedimentos,Lucas Figueiredo,1015,2,0,Vasco
+30535,206567,9,Impedimentos,Robson Bambu,1015,1,0,Vasco
+30536,206567,9,Impedimentos,Deyverson,1755,1,0,Cuiabá
+30537,206567,9,Impedimentos,Isidro Pitta,1755,1,0,Cuiabá
+30538,206567,9,Impedimentos,Jonathan Cafu,1755,1,0,Cuiabá
+30539,206567,9,Impedimentos,Raniele,1755,1,0,Cuiabá
+30540,206567,9,Impedimentos,Wellington Silva,1755,1,0,Cuiabá
+30541,206567,11,Pênaltis,Lucas Figueiredo,1015,1,0,Vasco
+30542,206567,12,Perda da posse de bola,Alex Teixeira,1015,1,0,Vasco
+30543,206567,12,Perda da posse de bola,Eguinaldo,1015,1,0,Vasco
+30544,206567,12,Perda da posse de bola,Gabriel Pec,1015,9,0,Vasco
+30545,206567,12,Perda da posse de bola,Jair,1015,2,0,Vasco
+30546,206567,12,Perda da posse de bola,Lucas Figueiredo,1015,3,0,Vasco
+30547,206567,12,Perda da posse de bola,Lucas Piton,1015,3,0,Vasco
+30548,206567,12,Perda da posse de bola,Marlon Gomes,1015,1,0,Vasco
+30549,206567,12,Perda da posse de bola,Puma Rodríguez,1015,4,0,Vasco
+30550,206567,12,Perda da posse de bola,Rayan Vitor,1015,4,0,Vasco
+30551,206567,12,Perda da posse de bola,Robson Bambu,1015,1,0,Vasco
+30552,206567,12,Perda da posse de bola,Alan Empereur,1755,1,0,Cuiabá
+30553,206567,12,Perda da posse de bola,Denilson Alves,1755,5,0,Cuiabá
+30554,206567,12,Perda da posse de bola,Deyverson,1755,4,0,Cuiabá
+30555,206567,12,Perda da posse de bola,Fernando Sobral,1755,3,0,Cuiabá
+30556,206567,12,Perda da posse de bola,Filipe Augusto,1755,2,0,Cuiabá
+30557,206567,12,Perda da posse de bola,Jonathan Cafu,1755,6,0,Cuiabá
+30558,206567,12,Perda da posse de bola,PK,1755,1,0,Cuiabá
+30559,206567,12,Perda da posse de bola,Raniele,1755,1,0,Cuiabá
+30560,206567,12,Perda da posse de bola,Ronald,1755,1,0,Cuiabá
+30561,206567,12,Perda da posse de bola,Wellington Silva,1755,4,0,Cuiabá
+30562,206567,25,Cartões amarelos,Eguinaldo,1015,1,0,Vasco
+30563,206567,25,Cartões amarelos,Gabriel Pec,1015,1,0,Vasco
+30564,206567,25,Cartões amarelos,Jair,1015,1,0,Vasco
+30565,206567,25,Cartões amarelos,Luca Orellano,1015,1,0,Vasco
+30566,206567,25,Cartões amarelos,Rayan Vitor,1015,1,0,Vasco
+30567,206567,25,Cartões amarelos,Zé Gabriel,1015,1,0,Vasco
+30568,206567,25,Cartões amarelos,Alan Empereur,1755,1,0,Cuiabá
+30569,206567,25,Cartões amarelos,Denilson Alves,1755,1,0,Cuiabá
+30570,206567,25,Cartões amarelos,Fernando Sobral,1755,1,0,Cuiabá
+30571,206604,2,Passes,David Braz,1006,54,1,Fluminense
+30572,206604,2,Passes,Fábio,1006,18,0,Fluminense
+30573,206604,2,Passes,Gabriel Pirani,1006,25,2,Fluminense
+30574,206604,2,Passes,Ganso,1006,2,1,Fluminense
+30575,206604,2,Passes,Jhon Arias,1006,29,5,Fluminense
+30576,206604,2,Passes,Keno,1006,18,11,Fluminense
+30577,206604,2,Passes,Lelê,1006,8,3,Fluminense
+30578,206604,2,Passes,Lima,1006,43,2,Fluminense
+30579,206604,2,Passes,Marcelo,1006,36,4,Fluminense
+30580,206604,2,Passes,Martinelli,1006,46,3,Fluminense
+30581,206604,2,Passes,Nino,1006,27,0,Fluminense
+30582,206604,2,Passes,Samuel Xavier,1006,57,4,Fluminense
+30583,206604,2,Passes,André,1250,9,1,Bahia
+30584,206604,2,Passes,Arthur Sales,1250,17,2,Bahia
+30585,206604,2,Passes,Cauly,1250,44,7,Bahia
+30586,206604,2,Passes,Cicinho,1250,25,1,Bahia
+30587,206604,2,Passes,Daniel,1250,17,1,Bahia
+30588,206604,2,Passes,Danilo Fernandes,1250,8,0,Bahia
+30589,206604,2,Passes,Jhoanner Chávez,1250,44,3,Bahia
+30590,206604,2,Passes,Kanu,1250,43,2,Bahia
+30591,206604,2,Passes,Kayky,1250,9,0,Bahia
+30592,206604,2,Passes,Mateus Claus,1250,7,0,Bahia
+30593,206604,2,Passes,Nicolás Acevedo,1250,55,8,Bahia
+30594,206604,2,Passes,Rezende,1250,24,4,Bahia
+30595,206604,2,Passes,Thaciano ,1250,30,3,Bahia
+30596,206604,2,Passes,Vinicius Mingotti,1250,7,1,Bahia
+30597,206604,2,Passes,Vitor Hugo,1250,36,7,Bahia
+30598,206604,3,Finalizações,David Braz,1006,0,2,Fluminense
+30599,206604,3,Finalizações,Gabriel Pirani,1006,3,1,Fluminense
+30600,206604,3,Finalizações,Keno,1006,1,1,Fluminense
+30601,206604,3,Finalizações,Lelê,1006,6,1,Fluminense
+30602,206604,3,Finalizações,Marcelo,1006,1,0,Fluminense
+30603,206604,3,Finalizações,Samuel Xavier,1006,0,1,Fluminense
+30604,206604,3,Finalizações,Arthur Sales,1250,0,1,Bahia
+30605,206604,3,Finalizações,Cauly,1250,0,2,Bahia
+30606,206604,3,Finalizações,Cicinho,1250,0,1,Bahia
+30607,206604,3,Finalizações,Jhoanner Chávez,1250,1,0,Bahia
+30608,206604,3,Finalizações,Kanu,1250,0,1,Bahia
+30609,206604,3,Finalizações,Kayky,1250,0,1,Bahia
+30610,206604,3,Finalizações,Nicolás Acevedo,1250,0,2,Bahia
+30611,206604,3,Finalizações,Thaciano ,1250,0,1,Bahia
+30612,206604,3,Finalizações,Vinicius Mingotti,1250,2,0,Bahia
+30613,206604,3,Finalizações,Vitor Hugo,1250,0,1,Bahia
+30614,206604,5,Desarmes,Gabriel Pirani,1006,1,0,Fluminense
+30615,206604,5,Desarmes,Jhon Arias,1006,1,0,Fluminense
+30616,206604,5,Desarmes,Keno,1006,3,0,Fluminense
+30617,206604,5,Desarmes,Lelê,1006,1,0,Fluminense
+30618,206604,5,Desarmes,Marcelo,1006,2,0,Fluminense
+30619,206604,5,Desarmes,Martinelli,1006,1,0,Fluminense
+30620,206604,5,Desarmes,Samuel Xavier,1006,1,0,Fluminense
+30621,206604,5,Desarmes,André,1250,1,0,Bahia
+30622,206604,5,Desarmes,Cauly,1250,1,0,Bahia
+30623,206604,5,Desarmes,Cicinho,1250,2,0,Bahia
+30624,206604,5,Desarmes,Jhoanner Chávez,1250,4,0,Bahia
+30625,206604,5,Desarmes,Kanu,1250,2,0,Bahia
+30626,206604,5,Desarmes,Kayky,1250,2,0,Bahia
+30627,206604,5,Desarmes,Rezende,1250,1,0,Bahia
+30628,206604,5,Desarmes,Thaciano ,1250,0,1,Bahia
+30629,206604,5,Desarmes,Vinicius Mingotti,1250,1,0,Bahia
+30630,206604,5,Desarmes,Vitor Hugo,1250,1,0,Bahia
+30631,206604,14,Cruzamentos,Gabriel Pirani,1006,0,1,Fluminense
+30632,206604,14,Cruzamentos,Jhon Arias,1006,1,7,Fluminense
+30633,206604,14,Cruzamentos,Keno,1006,2,2,Fluminense
+30634,206604,14,Cruzamentos,Marcelo,1006,1,3,Fluminense
+30635,206604,14,Cruzamentos,André,1250,0,4,Bahia
+30636,206604,14,Cruzamentos,Arthur Sales,1250,0,1,Bahia
+30637,206604,14,Cruzamentos,Cauly,1250,2,6,Bahia
+30638,206604,14,Cruzamentos,Cicinho,1250,0,3,Bahia
+30639,206604,14,Cruzamentos,Daniel,1250,2,1,Bahia
+30640,206604,14,Cruzamentos,Jhoanner Chávez,1250,3,3,Bahia
+30641,206604,14,Cruzamentos,Kayky,1250,1,1,Bahia
+30642,206604,14,Cruzamentos,Nicolás Acevedo,1250,0,4,Bahia
+30643,206604,14,Cruzamentos,Rezende,1250,0,1,Bahia
+30644,206604,14,Cruzamentos,Thaciano ,1250,1,0,Bahia
+30645,206604,1,Lançamentos,David Braz,1006,0,7,Fluminense
+30646,206604,1,Lançamentos,Fábio,1006,3,10,Fluminense
+30647,206604,1,Lançamentos,Ganso,1006,1,0,Fluminense
+30648,206604,1,Lançamentos,Lima,1006,0,1,Fluminense
+30649,206604,1,Lançamentos,Marcelo,1006,3,1,Fluminense
+30650,206604,1,Lançamentos,Martinelli,1006,1,2,Fluminense
+30651,206604,1,Lançamentos,Nino,1006,2,1,Fluminense
+30652,206604,1,Lançamentos,Samuel Xavier,1006,5,1,Fluminense
+30653,206604,1,Lançamentos,Cicinho,1250,0,1,Bahia
+30654,206604,1,Lançamentos,Daniel,1250,1,1,Bahia
+30655,206604,1,Lançamentos,Danilo Fernandes,1250,1,5,Bahia
+30656,206604,1,Lançamentos,Jhoanner Chávez,1250,1,4,Bahia
+30657,206604,1,Lançamentos,Kanu,1250,3,2,Bahia
+30658,206604,1,Lançamentos,Kayky,1250,0,1,Bahia
+30659,206604,1,Lançamentos,Mateus Claus,1250,1,1,Bahia
+30660,206604,1,Lançamentos,Nicolás Acevedo,1250,2,2,Bahia
+30661,206604,1,Lançamentos,Thaciano ,1250,1,2,Bahia
+30662,206604,24,Interceptações,David Braz,1006,1,0,Fluminense
+30663,206604,24,Interceptações,Ganso,1006,0,1,Fluminense
+30664,206604,24,Interceptações,Jhon Arias,1006,1,0,Fluminense
+30665,206604,24,Interceptações,Samuel Xavier,1006,1,0,Fluminense
+30666,206604,24,Interceptações,Kanu,1250,1,0,Bahia
+30667,206604,24,Interceptações,Kayky,1250,2,0,Bahia
+30668,206604,24,Interceptações,Nicolás Acevedo,1250,1,0,Bahia
+30669,206604,4,Dribles,Gabriel Pirani,1006,1,0,Fluminense
+30670,206604,4,Dribles,Jhon Arias,1006,1,0,Fluminense
+30671,206604,4,Dribles,Martinelli,1006,1,0,Fluminense
+30672,206604,4,Dribles,Kayky,1250,0,1,Bahia
+30673,206604,4,Dribles,Nicolás Acevedo,1250,1,0,Bahia
+30674,206604,4,Dribles,Rezende,1250,1,0,Bahia
+30675,206604,22,Viradas de jogo,Keno,1006,0,1,Fluminense
+30676,206604,22,Viradas de jogo,Marcelo,1006,2,0,Fluminense
+30677,206604,22,Viradas de jogo,Daniel,1250,1,0,Bahia
+30678,206604,22,Viradas de jogo,Kanu,1250,0,1,Bahia
+30679,206604,20,Posse de bola,Cano,1006,2,0,Fluminense
+30680,206604,20,Posse de bola,David Braz,1006,181,0,Fluminense
+30681,206604,20,Posse de bola,Fábio,1006,167,0,Fluminense
+30682,206604,20,Posse de bola,Felipe Andrade,1006,2,0,Fluminense
+30683,206604,20,Posse de bola,Gabriel Pirani,1006,96,0,Fluminense
+30684,206604,20,Posse de bola,Ganso,1006,10,0,Fluminense
+30685,206604,20,Posse de bola,Guga,1006,2,0,Fluminense
+30686,206604,20,Posse de bola,Jhon Arias,1006,142,0,Fluminense
+30687,206604,20,Posse de bola,Keno,1006,129,0,Fluminense
+30688,206604,20,Posse de bola,Lelê,1006,59,0,Fluminense
+30689,206604,20,Posse de bola,Lima,1006,127,0,Fluminense
+30690,206604,20,Posse de bola,Marcelo,1006,134,0,Fluminense
+30691,206604,20,Posse de bola,Martinelli,1006,150,0,Fluminense
+30692,206604,20,Posse de bola,Nino,1006,83,0,Fluminense
+30693,206604,20,Posse de bola,Samuel Xavier,1006,203,0,Fluminense
+30694,206604,20,Posse de bola,André,1250,34,0,Bahia
+30695,206604,20,Posse de bola,Arthur Sales,1250,50,0,Bahia
+30696,206604,20,Posse de bola,Cauly,1250,160,0,Bahia
+30697,206604,20,Posse de bola,Cicinho,1250,101,0,Bahia
+30698,206604,20,Posse de bola,Daniel,1250,64,0,Bahia
+30699,206604,20,Posse de bola,Danilo Fernandes,1250,71,0,Bahia
+30700,206604,20,Posse de bola,Jhoanner Chávez,1250,172,0,Bahia
+30701,206604,20,Posse de bola,Kanu,1250,157,0,Bahia
+30702,206604,20,Posse de bola,Kayky,1250,59,0,Bahia
+30703,206604,20,Posse de bola,Mateus Claus,1250,20,0,Bahia
+30704,206604,20,Posse de bola,Nicolás Acevedo,1250,177,0,Bahia
+30705,206604,20,Posse de bola,Rezende,1250,82,0,Bahia
+30706,206604,20,Posse de bola,Thaciano ,1250,108,0,Bahia
+30707,206604,20,Posse de bola,Vinicius Mingotti,1250,30,0,Bahia
+30708,206604,20,Posse de bola,Vitor Hugo,1250,110,0,Bahia
+30709,206604,8,Gols,Gabriel Pirani,1006,1,0,Fluminense
+30710,206604,8,Gols,Lelê,1006,1,0,Fluminense
+30711,206604,8,Gols,Vinicius Mingotti,1250,1,0,Bahia
+30712,206604,28,Assistências para finalização,Jhon Arias,1006,3,0,Fluminense
+30713,206604,28,Assistências para finalização,Keno,1006,2,0,Fluminense
+30714,206604,28,Assistências para finalização,Marcelo,1006,2,0,Fluminense
+30715,206604,28,Assistências para finalização,Samuel Xavier,1006,3,0,Fluminense
+30716,206604,28,Assistências para finalização,Cauly,1250,3,0,Bahia
+30717,206604,28,Assistências para finalização,Daniel,1250,2,0,Bahia
+30718,206604,28,Assistências para finalização,Jhoanner Chávez,1250,1,0,Bahia
+30719,206604,28,Assistências para finalização,Thaciano ,1250,1,0,Bahia
+30720,206604,28,Assistências para finalização,Vinicius Mingotti,1250,1,0,Bahia
+30721,206604,27,Assistências,Keno,1006,1,0,Fluminense
+30722,206604,27,Assistências,Kayky,1250,1,0,Bahia
+30723,206604,15,Defesas,David Braz,1006,1,0,Fluminense
+30724,206604,15,Defesas,Fábio,1006,1,0,Fluminense
+30725,206604,15,Defesas,Danilo Fernandes,1250,4,0,Bahia
+30726,206604,15,Defesas,Mateus Claus,1250,1,0,Bahia
+30727,206604,15,Defesas,Vitor Hugo,1250,1,0,Bahia
+30728,206604,23,Defesas difíceis,Fábio,1006,1,0,Fluminense
+30729,206604,23,Defesas difíceis,Danilo Fernandes,1250,3,0,Bahia
+30730,206604,19,Rebatidas,David Braz,1006,6,0,Fluminense
+30731,206604,19,Rebatidas,Fábio,1006,1,0,Fluminense
+30732,206604,19,Rebatidas,Felipe Andrade,1006,1,0,Fluminense
+30733,206604,19,Rebatidas,Jhon Arias,1006,3,0,Fluminense
+30734,206604,19,Rebatidas,Keno,1006,1,0,Fluminense
+30735,206604,19,Rebatidas,Lima,1006,2,0,Fluminense
+30736,206604,19,Rebatidas,Marcelo,1006,2,0,Fluminense
+30737,206604,19,Rebatidas,Martinelli,1006,4,0,Fluminense
+30738,206604,19,Rebatidas,Nino,1006,1,0,Fluminense
+30739,206604,19,Rebatidas,Samuel Xavier,1006,4,0,Fluminense
+30740,206604,19,Rebatidas,Cauly,1250,2,0,Bahia
+30741,206604,19,Rebatidas,Cicinho,1250,7,0,Bahia
+30742,206604,19,Rebatidas,Jhoanner Chávez,1250,8,0,Bahia
+30743,206604,19,Rebatidas,Kanu,1250,7,0,Bahia
+30744,206604,19,Rebatidas,Kayky,1250,1,0,Bahia
+30745,206604,19,Rebatidas,Nicolás Acevedo,1250,3,0,Bahia
+30746,206604,19,Rebatidas,Rezende,1250,6,0,Bahia
+30747,206604,19,Rebatidas,Thaciano ,1250,3,0,Bahia
+30748,206604,19,Rebatidas,Vinicius Mingotti,1250,1,0,Bahia
+30749,206604,19,Rebatidas,Vitor Hugo,1250,3,0,Bahia
+30750,206604,6,Faltas cometidas,David Braz,1006,1,0,Fluminense
+30751,206604,6,Faltas cometidas,Gabriel Pirani,1006,1,0,Fluminense
+30752,206604,6,Faltas cometidas,Jhon Arias,1006,1,0,Fluminense
+30753,206604,6,Faltas cometidas,Keno,1006,1,0,Fluminense
+30754,206604,6,Faltas cometidas,Lelê,1006,3,0,Fluminense
+30755,206604,6,Faltas cometidas,Martinelli,1006,1,0,Fluminense
+30756,206604,6,Faltas cometidas,Nino,1006,1,0,Fluminense
+30757,206604,6,Faltas cometidas,Cauly,1250,1,0,Bahia
+30758,206604,6,Faltas cometidas,Cicinho,1250,1,0,Bahia
+30759,206604,6,Faltas cometidas,Jhoanner Chávez,1250,2,0,Bahia
+30760,206604,6,Faltas cometidas,Kayky,1250,1,0,Bahia
+30761,206604,6,Faltas cometidas,Nicolás Acevedo,1250,2,0,Bahia
+30762,206604,6,Faltas cometidas,Rezende,1250,1,0,Bahia
+30763,206604,6,Faltas cometidas,Thaciano ,1250,1,0,Bahia
+30764,206604,6,Faltas cometidas,Vitor Hugo,1250,2,0,Bahia
+30765,206604,7,Faltas sofridas,Gabriel Pirani,1006,1,0,Fluminense
+30766,206604,7,Faltas sofridas,Jhon Arias,1006,3,0,Fluminense
+30767,206604,7,Faltas sofridas,Keno,1006,1,0,Fluminense
+30768,206604,7,Faltas sofridas,Lelê,1006,1,0,Fluminense
+30769,206604,7,Faltas sofridas,Lima,1006,2,0,Fluminense
+30770,206604,7,Faltas sofridas,Marcelo,1006,1,0,Fluminense
+30771,206604,7,Faltas sofridas,Martinelli,1006,1,0,Fluminense
+30772,206604,7,Faltas sofridas,Cicinho,1250,1,0,Bahia
+30773,206604,7,Faltas sofridas,Jhoanner Chávez,1250,1,0,Bahia
+30774,206604,7,Faltas sofridas,Kanu,1250,2,0,Bahia
+30775,206604,7,Faltas sofridas,Thaciano ,1250,1,0,Bahia
+30776,206604,7,Faltas sofridas,Vinicius Mingotti,1250,2,0,Bahia
+30777,206604,7,Faltas sofridas,Vitor Hugo,1250,1,0,Bahia
+30778,206604,9,Impedimentos,Cano,1006,1,0,Fluminense
+30779,206604,9,Impedimentos,Keno,1006,1,0,Fluminense
+30780,206604,12,Perda da posse de bola,David Braz,1006,1,0,Fluminense
+30781,206604,12,Perda da posse de bola,Gabriel Pirani,1006,7,0,Fluminense
+30782,206604,12,Perda da posse de bola,Guga,1006,1,0,Fluminense
+30783,206604,12,Perda da posse de bola,Jhon Arias,1006,7,0,Fluminense
+30784,206604,12,Perda da posse de bola,Keno,1006,7,0,Fluminense
+30785,206604,12,Perda da posse de bola,Lelê,1006,3,0,Fluminense
+30786,206604,12,Perda da posse de bola,Lima,1006,4,0,Fluminense
+30787,206604,12,Perda da posse de bola,Marcelo,1006,2,0,Fluminense
+30788,206604,12,Perda da posse de bola,Martinelli,1006,2,0,Fluminense
+30789,206604,12,Perda da posse de bola,Samuel Xavier,1006,2,0,Fluminense
+30790,206604,12,Perda da posse de bola,Cauly,1250,4,0,Bahia
+30791,206604,12,Perda da posse de bola,Cicinho,1250,2,0,Bahia
+30792,206604,12,Perda da posse de bola,Jhoanner Chávez,1250,1,0,Bahia
+30793,206604,12,Perda da posse de bola,Kanu,1250,1,0,Bahia
+30794,206604,12,Perda da posse de bola,Kayky,1250,4,0,Bahia
+30795,206604,12,Perda da posse de bola,Rezende,1250,3,0,Bahia
+30796,206604,12,Perda da posse de bola,Thaciano ,1250,3,0,Bahia
+30797,206604,12,Perda da posse de bola,Vinicius Mingotti,1250,1,0,Bahia
+30798,206604,25,Cartões amarelos,Samuel Xavier,1006,1,0,Fluminense
+30799,206604,26,Cartões vermelhos,Nino,1006,1,0,Fluminense
+30800,206615,2,Passes,Bruno Rodrigues,1017,15,5,Cruzeiro
+30801,206615,2,Passes,Filipe Machado,1017,10,0,Cruzeiro
+30802,206615,2,Passes,Gilberto,1017,7,2,Cruzeiro
+30803,206615,2,Passes,Henrique Dourado,1017,2,1,Cruzeiro
+30804,206615,2,Passes,Ian Luccas,1017,1,0,Cruzeiro
+30805,206615,2,Passes,Marlon,1017,29,4,Cruzeiro
+30806,206615,2,Passes,Mateus Vital,1017,19,4,Cruzeiro
+30807,206615,2,Passes,Matheus Jussa,1017,7,2,Cruzeiro
+30808,206615,2,Passes,Neris,1017,4,0,Cruzeiro
+30809,206615,2,Passes,Neto Moura,1017,1,0,Cruzeiro
+30810,206615,2,Passes,Oliveira,1017,17,1,Cruzeiro
+30811,206615,2,Passes,Rafael,1017,7,0,Cruzeiro
+30812,206615,2,Passes,Reynaldo,1017,7,0,Cruzeiro
+30813,206615,2,Passes,Stênio,1017,1,0,Cruzeiro
+30814,206615,2,Passes,Wesley,1017,11,7,Cruzeiro
+30815,206615,2,Passes,William,1017,26,1,Cruzeiro
+30816,206615,2,Passes,Alisson,1007,12,3,São Paulo
+30817,206615,2,Passes,Arboleda,1007,80,4,São Paulo
+30818,206615,2,Passes,Beraldo,1007,88,2,São Paulo
+30819,206615,2,Passes,Caio Paulista,1007,46,5,São Paulo
+30820,206615,2,Passes,David,1007,7,3,São Paulo
+30821,206615,2,Passes,Jhegson Méndez,1007,40,1,São Paulo
+30822,206615,2,Passes,Jonathan Calleri,1007,12,2,São Paulo
+30823,206615,2,Passes,Juan,1007,6,0,São Paulo
+30824,206615,2,Passes,Luciano  ,1007,20,2,São Paulo
+30825,206615,2,Passes,Marcos Paulo,1007,4,1,São Paulo
+30826,206615,2,Passes,Pablo Maia,1007,68,2,São Paulo
+30827,206615,2,Passes,Rafael,1007,23,1,São Paulo
+30828,206615,2,Passes,Rafinha,1007,81,1,São Paulo
+30829,206615,2,Passes,Rodrigo Nestor,1007,22,4,São Paulo
+30830,206615,2,Passes,Rodriguinho,1007,4,2,São Paulo
+30831,206615,2,Passes,Wellington Rato,1007,25,1,São Paulo
+30832,206615,3,Finalizações,Bruno Rodrigues,1017,0,2,Cruzeiro
+30833,206615,3,Finalizações,Gilberto,1017,0,2,Cruzeiro
+30834,206615,3,Finalizações,Marlon,1017,0,1,Cruzeiro
+30835,206615,3,Finalizações,Wesley,1017,0,1,Cruzeiro
+30836,206615,3,Finalizações,Jonathan Calleri,1007,3,1,São Paulo
+30837,206615,3,Finalizações,Marcos Paulo,1007,1,0,São Paulo
+30838,206615,3,Finalizações,Pablo Maia,1007,1,1,São Paulo
+30839,206615,3,Finalizações,Rafinha,1007,0,1,São Paulo
+30840,206615,3,Finalizações,Rodrigo Nestor,1007,1,1,São Paulo
+30841,206615,3,Finalizações,Wellington Rato,1007,1,2,São Paulo
+30842,206615,5,Desarmes,Bruno Rodrigues,1017,1,0,Cruzeiro
+30843,206615,5,Desarmes,Filipe Machado,1017,2,1,Cruzeiro
+30844,206615,5,Desarmes,Ian Luccas,1017,1,0,Cruzeiro
+30845,206615,5,Desarmes,Marlon,1017,2,0,Cruzeiro
+30846,206615,5,Desarmes,Mateus Vital,1017,1,0,Cruzeiro
+30847,206615,5,Desarmes,Neto Moura,1017,1,1,Cruzeiro
+30848,206615,5,Desarmes,Stênio,1017,1,0,Cruzeiro
+30849,206615,5,Desarmes,Wesley,1017,1,0,Cruzeiro
+30850,206615,5,Desarmes,William,1017,1,0,Cruzeiro
+30851,206615,5,Desarmes,Alisson,1007,1,0,São Paulo
+30852,206615,5,Desarmes,Arboleda,1007,1,0,São Paulo
+30853,206615,5,Desarmes,Beraldo,1007,2,0,São Paulo
+30854,206615,5,Desarmes,David,1007,1,0,São Paulo
+30855,206615,5,Desarmes,Juan,1007,2,0,São Paulo
+30856,206615,5,Desarmes,Pablo Maia,1007,1,0,São Paulo
+30857,206615,5,Desarmes,Rafinha,1007,1,0,São Paulo
+30858,206615,14,Cruzamentos,Bruno Rodrigues,1017,0,6,Cruzeiro
+30859,206615,14,Cruzamentos,Filipe Machado,1017,0,4,Cruzeiro
+30860,206615,14,Cruzamentos,Gilberto,1017,0,2,Cruzeiro
+30861,206615,14,Cruzamentos,Marlon,1017,1,3,Cruzeiro
+30862,206615,14,Cruzamentos,Mateus Vital,1017,0,2,Cruzeiro
+30863,206615,14,Cruzamentos,Oliveira,1017,1,0,Cruzeiro
+30864,206615,14,Cruzamentos,William,1017,0,3,Cruzeiro
+30865,206615,14,Cruzamentos,Alisson,1007,1,2,São Paulo
+30866,206615,14,Cruzamentos,Caio Paulista,1007,3,4,São Paulo
+30867,206615,14,Cruzamentos,Jonathan Calleri,1007,0,1,São Paulo
+30868,206615,14,Cruzamentos,Juan,1007,0,1,São Paulo
+30869,206615,14,Cruzamentos,Luciano  ,1007,1,0,São Paulo
+30870,206615,14,Cruzamentos,Marcos Paulo,1007,1,0,São Paulo
+30871,206615,14,Cruzamentos,Rafinha,1007,1,3,São Paulo
+30872,206615,14,Cruzamentos,Rodrigo Nestor,1007,0,2,São Paulo
+30873,206615,14,Cruzamentos,Rodriguinho,1007,0,1,São Paulo
+30874,206615,14,Cruzamentos,Wellington Rato,1007,0,7,São Paulo
+30875,206615,1,Lançamentos,Bruno Rodrigues,1017,1,0,Cruzeiro
+30876,206615,1,Lançamentos,Filipe Machado,1017,2,1,Cruzeiro
+30877,206615,1,Lançamentos,Marlon,1017,0,1,Cruzeiro
+30878,206615,1,Lançamentos,Matheus Jussa,1017,2,1,Cruzeiro
+30879,206615,1,Lançamentos,Neris,1017,0,3,Cruzeiro
+30880,206615,1,Lançamentos,Oliveira,1017,3,4,Cruzeiro
+30881,206615,1,Lançamentos,Rafael,1017,14,12,Cruzeiro
+30882,206615,1,Lançamentos,Reynaldo,1017,1,4,Cruzeiro
+30883,206615,1,Lançamentos,Wesley,1017,1,0,Cruzeiro
+30884,206615,1,Lançamentos,William,1017,2,2,Cruzeiro
+30885,206615,1,Lançamentos,Arboleda,1007,2,5,São Paulo
+30886,206615,1,Lançamentos,Beraldo,1007,1,4,São Paulo
+30887,206615,1,Lançamentos,Caio Paulista,1007,0,1,São Paulo
+30888,206615,1,Lançamentos,Jhegson Méndez,1007,3,1,São Paulo
+30889,206615,1,Lançamentos,Luciano  ,1007,1,0,São Paulo
+30890,206615,1,Lançamentos,Pablo Maia,1007,5,1,São Paulo
+30891,206615,1,Lançamentos,Rafael,1007,3,4,São Paulo
+30892,206615,1,Lançamentos,Rafinha,1007,8,2,São Paulo
+30893,206615,1,Lançamentos,Wellington Rato,1007,1,0,São Paulo
+30894,206615,24,Interceptações,Bruno Rodrigues,1017,0,1,Cruzeiro
+30895,206615,24,Interceptações,Filipe Machado,1017,2,0,Cruzeiro
+30896,206615,24,Interceptações,Marlon,1017,1,0,Cruzeiro
+30897,206615,24,Interceptações,Neris,1017,1,0,Cruzeiro
+30898,206615,24,Interceptações,Oliveira,1017,1,0,Cruzeiro
+30899,206615,24,Interceptações,Rafinha,1007,1,0,São Paulo
+30900,206615,4,Dribles,William,1017,1,0,Cruzeiro
+30901,206615,4,Dribles,Wellington Rato,1007,1,0,São Paulo
+30902,206615,22,Viradas de jogo,Bruno Rodrigues,1017,0,1,Cruzeiro
+30903,206615,22,Viradas de jogo,Marlon,1017,1,0,Cruzeiro
+30904,206615,22,Viradas de jogo,Wesley,1017,1,0,Cruzeiro
+30905,206615,22,Viradas de jogo,William,1017,0,1,Cruzeiro
+30906,206615,22,Viradas de jogo,Arboleda,1007,1,0,São Paulo
+30907,206615,22,Viradas de jogo,Beraldo,1007,1,1,São Paulo
+30908,206615,22,Viradas de jogo,Luciano  ,1007,1,0,São Paulo
+30909,206615,22,Viradas de jogo,Pablo Maia,1007,1,0,São Paulo
+30910,206615,22,Viradas de jogo,Rafinha,1007,3,0,São Paulo
+30911,206615,22,Viradas de jogo,Wellington Rato,1007,1,0,São Paulo
+30912,206615,20,Posse de bola,Bruno Rodrigues,1017,107,0,Cruzeiro
+30913,206615,20,Posse de bola,Filipe Machado,1017,50,0,Cruzeiro
+30914,206615,20,Posse de bola,Gilberto,1017,38,0,Cruzeiro
+30915,206615,20,Posse de bola,Henrique Dourado,1017,16,0,Cruzeiro
+30916,206615,20,Posse de bola,Ian Luccas,1017,6,0,Cruzeiro
+30917,206615,20,Posse de bola,Marlon,1017,107,0,Cruzeiro
+30918,206615,20,Posse de bola,Mateus Vital,1017,60,0,Cruzeiro
+30919,206615,20,Posse de bola,Matheus Jussa,1017,49,0,Cruzeiro
+30920,206615,20,Posse de bola,Neris,1017,22,0,Cruzeiro
+30921,206615,20,Posse de bola,Neto Moura,1017,6,0,Cruzeiro
+30922,206615,20,Posse de bola,Oliveira,1017,92,0,Cruzeiro
+30923,206615,20,Posse de bola,Rafael,1017,244,0,Cruzeiro
+30924,206615,20,Posse de bola,Reynaldo,1017,42,0,Cruzeiro
+30925,206615,20,Posse de bola,Stênio,1017,14,0,Cruzeiro
+30926,206615,20,Posse de bola,Wesley,1017,69,0,Cruzeiro
+30927,206615,20,Posse de bola,William,1017,115,0,Cruzeiro
+30928,206615,20,Posse de bola,Alisson,1007,45,0,São Paulo
+30929,206615,20,Posse de bola,Arboleda,1007,225,0,São Paulo
+30930,206615,20,Posse de bola,Beraldo,1007,282,0,São Paulo
+30931,206615,20,Posse de bola,Caio Paulista,1007,197,0,São Paulo
+30932,206615,20,Posse de bola,David,1007,37,0,São Paulo
+30933,206615,20,Posse de bola,Jhegson Méndez,1007,109,0,São Paulo
+30934,206615,20,Posse de bola,Jonathan Calleri,1007,64,0,São Paulo
+30935,206615,20,Posse de bola,Juan,1007,26,0,São Paulo
+30936,206615,20,Posse de bola,Luciano  ,1007,76,0,São Paulo
+30937,206615,20,Posse de bola,Marcos Paulo,1007,24,0,São Paulo
+30938,206615,20,Posse de bola,Pablo Maia,1007,184,0,São Paulo
+30939,206615,20,Posse de bola,Rafael,1007,89,0,São Paulo
+30940,206615,20,Posse de bola,Rafinha,1007,263,0,São Paulo
+30941,206615,20,Posse de bola,Rodrigo Nestor,1007,76,0,São Paulo
+30942,206615,20,Posse de bola,Rodriguinho,1007,24,0,São Paulo
+30943,206615,20,Posse de bola,Wellington Rato,1007,104,0,São Paulo
+30944,206615,20,Posse de bola,Bruno Rodrigues,1017,107,0,Cruzeiro
+30945,206615,20,Posse de bola,Filipe Machado,1017,50,0,Cruzeiro
+30946,206615,20,Posse de bola,Gilberto,1017,38,0,Cruzeiro
+30947,206615,20,Posse de bola,Henrique Dourado,1017,16,0,Cruzeiro
+30948,206615,20,Posse de bola,Ian Luccas,1017,6,0,Cruzeiro
+30949,206615,20,Posse de bola,Marlon,1017,107,0,Cruzeiro
+30950,206615,20,Posse de bola,Mateus Vital,1017,60,0,Cruzeiro
+30951,206615,20,Posse de bola,Matheus Jussa,1017,49,0,Cruzeiro
+30952,206615,20,Posse de bola,Neris,1017,22,0,Cruzeiro
+30953,206615,20,Posse de bola,Neto Moura,1017,6,0,Cruzeiro
+30954,206615,20,Posse de bola,Oliveira,1017,92,0,Cruzeiro
+30955,206615,20,Posse de bola,Rafael,1017,244,0,Cruzeiro
+30956,206615,20,Posse de bola,Reynaldo,1017,42,0,Cruzeiro
+30957,206615,20,Posse de bola,Stênio,1017,14,0,Cruzeiro
+30958,206615,20,Posse de bola,Wesley,1017,69,0,Cruzeiro
+30959,206615,20,Posse de bola,William,1017,115,0,Cruzeiro
+30960,206615,20,Posse de bola,Alisson,1007,45,0,São Paulo
+30961,206615,20,Posse de bola,Arboleda,1007,225,0,São Paulo
+30962,206615,20,Posse de bola,Beraldo,1007,282,0,São Paulo
+30963,206615,20,Posse de bola,Caio Paulista,1007,197,0,São Paulo
+30964,206615,20,Posse de bola,David,1007,37,0,São Paulo
+30965,206615,20,Posse de bola,Jhegson Méndez,1007,109,0,São Paulo
+30966,206615,20,Posse de bola,Jonathan Calleri,1007,64,0,São Paulo
+30967,206615,20,Posse de bola,Juan,1007,26,0,São Paulo
+30968,206615,20,Posse de bola,Luciano  ,1007,76,0,São Paulo
+30969,206615,20,Posse de bola,Marcos Paulo,1007,24,0,São Paulo
+30970,206615,20,Posse de bola,Pablo Maia,1007,184,0,São Paulo
+30971,206615,20,Posse de bola,Rafael,1007,89,0,São Paulo
+30972,206615,20,Posse de bola,Rafinha,1007,263,0,São Paulo
+30973,206615,20,Posse de bola,Rodrigo Nestor,1007,76,0,São Paulo
+30974,206615,20,Posse de bola,Rodriguinho,1007,24,0,São Paulo
+30975,206615,20,Posse de bola,Wellington Rato,1007,104,0,São Paulo
+30976,206615,8,Gols,Rafinha,1007,0,1,São Paulo
+30977,206615,28,Assistências para finalização,Bruno Rodrigues,1017,2,0,Cruzeiro
+30978,206615,28,Assistências para finalização,Marlon,1017,1,0,Cruzeiro
+30979,206615,28,Assistências para finalização,Mateus Vital,1017,2,0,Cruzeiro
+30980,206615,28,Assistências para finalização,William,1017,1,0,Cruzeiro
+30981,206615,28,Assistências para finalização,Alisson,1007,1,0,São Paulo
+30982,206615,28,Assistências para finalização,Beraldo,1007,1,0,São Paulo
+30983,206615,28,Assistências para finalização,Caio Paulista,1007,1,0,São Paulo
+30984,206615,28,Assistências para finalização,Jhegson Méndez,1007,1,0,São Paulo
+30985,206615,28,Assistências para finalização,Luciano  ,1007,1,0,São Paulo
+30986,206615,28,Assistências para finalização,Rafinha,1007,3,0,São Paulo
+30987,206615,28,Assistências para finalização,Rodrigo Nestor,1007,1,0,São Paulo
+30988,206615,15,Defesas,Oliveira,1017,1,0,Cruzeiro
+30989,206615,15,Defesas,Rafael,1017,6,0,Cruzeiro
+30990,206615,15,Defesas,Rafinha,1007,1,0,São Paulo
+30991,206615,23,Defesas difíceis,Rafael,1017,1,0,Cruzeiro
+30992,206615,19,Rebatidas,Bruno Rodrigues,1017,3,0,Cruzeiro
+30993,206615,19,Rebatidas,Ian Luccas,1017,1,0,Cruzeiro
+30994,206615,19,Rebatidas,Marlon,1017,4,0,Cruzeiro
+30995,206615,19,Rebatidas,Matheus Jussa,1017,4,0,Cruzeiro
+30996,206615,19,Rebatidas,Neris,1017,2,0,Cruzeiro
+30997,206615,19,Rebatidas,Oliveira,1017,11,0,Cruzeiro
+30998,206615,19,Rebatidas,Reynaldo,1017,5,0,Cruzeiro
+30999,206615,19,Rebatidas,Wesley,1017,2,0,Cruzeiro
+31000,206615,19,Rebatidas,William,1017,1,0,Cruzeiro
+31001,206615,19,Rebatidas,Arboleda,1007,4,0,São Paulo
+31002,206615,19,Rebatidas,Beraldo,1007,4,0,São Paulo
+31003,206615,19,Rebatidas,Caio Paulista,1007,1,0,São Paulo
+31004,206615,19,Rebatidas,Jhegson Méndez,1007,1,0,São Paulo
+31005,206615,19,Rebatidas,Jonathan Calleri,1007,1,0,São Paulo
+31006,206615,19,Rebatidas,Juan,1007,1,0,São Paulo
+31007,206615,19,Rebatidas,Rafael,1007,1,0,São Paulo
+31008,206615,19,Rebatidas,Rafinha,1007,1,0,São Paulo
+31009,206615,19,Rebatidas,Wellington Rato,1007,1,0,São Paulo
+31010,206615,6,Faltas cometidas,Filipe Machado,1017,1,0,Cruzeiro
+31011,206615,6,Faltas cometidas,Gilberto,1017,1,0,Cruzeiro
+31012,206615,6,Faltas cometidas,Henrique Dourado,1017,1,0,Cruzeiro
+31013,206615,6,Faltas cometidas,Matheus Jussa,1017,4,0,Cruzeiro
+31014,206615,6,Faltas cometidas,Neris,1017,1,0,Cruzeiro
+31015,206615,6,Faltas cometidas,Reynaldo,1017,2,0,Cruzeiro
+31016,206615,6,Faltas cometidas,Stênio,1017,2,0,Cruzeiro
+31017,206615,6,Faltas cometidas,Wesley,1017,2,0,Cruzeiro
+31018,206615,6,Faltas cometidas,Beraldo,1007,1,0,São Paulo
+31019,206615,6,Faltas cometidas,Caio Paulista,1007,1,0,São Paulo
+31020,206615,6,Faltas cometidas,David,1007,1,0,São Paulo
+31021,206615,6,Faltas cometidas,Jhegson Méndez,1007,1,0,São Paulo
+31022,206615,6,Faltas cometidas,Juan,1007,1,0,São Paulo
+31023,206615,6,Faltas cometidas,Luciano  ,1007,1,0,São Paulo
+31024,206615,6,Faltas cometidas,Pablo Maia,1007,2,0,São Paulo
+31025,206615,6,Faltas cometidas,Rafinha,1007,1,0,São Paulo
+31026,206615,6,Faltas cometidas,Rodrigo Nestor,1007,3,0,São Paulo
+31027,206615,6,Faltas cometidas,Rodriguinho,1007,2,0,São Paulo
+31028,206615,6,Faltas cometidas,Wellington Rato,1007,1,0,São Paulo
+31029,206615,7,Faltas sofridas,Bruno Rodrigues,1017,3,0,Cruzeiro
+31030,206615,7,Faltas sofridas,Filipe Machado,1017,1,0,Cruzeiro
+31031,206615,7,Faltas sofridas,Gilberto,1017,1,0,Cruzeiro
+31032,206615,7,Faltas sofridas,Henrique Dourado,1017,2,0,Cruzeiro
+31033,206615,7,Faltas sofridas,Mateus Vital,1017,1,0,Cruzeiro
+31034,206615,7,Faltas sofridas,Wesley,1017,2,0,Cruzeiro
+31035,206615,7,Faltas sofridas,William,1017,3,0,Cruzeiro
+31036,206615,7,Faltas sofridas,Arboleda,1007,1,0,São Paulo
+31037,206615,7,Faltas sofridas,Beraldo,1007,3,0,São Paulo
+31038,206615,7,Faltas sofridas,Caio Paulista,1007,2,0,São Paulo
+31039,206615,7,Faltas sofridas,Jonathan Calleri,1007,2,0,São Paulo
+31040,206615,7,Faltas sofridas,Luciano  ,1007,2,0,São Paulo
+31041,206615,7,Faltas sofridas,Rafael,1007,1,0,São Paulo
+31042,206615,7,Faltas sofridas,Rafinha,1007,1,0,São Paulo
+31043,206615,7,Faltas sofridas,Rodrigo Nestor,1007,1,0,São Paulo
+31044,206615,9,Impedimentos,Henrique Dourado,1017,1,0,Cruzeiro
+31045,206615,9,Impedimentos,David,1007,2,0,São Paulo
+31046,206615,9,Impedimentos,Jonathan Calleri,1007,3,0,São Paulo
+31047,206615,9,Impedimentos,Rodrigo Nestor,1007,1,0,São Paulo
+31048,206615,9,Impedimentos,Wellington Rato,1007,2,0,São Paulo
+31049,206615,12,Perda da posse de bola,Bruno Rodrigues,1017,7,0,Cruzeiro
+31050,206615,12,Perda da posse de bola,Filipe Machado,1017,1,0,Cruzeiro
+31051,206615,12,Perda da posse de bola,Gilberto,1017,4,0,Cruzeiro
+31052,206615,12,Perda da posse de bola,Henrique Dourado,1017,1,0,Cruzeiro
+31053,206615,12,Perda da posse de bola,Marlon,1017,1,0,Cruzeiro
+31054,206615,12,Perda da posse de bola,Mateus Vital,1017,2,0,Cruzeiro
+31055,206615,12,Perda da posse de bola,Matheus Jussa,1017,1,0,Cruzeiro
+31056,206615,12,Perda da posse de bola,Stênio,1017,2,0,Cruzeiro
+31057,206615,12,Perda da posse de bola,Wesley,1017,2,0,Cruzeiro
+31058,206615,12,Perda da posse de bola,Alisson,1007,1,0,São Paulo
+31059,206615,12,Perda da posse de bola,Beraldo,1007,1,0,São Paulo
+31060,206615,12,Perda da posse de bola,Caio Paulista,1007,3,0,São Paulo
+31061,206615,12,Perda da posse de bola,David,1007,3,0,São Paulo
+31062,206615,12,Perda da posse de bola,Jhegson Méndez,1007,1,0,São Paulo
+31063,206615,12,Perda da posse de bola,Jonathan Calleri,1007,6,0,São Paulo
+31064,206615,12,Perda da posse de bola,Juan,1007,1,0,São Paulo
+31065,206615,12,Perda da posse de bola,Luciano  ,1007,3,0,São Paulo
+31066,206615,12,Perda da posse de bola,Marcos Paulo,1007,2,0,São Paulo
+31067,206615,12,Perda da posse de bola,Pablo Maia,1007,1,0,São Paulo
+31068,206615,12,Perda da posse de bola,Rodrigo Nestor,1007,3,0,São Paulo
+31069,206615,12,Perda da posse de bola,Rodriguinho,1007,2,0,São Paulo
+31070,206615,12,Perda da posse de bola,Wellington Rato,1007,1,0,São Paulo
+31071,206615,25,Cartões amarelos,Henrique Dourado,1017,1,0,Cruzeiro
+31072,206615,25,Cartões amarelos,David,1007,1,0,São Paulo
+31073,206615,25,Cartões amarelos,Rodrigo Nestor,1007,1,0,São Paulo
+31074,206615,25,Cartões amarelos,Rodriguinho,1007,1,0,São Paulo
+31075,206726,2,Passes,André Henrique,1083,5,1,Grêmio
+31076,206726,2,Passes,Bitello,1083,22,7,Grêmio
+31077,206726,2,Passes,Bruno Alves,1083,11,0,Grêmio
+31078,206726,2,Passes,Bruno Uvini,1083,15,2,Grêmio
+31079,206726,2,Passes,Cuiabano,1083,1,2,Grêmio
+31080,206726,2,Passes,Felipe Carballo,1083,23,7,Grêmio
+31081,206726,2,Passes,Franco Cristaldo,1083,24,5,Grêmio
+31082,206726,2,Passes,Gabriel Grando,1083,14,0,Grêmio
+31083,206726,2,Passes,João Pedro,1083,32,8,Grêmio
+31084,206726,2,Passes,Kannemann,1083,30,1,Grêmio
+31085,206726,2,Passes,Lian,1083,2,0,Grêmio
+31086,206726,2,Passes,Luis Suárez,1083,11,6,Grêmio
+31087,206726,2,Passes,Mathías Villasanti,1083,28,4,Grêmio
+31088,206726,2,Passes,Nathan,1083,5,0,Grêmio
+31089,206726,2,Passes,Reinaldo,1083,33,7,Grêmio
+31090,206726,2,Passes,Vinícius Vina,1083,22,1,Grêmio
+31091,206726,2,Passes,Alef Manga,1008,28,7,Coritiba
+31092,206726,2,Passes,Andrey,1008,22,6,Coritiba
+31093,206726,2,Passes,Boschilia ,1008,7,1,Coritiba
+31094,206726,2,Passes,Bruno Gomes,1008,30,8,Coritiba
+31095,206726,2,Passes,Bruno Viana,1008,35,1,Coritiba
+31096,206726,2,Passes,Gabriel Vasconcelos,1008,15,0,Coritiba
+31097,206726,2,Passes,Jamerson Bahia,1008,26,4,Coritiba
+31098,206726,2,Passes,Jean Pedroso,1008,25,2,Coritiba
+31099,206726,2,Passes,Kuscevic,1008,22,4,Coritiba
+31100,206726,2,Passes,Marcelino Moreno,1008,24,5,Coritiba
+31101,206726,2,Passes,Marcos Vinícius,1008,9,1,Coritiba
+31102,206726,2,Passes,Matheus Bianqui,1008,6,1,Coritiba
+31103,206726,2,Passes,Natanael,1008,27,2,Coritiba
+31104,206726,2,Passes,Rodrigo Pinho,1008,3,1,Coritiba
+31105,206726,2,Passes,Zé Roberto,1008,10,4,Coritiba
+31106,206726,3,Finalizações,André Henrique,1083,1,0,Grêmio
+31107,206726,3,Finalizações,Bitello,1083,1,0,Grêmio
+31108,206726,3,Finalizações,Bruno Uvini,1083,1,0,Grêmio
+31109,206726,3,Finalizações,Felipe Carballo,1083,1,3,Grêmio
+31110,206726,3,Finalizações,Franco Cristaldo,1083,1,0,Grêmio
+31111,206726,3,Finalizações,Kannemann,1083,1,0,Grêmio
+31112,206726,3,Finalizações,Luis Suárez,1083,2,2,Grêmio
+31113,206726,3,Finalizações,Mathías Villasanti,1083,1,0,Grêmio
+31114,206726,3,Finalizações,Reinaldo,1083,0,1,Grêmio
+31115,206726,3,Finalizações,Vinícius Vina,1083,1,2,Grêmio
+31116,206726,3,Finalizações,Alef Manga,1008,1,2,Coritiba
+31117,206726,3,Finalizações,Bruno Viana,1008,0,1,Coritiba
+31118,206726,3,Finalizações,Jamerson Bahia,1008,1,0,Coritiba
+31119,206726,3,Finalizações,Jean Pedroso,1008,0,1,Coritiba
+31120,206726,3,Finalizações,Marcelino Moreno,1008,2,0,Coritiba
+31121,206726,3,Finalizações,Matheus Bianqui,1008,1,1,Coritiba
+31122,206726,3,Finalizações,Natanael,1008,2,2,Coritiba
+31123,206726,3,Finalizações,Rodrigo Pinho,1008,1,1,Coritiba
+31124,206726,5,Desarmes,André Henrique,1083,1,0,Grêmio
+31125,206726,5,Desarmes,Bruno Uvini,1083,1,0,Grêmio
+31126,206726,5,Desarmes,Felipe Carballo,1083,2,1,Grêmio
+31127,206726,5,Desarmes,Kannemann,1083,1,0,Grêmio
+31128,206726,5,Desarmes,Mathías Villasanti,1083,2,0,Grêmio
+31129,206726,5,Desarmes,Nathan,1083,1,0,Grêmio
+31130,206726,5,Desarmes,Reinaldo,1083,2,0,Grêmio
+31131,206726,5,Desarmes,Alef Manga,1008,1,0,Coritiba
+31132,206726,5,Desarmes,Andrey,1008,1,0,Coritiba
+31133,206726,5,Desarmes,Bruno Gomes,1008,2,0,Coritiba
+31134,206726,5,Desarmes,Jamerson Bahia,1008,1,0,Coritiba
+31135,206726,5,Desarmes,Jean Pedroso,1008,3,0,Coritiba
+31136,206726,5,Desarmes,Kuscevic,1008,1,0,Coritiba
+31137,206726,5,Desarmes,Marcelino Moreno,1008,2,0,Coritiba
+31138,206726,5,Desarmes,Marcos Vinícius,1008,1,0,Coritiba
+31139,206726,5,Desarmes,Matheus Bianqui,1008,1,0,Coritiba
+31140,206726,5,Desarmes,Natanael,1008,0,1,Coritiba
+31141,206726,5,Desarmes,Rodrigo Pinho,1008,0,1,Coritiba
+31142,206726,14,Cruzamentos,Bitello,1083,1,2,Grêmio
+31143,206726,14,Cruzamentos,Bruno Uvini,1083,0,1,Grêmio
+31144,206726,14,Cruzamentos,Cuiabano,1083,0,1,Grêmio
+31145,206726,14,Cruzamentos,Felipe Carballo,1083,0,1,Grêmio
+31146,206726,14,Cruzamentos,Franco Cristaldo,1083,4,1,Grêmio
+31147,206726,14,Cruzamentos,João Pedro,1083,0,2,Grêmio
+31148,206726,14,Cruzamentos,Luis Suárez,1083,1,0,Grêmio
+31149,206726,14,Cruzamentos,Reinaldo,1083,0,2,Grêmio
+31150,206726,14,Cruzamentos,Vinícius Vina,1083,0,1,Grêmio
+31151,206726,14,Cruzamentos,Andrey,1008,2,0,Coritiba
+31152,206726,14,Cruzamentos,Boschilia ,1008,0,1,Coritiba
+31153,206726,14,Cruzamentos,Bruno Viana,1008,0,1,Coritiba
+31154,206726,14,Cruzamentos,Jamerson Bahia,1008,1,1,Coritiba
+31155,206726,14,Cruzamentos,Marcelino Moreno,1008,0,1,Coritiba
+31156,206726,14,Cruzamentos,Marcos Vinícius,1008,0,2,Coritiba
+31157,206726,14,Cruzamentos,Natanael,1008,1,2,Coritiba
+31158,206726,1,Lançamentos,Bruno Alves,1083,1,0,Grêmio
+31159,206726,1,Lançamentos,Bruno Uvini,1083,1,2,Grêmio
+31160,206726,1,Lançamentos,Felipe Carballo,1083,0,1,Grêmio
+31161,206726,1,Lançamentos,Franco Cristaldo,1083,1,2,Grêmio
+31162,206726,1,Lançamentos,Gabriel Grando,1083,4,9,Grêmio
+31163,206726,1,Lançamentos,João Pedro,1083,0,1,Grêmio
+31164,206726,1,Lançamentos,Kannemann,1083,1,0,Grêmio
+31165,206726,1,Lançamentos,Luis Suárez,1083,0,1,Grêmio
+31166,206726,1,Lançamentos,Mathías Villasanti,1083,0,1,Grêmio
+31167,206726,1,Lançamentos,Reinaldo,1083,1,0,Grêmio
+31168,206726,1,Lançamentos,Vinícius Vina,1083,1,1,Grêmio
+31169,206726,1,Lançamentos,Boschilia ,1008,1,0,Coritiba
+31170,206726,1,Lançamentos,Bruno Gomes,1008,1,0,Coritiba
+31171,206726,1,Lançamentos,Bruno Viana,1008,0,2,Coritiba
+31172,206726,1,Lançamentos,Gabriel Vasconcelos,1008,4,9,Coritiba
+31173,206726,1,Lançamentos,Jean Pedroso,1008,2,2,Coritiba
+31174,206726,1,Lançamentos,Kuscevic,1008,1,2,Coritiba
+31175,206726,1,Lançamentos,Marcos Vinícius,1008,1,0,Coritiba
+31176,206726,24,Interceptações,Bitello,1083,1,0,Grêmio
+31177,206726,24,Interceptações,Bruno Uvini,1083,0,1,Grêmio
+31178,206726,24,Interceptações,Felipe Carballo,1083,0,1,Grêmio
+31179,206726,24,Interceptações,Franco Cristaldo,1083,2,0,Grêmio
+31180,206726,24,Interceptações,Vinícius Vina,1083,2,0,Grêmio
+31181,206726,24,Interceptações,Andrey,1008,0,1,Coritiba
+31182,206726,24,Interceptações,Bruno Gomes,1008,1,0,Coritiba
+31183,206726,24,Interceptações,Bruno Viana,1008,1,0,Coritiba
+31184,206726,24,Interceptações,Jamerson Bahia,1008,1,0,Coritiba
+31185,206726,24,Interceptações,Jean Pedroso,1008,0,1,Coritiba
+31186,206726,24,Interceptações,Kuscevic,1008,1,1,Coritiba
+31187,206726,24,Interceptações,Matheus Bianqui,1008,1,0,Coritiba
+31188,206726,24,Interceptações,Natanael,1008,1,0,Coritiba
+31189,206726,4,Dribles,Bitello,1083,1,0,Grêmio
+31190,206726,4,Dribles,Luis Suárez,1083,1,1,Grêmio
+31191,206726,4,Dribles,Vinícius Vina,1083,0,2,Grêmio
+31192,206726,4,Dribles,Alef Manga,1008,2,3,Coritiba
+31193,206726,4,Dribles,Bruno Gomes,1008,1,0,Coritiba
+31194,206726,4,Dribles,Jamerson Bahia,1008,1,1,Coritiba
+31195,206726,4,Dribles,Kuscevic,1008,1,0,Coritiba
+31196,206726,4,Dribles,Marcelino Moreno,1008,2,1,Coritiba
+31197,206726,22,Viradas de jogo,Felipe Carballo,1083,2,0,Grêmio
+31198,206726,22,Viradas de jogo,Kannemann,1083,1,0,Grêmio
+31199,206726,22,Viradas de jogo,Andrey,1008,1,0,Coritiba
+31200,206726,22,Viradas de jogo,Bruno Viana,1008,1,0,Coritiba
+31201,206726,22,Viradas de jogo,Jamerson Bahia,1008,1,0,Coritiba
+31202,206726,22,Viradas de jogo,Marcelino Moreno,1008,1,1,Coritiba
+31203,206726,22,Viradas de jogo,Rodrigo Pinho,1008,1,0,Coritiba
+31204,206726,20,Posse de bola,André Henrique,1083,22,0,Grêmio
+31205,206726,20,Posse de bola,Bitello,1083,99,0,Grêmio
+31206,206726,20,Posse de bola,Bruno Alves,1083,28,0,Grêmio
+31207,206726,20,Posse de bola,Bruno Uvini,1083,60,0,Grêmio
+31208,206726,20,Posse de bola,Cuiabano,1083,14,0,Grêmio
+31209,206726,20,Posse de bola,Felipe Carballo,1083,99,0,Grêmio
+31210,206726,20,Posse de bola,Franco Cristaldo,1083,86,0,Grêmio
+31211,206726,20,Posse de bola,Gabriel Grando,1083,96,0,Grêmio
+31212,206726,20,Posse de bola,João Pedro,1083,120,0,Grêmio
+31213,206726,20,Posse de bola,Kannemann,1083,102,0,Grêmio
+31214,206726,20,Posse de bola,Lian,1083,6,0,Grêmio
+31215,206726,20,Posse de bola,Luis Suárez,1083,77,0,Grêmio
+31216,206726,20,Posse de bola,Mathías Villasanti,1083,84,0,Grêmio
+31217,206726,20,Posse de bola,Nathan,1083,16,0,Grêmio
+31218,206726,20,Posse de bola,Reinaldo,1083,112,0,Grêmio
+31219,206726,20,Posse de bola,Vinícius Vina,1083,70,0,Grêmio
+31220,206726,20,Posse de bola,Alef Manga,1008,133,0,Coritiba
+31221,206726,20,Posse de bola,Andrey,1008,74,0,Coritiba
+31222,206726,20,Posse de bola,Boschilia ,1008,28,0,Coritiba
+31223,206726,20,Posse de bola,Bruno Gomes,1008,106,0,Coritiba
+31224,206726,20,Posse de bola,Bruno Viana,1008,115,0,Coritiba
+31225,206726,20,Posse de bola,Gabriel Vasconcelos,1008,76,0,Coritiba
+31226,206726,20,Posse de bola,Jamerson Bahia,1008,104,0,Coritiba
+31227,206726,20,Posse de bola,Jean Pedroso,1008,93,0,Coritiba
+31228,206726,20,Posse de bola,Kuscevic,1008,100,0,Coritiba
+31229,206726,20,Posse de bola,Marcelino Moreno,1008,98,0,Coritiba
+31230,206726,20,Posse de bola,Marcos Vinícius,1008,32,0,Coritiba
+31231,206726,20,Posse de bola,Matheus Bianqui,1008,30,0,Coritiba
+31232,206726,20,Posse de bola,Natanael,1008,96,0,Coritiba
+31233,206726,20,Posse de bola,Rodrigo Pinho,1008,18,0,Coritiba
+31234,206726,20,Posse de bola,Zé Roberto,1008,42,0,Coritiba
+31235,206726,8,Gols,André Henrique,1083,1,0,Grêmio
+31236,206726,8,Gols,Bitello,1083,1,0,Grêmio
+31237,206726,8,Gols,Franco Cristaldo,1083,1,0,Grêmio
+31238,206726,8,Gols,Luis Suárez,1083,1,0,Grêmio
+31239,206726,8,Gols,Mathías Villasanti,1083,1,0,Grêmio
+31240,206726,8,Gols,Alef Manga,1008,1,0,Coritiba
+31241,206726,28,Assistências para finalização,Bitello,1083,2,0,Grêmio
+31242,206726,28,Assistências para finalização,Bruno Uvini,1083,1,0,Grêmio
+31243,206726,28,Assistências para finalização,Franco Cristaldo,1083,3,0,Grêmio
+31244,206726,28,Assistências para finalização,João Pedro,1083,1,0,Grêmio
+31245,206726,28,Assistências para finalização,Vinícius Vina,1083,3,0,Grêmio
+31246,206726,28,Assistências para finalização,Alef Manga,1008,4,0,Coritiba
+31247,206726,28,Assistências para finalização,Andrey,1008,2,0,Coritiba
+31248,206726,28,Assistências para finalização,Bruno Gomes,1008,3,0,Coritiba
+31249,206726,28,Assistências para finalização,Jamerson Bahia,1008,2,0,Coritiba
+31250,206726,28,Assistências para finalização,Marcos Vinícius,1008,1,0,Coritiba
+31251,206726,28,Assistências para finalização,Rodrigo Pinho,1008,1,0,Coritiba
+31252,206726,27,Assistências,João Pedro,1083,1,0,Grêmio
+31253,206726,27,Assistências,Luis Suárez,1083,1,0,Grêmio
+31254,206726,27,Assistências,Nathan,1083,1,0,Grêmio
+31255,206726,27,Assistências,Reinaldo,1083,1,0,Grêmio
+31256,206726,27,Assistências,Marcelino Moreno,1008,1,0,Coritiba
+31257,206726,15,Defesas,Gabriel Grando,1083,5,0,Grêmio
+31258,206726,15,Defesas,Kannemann,1083,2,0,Grêmio
+31259,206726,15,Defesas,Bruno Viana,1008,1,0,Coritiba
+31260,206726,15,Defesas,Gabriel Vasconcelos,1008,1,0,Coritiba
+31261,206726,15,Defesas,Jean Pedroso,1008,1,0,Coritiba
+31262,206726,15,Defesas,Natanael,1008,1,0,Coritiba
+31263,206726,23,Defesas difíceis,Gabriel Grando,1083,1,0,Grêmio
+31264,206726,23,Defesas difíceis,Gabriel Vasconcelos,1008,3,0,Coritiba
+31265,206726,19,Rebatidas,Bruno Alves,1083,2,0,Grêmio
+31266,206726,19,Rebatidas,Bruno Uvini,1083,3,0,Grêmio
+31267,206726,19,Rebatidas,Cuiabano,1083,2,0,Grêmio
+31268,206726,19,Rebatidas,Felipe Carballo,1083,1,0,Grêmio
+31269,206726,19,Rebatidas,João Pedro,1083,2,0,Grêmio
+31270,206726,19,Rebatidas,Kannemann,1083,10,0,Grêmio
+31271,206726,19,Rebatidas,Mathías Villasanti,1083,2,0,Grêmio
+31272,206726,19,Rebatidas,Reinaldo,1083,2,0,Grêmio
+31273,206726,19,Rebatidas,Alef Manga,1008,1,0,Coritiba
+31274,206726,19,Rebatidas,Andrey,1008,3,0,Coritiba
+31275,206726,19,Rebatidas,Bruno Gomes,1008,1,0,Coritiba
+31276,206726,19,Rebatidas,Bruno Viana,1008,9,0,Coritiba
+31277,206726,19,Rebatidas,Jamerson Bahia,1008,2,0,Coritiba
+31278,206726,19,Rebatidas,Jean Pedroso,1008,5,0,Coritiba
+31279,206726,19,Rebatidas,Kuscevic,1008,13,0,Coritiba
+31280,206726,19,Rebatidas,Marcos Vinícius,1008,1,0,Coritiba
+31281,206726,19,Rebatidas,Matheus Bianqui,1008,1,0,Coritiba
+31282,206726,19,Rebatidas,Natanael,1008,4,0,Coritiba
+31283,206726,19,Rebatidas,Zé Roberto,1008,1,0,Coritiba
+31284,206726,6,Faltas cometidas,Bruno Uvini,1083,1,0,Grêmio
+31285,206726,6,Faltas cometidas,Felipe Carballo,1083,2,0,Grêmio
+31286,206726,6,Faltas cometidas,Kannemann,1083,3,0,Grêmio
+31287,206726,6,Faltas cometidas,Luis Suárez,1083,1,0,Grêmio
+31288,206726,6,Faltas cometidas,Reinaldo,1083,2,0,Grêmio
+31289,206726,6,Faltas cometidas,Vinícius Vina,1083,1,0,Grêmio
+31290,206726,6,Faltas cometidas,Alef Manga,1008,1,0,Coritiba
+31291,206726,6,Faltas cometidas,Andrey,1008,1,0,Coritiba
+31292,206726,6,Faltas cometidas,Bruno Gomes,1008,3,0,Coritiba
+31293,206726,6,Faltas cometidas,Bruno Viana,1008,2,0,Coritiba
+31294,206726,6,Faltas cometidas,Jamerson Bahia,1008,1,0,Coritiba
+31295,206726,6,Faltas cometidas,Jean Pedroso,1008,1,0,Coritiba
+31296,206726,6,Faltas cometidas,Kuscevic,1008,3,0,Coritiba
+31297,206726,6,Faltas cometidas,Matheus Bianqui,1008,2,0,Coritiba
+31298,206726,6,Faltas cometidas,Natanael,1008,2,0,Coritiba
+31299,206726,7,Faltas sofridas,André Henrique,1083,2,0,Grêmio
+31300,206726,7,Faltas sofridas,Bitello,1083,4,0,Grêmio
+31301,206726,7,Faltas sofridas,Franco Cristaldo,1083,1,0,Grêmio
+31302,206726,7,Faltas sofridas,Kannemann,1083,1,0,Grêmio
+31303,206726,7,Faltas sofridas,Luis Suárez,1083,2,0,Grêmio
+31304,206726,7,Faltas sofridas,Mathías Villasanti,1083,1,0,Grêmio
+31305,206726,7,Faltas sofridas,Nathan,1083,1,0,Grêmio
+31306,206726,7,Faltas sofridas,Reinaldo,1083,3,0,Grêmio
+31307,206726,7,Faltas sofridas,Alef Manga,1008,3,0,Coritiba
+31308,206726,7,Faltas sofridas,Bruno Gomes,1008,3,0,Coritiba
+31309,206726,7,Faltas sofridas,Kuscevic,1008,1,0,Coritiba
+31310,206726,7,Faltas sofridas,Marcelino Moreno,1008,1,0,Coritiba
+31311,206726,7,Faltas sofridas,Zé Roberto,1008,2,0,Coritiba
+31312,206726,9,Impedimentos,Luis Suárez,1083,2,0,Grêmio
+31313,206726,9,Impedimentos,Alef Manga,1008,3,0,Coritiba
+31314,206726,9,Impedimentos,Jamerson Bahia,1008,1,0,Coritiba
+31315,206726,12,Perda da posse de bola,André Henrique,1083,1,0,Grêmio
+31316,206726,12,Perda da posse de bola,Bitello,1083,6,0,Grêmio
+31317,206726,12,Perda da posse de bola,Felipe Carballo,1083,3,0,Grêmio
+31318,206726,12,Perda da posse de bola,Franco Cristaldo,1083,1,0,Grêmio
+31319,206726,12,Perda da posse de bola,João Pedro,1083,3,0,Grêmio
+31320,206726,12,Perda da posse de bola,Luis Suárez,1083,4,0,Grêmio
+31321,206726,12,Perda da posse de bola,Mathías Villasanti,1083,3,0,Grêmio
+31322,206726,12,Perda da posse de bola,Nathan,1083,1,0,Grêmio
+31323,206726,12,Perda da posse de bola,Reinaldo,1083,1,0,Grêmio
+31324,206726,12,Perda da posse de bola,Vinícius Vina,1083,1,0,Grêmio
+31325,206726,12,Perda da posse de bola,Alef Manga,1008,3,0,Coritiba
+31326,206726,12,Perda da posse de bola,Boschilia ,1008,1,0,Coritiba
+31327,206726,12,Perda da posse de bola,Bruno Gomes,1008,2,0,Coritiba
+31328,206726,12,Perda da posse de bola,Jamerson Bahia,1008,3,0,Coritiba
+31329,206726,12,Perda da posse de bola,Marcelino Moreno,1008,6,0,Coritiba
+31330,206726,12,Perda da posse de bola,Matheus Bianqui,1008,1,0,Coritiba
+31331,206726,12,Perda da posse de bola,Natanael,1008,2,0,Coritiba
+31332,206726,12,Perda da posse de bola,Rodrigo Pinho,1008,1,0,Coritiba
+31333,206726,12,Perda da posse de bola,Zé Roberto,1008,4,0,Coritiba
+31334,206726,25,Cartões amarelos,Felipe Carballo,1083,1,0,Grêmio
+31335,206726,25,Cartões amarelos,Reinaldo,1083,1,0,Grêmio
+31336,206726,25,Cartões amarelos,Alef Manga,1008,1,0,Coritiba
+31337,206726,25,Cartões amarelos,Andrey,1008,1,0,Coritiba
+31338,206726,25,Cartões amarelos,Bruno Gomes,1008,1,0,Coritiba
+31339,206726,25,Cartões amarelos,Kuscevic,1008,1,0,Coritiba
+31340,206726,25,Cartões amarelos,Natanael,1008,1,0,Coritiba
+31341,206726,25,Cartões amarelos,Felipe Carballo,1083,1,0,Grêmio
+31342,206726,25,Cartões amarelos,Reinaldo,1083,1,0,Grêmio
+31343,206726,25,Cartões amarelos,Alef Manga,1008,1,0,Coritiba
+31344,206726,25,Cartões amarelos,Andrey,1008,1,0,Coritiba
+31345,206726,25,Cartões amarelos,Bruno Gomes,1008,1,0,Coritiba
+31346,206726,25,Cartões amarelos,Kuscevic,1008,1,0,Coritiba
+31347,206726,25,Cartões amarelos,Natanael,1008,1,0,Coritiba
+31348,206726,26,Cartões vermelhos,Bruno Gomes,1008,1,0,Coritiba
+31349,206747,2,Passes,Agustín Canobbio,1010,18,8,Athletico-PR
+31350,206747,2,Passes,Bento,1010,12,0,Athletico-PR
+31351,206747,2,Passes,Christian Roberto,1010,14,2,Athletico-PR
+31352,206747,2,Passes,David Terans,1010,1,1,Athletico-PR
+31353,206747,2,Passes,Erick,1010,27,3,Athletico-PR
+31354,206747,2,Passes,Fernandinho,1010,27,4,Athletico-PR
+31355,206747,2,Passes,Hugo Moura,1010,1,1,Athletico-PR
+31356,206747,2,Passes,Khellven,1010,30,2,Athletico-PR
+31357,206747,2,Passes,Luciano Arriagada,1010,0,1,Athletico-PR
+31358,206747,2,Passes,Madson,1010,4,1,Athletico-PR
+31359,206747,2,Passes,Pedro Henrique,1010,22,0,Athletico-PR
+31360,206747,2,Passes,Thiago Heleno,1010,22,1,Athletico-PR
+31361,206747,2,Passes,Tomás Cuello,1010,7,2,Athletico-PR
+31362,206747,2,Passes,Vitor Bueno,1010,22,3,Athletico-PR
+31363,206747,2,Passes,Vitor Roque,1010,10,3,Athletico-PR
+31364,206747,2,Passes,Zé Ivaldo,1010,19,6,Athletico-PR
+31365,206747,2,Passes,Bidu,1004,25,4,Corinthians
+31366,206747,2,Passes,Bruno Méndez,1004,43,6,Corinthians
+31367,206747,2,Passes,Caetano,1004,45,4,Corinthians
+31368,206747,2,Passes,Cássio,1004,10,0,Corinthians
+31369,206747,2,Passes,Fábio Santos,1004,52,7,Corinthians
+31370,206747,2,Passes,Gil,1004,50,2,Corinthians
+31371,206747,2,Passes,Giuliano,1004,63,3,Corinthians
+31372,206747,2,Passes,Guilherme Biro,1004,27,2,Corinthians
+31373,206747,2,Passes,Matheus Araújo,1004,13,0,Corinthians
+31374,206747,2,Passes,Maycon,1004,76,9,Corinthians
+31375,206747,2,Passes,Pedrinho,1004,2,0,Corinthians
+31376,206747,2,Passes,Roger Guedes,1004,27,2,Corinthians
+31377,206747,2,Passes,Roni,1004,17,2,Corinthians
+31378,206747,2,Passes,Ruan Oliveira,1004,10,5,Corinthians
+31379,206747,2,Passes,Wesley Teixeira,1004,3,0,Corinthians
+31380,206747,2,Passes,Yuri Alberto,1004,18,3,Corinthians
+31381,206747,3,Finalizações,Agustín Canobbio,1010,1,1,Athletico-PR
+31382,206747,3,Finalizações,Christian Roberto,1010,1,4,Athletico-PR
+31383,206747,3,Finalizações,David Terans,1010,1,0,Athletico-PR
+31384,206747,3,Finalizações,Erick,1010,1,3,Athletico-PR
+31385,206747,3,Finalizações,Fernandinho,1010,0,3,Athletico-PR
+31386,206747,3,Finalizações,Khellven,1010,0,1,Athletico-PR
+31387,206747,3,Finalizações,Pedro Henrique,1010,0,1,Athletico-PR
+31388,206747,3,Finalizações,Tomás Cuello,1010,0,1,Athletico-PR
+31389,206747,3,Finalizações,Vitor Bueno,1010,1,0,Athletico-PR
+31390,206747,3,Finalizações,Vitor Roque,1010,4,1,Athletico-PR
+31391,206747,3,Finalizações,Caetano,1004,0,1,Corinthians
+31392,206747,3,Finalizações,Giuliano,1004,0,1,Corinthians
+31393,206747,3,Finalizações,Maycon,1004,0,2,Corinthians
+31394,206747,3,Finalizações,Roger Guedes,1004,0,2,Corinthians
+31395,206747,3,Finalizações,Roni,1004,1,0,Corinthians
+31396,206747,3,Finalizações,Yuri Alberto,1004,1,3,Corinthians
+31397,206747,5,Desarmes,Agustín Canobbio,1010,3,0,Athletico-PR
+31398,206747,5,Desarmes,Erick,1010,3,0,Athletico-PR
+31399,206747,5,Desarmes,Khellven,1010,3,0,Athletico-PR
+31400,206747,5,Desarmes,Luciano Arriagada,1010,1,0,Athletico-PR
+31401,206747,5,Desarmes,Tomás Cuello,1010,1,0,Athletico-PR
+31402,206747,5,Desarmes,Zé Ivaldo,1010,4,0,Athletico-PR
+31403,206747,5,Desarmes,Caetano,1004,0,1,Corinthians
+31404,206747,5,Desarmes,Gil,1004,1,2,Corinthians
+31405,206747,5,Desarmes,Giuliano,1004,1,0,Corinthians
+31406,206747,5,Desarmes,Maycon,1004,1,1,Corinthians
+31407,206747,5,Desarmes,Roni,1004,2,0,Corinthians
+31408,206747,5,Desarmes,Wesley Teixeira,1004,1,0,Corinthians
+31409,206747,14,Cruzamentos,Agustín Canobbio,1010,0,1,Athletico-PR
+31410,206747,14,Cruzamentos,Christian Roberto,1010,1,1,Athletico-PR
+31411,206747,14,Cruzamentos,Khellven,1010,3,3,Athletico-PR
+31412,206747,14,Cruzamentos,Tomás Cuello,1010,1,2,Athletico-PR
+31413,206747,14,Cruzamentos,Vitor Bueno,1010,2,2,Athletico-PR
+31414,206747,14,Cruzamentos,Bruno Méndez,1004,0,2,Corinthians
+31415,206747,14,Cruzamentos,Fábio Santos,1004,0,2,Corinthians
+31416,206747,14,Cruzamentos,Giuliano,1004,1,1,Corinthians
+31417,206747,14,Cruzamentos,Guilherme Biro,1004,0,1,Corinthians
+31418,206747,14,Cruzamentos,Matheus Araújo,1004,0,3,Corinthians
+31419,206747,14,Cruzamentos,Maycon,1004,2,8,Corinthians
+31420,206747,14,Cruzamentos,Pedrinho,1004,0,1,Corinthians
+31421,206747,14,Cruzamentos,Roger Guedes,1004,0,1,Corinthians
+31422,206747,14,Cruzamentos,Ruan Oliveira,1004,0,2,Corinthians
+31423,206747,1,Lançamentos,Bento,1010,3,10,Athletico-PR
+31424,206747,1,Lançamentos,Christian Roberto,1010,0,1,Athletico-PR
+31425,206747,1,Lançamentos,Erick,1010,1,2,Athletico-PR
+31426,206747,1,Lançamentos,Fernandinho,1010,1,0,Athletico-PR
+31427,206747,1,Lançamentos,Khellven,1010,1,1,Athletico-PR
+31428,206747,1,Lançamentos,Madson,1010,1,0,Athletico-PR
+31429,206747,1,Lançamentos,Pedro Henrique,1010,0,4,Athletico-PR
+31430,206747,1,Lançamentos,Thiago Heleno,1010,0,2,Athletico-PR
+31431,206747,1,Lançamentos,Vitor Bueno,1010,0,1,Athletico-PR
+31432,206747,1,Lançamentos,Zé Ivaldo,1010,3,0,Athletico-PR
+31433,206747,1,Lançamentos,Bidu,1004,1,0,Corinthians
+31434,206747,1,Lançamentos,Bruno Méndez,1004,0,1,Corinthians
+31435,206747,1,Lançamentos,Caetano,1004,1,1,Corinthians
+31436,206747,1,Lançamentos,Cássio,1004,6,8,Corinthians
+31437,206747,1,Lançamentos,Fábio Santos,1004,1,0,Corinthians
+31438,206747,1,Lançamentos,Gil,1004,1,0,Corinthians
+31439,206747,1,Lançamentos,Guilherme Biro,1004,1,0,Corinthians
+31440,206747,1,Lançamentos,Matheus Araújo,1004,1,0,Corinthians
+31441,206747,1,Lançamentos,Maycon,1004,2,2,Corinthians
+31442,206747,1,Lançamentos,Roger Guedes,1004,1,1,Corinthians
+31443,206747,1,Lançamentos,Roni,1004,0,1,Corinthians
+31444,206747,24,Interceptações,Christian Roberto,1010,1,0,Athletico-PR
+31445,206747,24,Interceptações,Erick,1010,2,0,Athletico-PR
+31446,206747,24,Interceptações,Fábio Santos,1004,0,1,Corinthians
+31447,206747,24,Interceptações,Gil,1004,1,0,Corinthians
+31448,206747,24,Interceptações,Giuliano,1004,1,0,Corinthians
+31449,206747,4,Dribles,Agustín Canobbio,1010,1,0,Athletico-PR
+31450,206747,4,Dribles,Christian Roberto,1010,1,0,Athletico-PR
+31451,206747,4,Dribles,Khellven,1010,1,0,Athletico-PR
+31452,206747,4,Dribles,Vitor Roque,1010,1,1,Athletico-PR
+31453,206747,4,Dribles,Pedrinho,1004,1,0,Corinthians
+31454,206747,4,Dribles,Roger Guedes,1004,0,1,Corinthians
+31455,206747,4,Dribles,Yuri Alberto,1004,0,1,Corinthians
+31456,206747,4,Dribles,Agustín Canobbio,1010,1,0,Athletico-PR
+31457,206747,4,Dribles,Christian Roberto,1010,1,0,Athletico-PR
+31458,206747,4,Dribles,Khellven,1010,1,0,Athletico-PR
+31459,206747,4,Dribles,Vitor Roque,1010,1,1,Athletico-PR
+31460,206747,4,Dribles,Pedrinho,1004,1,0,Corinthians
+31461,206747,4,Dribles,Roger Guedes,1004,0,1,Corinthians
+31462,206747,4,Dribles,Yuri Alberto,1004,0,1,Corinthians
+31463,206747,22,Viradas de jogo,Caetano,1004,0,1,Corinthians
+31464,206747,20,Posse de bola,Agustín Canobbio,1010,96,0,Athletico-PR
+31465,206747,20,Posse de bola,Bento,1010,183,0,Athletico-PR
+31466,206747,20,Posse de bola,Christian Roberto,1010,71,0,Athletico-PR
+31467,206747,20,Posse de bola,David Terans,1010,11,0,Athletico-PR
+31468,206747,20,Posse de bola,Erick,1010,111,0,Athletico-PR
+31469,206747,20,Posse de bola,Fernandinho,1010,108,0,Athletico-PR
+31470,206747,20,Posse de bola,Hugo Moura,1010,4,0,Athletico-PR
+31471,206747,20,Posse de bola,Khellven,1010,125,0,Athletico-PR
+31472,206747,20,Posse de bola,Luciano Arriagada,1010,14,0,Athletico-PR
+31473,206747,20,Posse de bola,Madson,1010,14,0,Athletico-PR
+31474,206747,20,Posse de bola,Pedro Henrique,1010,89,0,Athletico-PR
+31475,206747,20,Posse de bola,Thiago Heleno,1010,102,0,Athletico-PR
+31476,206747,20,Posse de bola,Tomás Cuello,1010,40,0,Athletico-PR
+31477,206747,20,Posse de bola,Vitor Bueno,1010,88,0,Athletico-PR
+31478,206747,20,Posse de bola,Vitor Roque,1010,64,0,Athletico-PR
+31479,206747,20,Posse de bola,Zé Ivaldo,1010,94,0,Athletico-PR
+31480,206747,20,Posse de bola,Bidu,1004,70,0,Corinthians
+31481,206747,20,Posse de bola,Bruno Méndez,1004,132,0,Corinthians
+31482,206747,20,Posse de bola,Caetano,1004,126,0,Corinthians
+31483,206747,20,Posse de bola,Cássio,1004,109,0,Corinthians
+31484,206747,20,Posse de bola,Fábio Santos,1004,145,0,Corinthians
+31485,206747,20,Posse de bola,Gil,1004,147,0,Corinthians
+31486,206747,20,Posse de bola,Giuliano,1004,153,0,Corinthians
+31487,206747,20,Posse de bola,Guilherme Biro,1004,99,0,Corinthians
+31488,206747,20,Posse de bola,Matheus Araújo,1004,38,0,Corinthians
+31489,206747,20,Posse de bola,Maycon,1004,239,0,Corinthians
+31490,206747,20,Posse de bola,Pedrinho,1004,20,0,Corinthians
+31491,206747,20,Posse de bola,Roger Guedes,1004,99,0,Corinthians
+31492,206747,20,Posse de bola,Roni,1004,52,0,Corinthians
+31493,206747,20,Posse de bola,Ruan Oliveira,1004,42,0,Corinthians
+31494,206747,20,Posse de bola,Wesley Teixeira,1004,12,0,Corinthians
+31495,206747,20,Posse de bola,Yuri Alberto,1004,72,0,Corinthians
+31496,206747,8,Gols,Vitor Roque,1010,1,0,Athletico-PR
+31497,206747,28,Assistências para finalização,Agustín Canobbio,1010,2,0,Athletico-PR
+31498,206747,28,Assistências para finalização,Christian Roberto,1010,1,0,Athletico-PR
+31499,206747,28,Assistências para finalização,Fernandinho,1010,2,0,Athletico-PR
+31500,206747,28,Assistências para finalização,Khellven,1010,5,0,Athletico-PR
+31501,206747,28,Assistências para finalização,Tomás Cuello,1010,1,0,Athletico-PR
+31502,206747,28,Assistências para finalização,Vitor Bueno,1010,4,0,Athletico-PR
+31503,206747,28,Assistências para finalização,Vitor Roque,1010,1,0,Athletico-PR
+31504,206747,28,Assistências para finalização,Bidu,1004,1,0,Corinthians
+31505,206747,28,Assistências para finalização,Bruno Méndez,1004,2,0,Corinthians
+31506,206747,28,Assistências para finalização,Fábio Santos,1004,1,0,Corinthians
+31507,206747,28,Assistências para finalização,Giuliano,1004,1,0,Corinthians
+31508,206747,28,Assistências para finalização,Guilherme Biro,1004,2,0,Corinthians
+31509,206747,28,Assistências para finalização,Maycon,1004,1,0,Corinthians
+31510,206747,27,Assistências,Khellven,1010,1,0,Athletico-PR
+31511,206747,15,Defesas,Bento,1010,2,0,Athletico-PR
+31512,206747,15,Defesas,Thiago Heleno,1010,1,0,Athletico-PR
+31513,206747,15,Defesas,Zé Ivaldo,1010,1,0,Athletico-PR
+31514,206747,15,Defesas,Bruno Méndez,1004,2,0,Corinthians
+31515,206747,15,Defesas,Caetano,1004,1,0,Corinthians
+31516,206747,15,Defesas,Cássio,1004,4,0,Corinthians
+31517,206747,15,Defesas,Fábio Santos,1004,1,0,Corinthians
+31518,206747,15,Defesas,Gil,1004,4,0,Corinthians
+31519,206747,15,Defesas,Giuliano,1004,1,0,Corinthians
+31520,206747,15,Defesas,Bento,1010,2,0,Athletico-PR
+31521,206747,15,Defesas,Thiago Heleno,1010,1,0,Athletico-PR
+31522,206747,15,Defesas,Zé Ivaldo,1010,1,0,Athletico-PR
+31523,206747,15,Defesas,Bruno Méndez,1004,2,0,Corinthians
+31524,206747,15,Defesas,Caetano,1004,1,0,Corinthians
+31525,206747,15,Defesas,Cássio,1004,4,0,Corinthians
+31526,206747,15,Defesas,Fábio Santos,1004,1,0,Corinthians
+31527,206747,15,Defesas,Gil,1004,4,0,Corinthians
+31528,206747,15,Defesas,Giuliano,1004,1,0,Corinthians
+31529,206747,23,Defesas difíceis,Cássio,1004,1,0,Corinthians
+31530,206747,19,Rebatidas,Agustín Canobbio,1010,1,0,Athletico-PR
+31531,206747,19,Rebatidas,Erick,1010,5,0,Athletico-PR
+31532,206747,19,Rebatidas,Khellven,1010,5,0,Athletico-PR
+31533,206747,19,Rebatidas,Pedro Henrique,1010,6,0,Athletico-PR
+31534,206747,19,Rebatidas,Thiago Heleno,1010,10,0,Athletico-PR
+31535,206747,19,Rebatidas,Zé Ivaldo,1010,1,0,Athletico-PR
+31536,206747,19,Rebatidas,Bidu,1004,1,0,Corinthians
+31537,206747,19,Rebatidas,Bruno Méndez,1004,7,0,Corinthians
+31538,206747,19,Rebatidas,Caetano,1004,6,0,Corinthians
+31539,206747,19,Rebatidas,Gil,1004,5,0,Corinthians
+31540,206747,19,Rebatidas,Giuliano,1004,1,0,Corinthians
+31541,206747,19,Rebatidas,Guilherme Biro,1004,1,0,Corinthians
+31542,206747,19,Rebatidas,Roni,1004,1,0,Corinthians
+31543,206747,19,Rebatidas,Yuri Alberto,1004,1,0,Corinthians
+31544,206747,6,Faltas cometidas,Agustín Canobbio,1010,2,0,Athletico-PR
+31545,206747,6,Faltas cometidas,Bento,1010,1,0,Athletico-PR
+31546,206747,6,Faltas cometidas,Christian Roberto,1010,4,0,Athletico-PR
+31547,206747,6,Faltas cometidas,Erick,1010,1,0,Athletico-PR
+31548,206747,6,Faltas cometidas,Fernandinho,1010,2,0,Athletico-PR
+31549,206747,6,Faltas cometidas,Luciano Arriagada,1010,3,0,Athletico-PR
+31550,206747,6,Faltas cometidas,Madson,1010,1,0,Athletico-PR
+31551,206747,6,Faltas cometidas,Pedro Henrique,1010,5,0,Athletico-PR
+31552,206747,6,Faltas cometidas,Thiago Heleno,1010,2,0,Athletico-PR
+31553,206747,6,Faltas cometidas,Tomás Cuello,1010,1,0,Athletico-PR
+31554,206747,6,Faltas cometidas,Vitor Bueno,1010,1,0,Athletico-PR
+31555,206747,6,Faltas cometidas,Vitor Roque,1010,2,0,Athletico-PR
+31556,206747,6,Faltas cometidas,Bidu,1004,1,0,Corinthians
+31557,206747,6,Faltas cometidas,Caetano,1004,1,0,Corinthians
+31558,206747,6,Faltas cometidas,Fábio Santos,1004,1,0,Corinthians
+31559,206747,6,Faltas cometidas,Gil,1004,1,0,Corinthians
+31560,206747,6,Faltas cometidas,Guilherme Biro,1004,1,0,Corinthians
+31561,206747,6,Faltas cometidas,Matheus Araújo,1004,1,0,Corinthians
+31562,206747,6,Faltas cometidas,Maycon,1004,1,0,Corinthians
+31563,206747,6,Faltas cometidas,Pedrinho,1004,1,0,Corinthians
+31564,206747,6,Faltas cometidas,Ruan Oliveira,1004,2,0,Corinthians
+31565,206747,7,Faltas sofridas,Agustín Canobbio,1010,2,0,Athletico-PR
+31566,206747,7,Faltas sofridas,David Terans,1010,1,0,Athletico-PR
+31567,206747,7,Faltas sofridas,Erick,1010,1,0,Athletico-PR
+31568,206747,7,Faltas sofridas,Thiago Heleno,1010,1,0,Athletico-PR
+31569,206747,7,Faltas sofridas,Tomás Cuello,1010,1,0,Athletico-PR
+31570,206747,7,Faltas sofridas,Vitor Bueno,1010,2,0,Athletico-PR
+31571,206747,7,Faltas sofridas,Vitor Roque,1010,1,0,Athletico-PR
+31572,206747,7,Faltas sofridas,Zé Ivaldo,1010,1,0,Athletico-PR
+31573,206747,7,Faltas sofridas,Cássio,1004,1,0,Corinthians
+31574,206747,7,Faltas sofridas,Fábio Santos,1004,3,0,Corinthians
+31575,206747,7,Faltas sofridas,Giuliano,1004,1,0,Corinthians
+31576,206747,7,Faltas sofridas,Guilherme Biro,1004,5,0,Corinthians
+31577,206747,7,Faltas sofridas,Maycon,1004,1,0,Corinthians
+31578,206747,7,Faltas sofridas,Pedrinho,1004,1,0,Corinthians
+31579,206747,7,Faltas sofridas,Roger Guedes,1004,5,0,Corinthians
+31580,206747,7,Faltas sofridas,Roni,1004,2,0,Corinthians
+31581,206747,7,Faltas sofridas,Wesley Teixeira,1004,1,0,Corinthians
+31582,206747,7,Faltas sofridas,Yuri Alberto,1004,5,0,Corinthians
+31583,206747,9,Impedimentos,Agustín Canobbio,1010,1,0,Athletico-PR
+31584,206747,9,Impedimentos,Guilherme Biro,1004,1,0,Corinthians
+31585,206747,9,Impedimentos,Roger Guedes,1004,1,0,Corinthians
+31586,206747,12,Perda da posse de bola,Agustín Canobbio,1010,4,0,Athletico-PR
+31587,206747,12,Perda da posse de bola,Christian Roberto,1010,3,0,Athletico-PR
+31588,206747,12,Perda da posse de bola,Erick,1010,2,0,Athletico-PR
+31589,206747,12,Perda da posse de bola,Fernandinho,1010,1,0,Athletico-PR
+31590,206747,12,Perda da posse de bola,Khellven,1010,1,0,Athletico-PR
+31591,206747,12,Perda da posse de bola,Luciano Arriagada,1010,2,0,Athletico-PR
+31592,206747,12,Perda da posse de bola,Tomás Cuello,1010,1,0,Athletico-PR
+31593,206747,12,Perda da posse de bola,Vitor Bueno,1010,3,0,Athletico-PR
+31594,206747,12,Perda da posse de bola,Vitor Roque,1010,3,0,Athletico-PR
+31595,206747,12,Perda da posse de bola,Zé Ivaldo,1010,1,0,Athletico-PR
+31596,206747,12,Perda da posse de bola,Bidu,1004,1,0,Corinthians
+31597,206747,12,Perda da posse de bola,Bruno Méndez,1004,1,0,Corinthians
+31598,206747,12,Perda da posse de bola,Giuliano,1004,1,0,Corinthians
+31599,206747,12,Perda da posse de bola,Guilherme Biro,1004,6,0,Corinthians
+31600,206747,12,Perda da posse de bola,Matheus Araújo,1004,1,0,Corinthians
+31601,206747,12,Perda da posse de bola,Pedrinho,1004,3,0,Corinthians
+31602,206747,12,Perda da posse de bola,Roger Guedes,1004,4,0,Corinthians
+31603,206747,12,Perda da posse de bola,Ruan Oliveira,1004,2,0,Corinthians
+31604,206747,12,Perda da posse de bola,Wesley Teixeira,1004,1,0,Corinthians
+31605,206747,12,Perda da posse de bola,Yuri Alberto,1004,4,0,Corinthians
+31606,206747,25,Cartões amarelos,Bento,1010,1,0,Athletico-PR
+31607,206747,25,Cartões amarelos,Fernandinho,1010,1,0,Athletico-PR
+31608,206747,25,Cartões amarelos,Léo Linck,1010,1,0,Athletico-PR
+31609,206747,25,Cartões amarelos,Madson,1010,1,0,Athletico-PR
+31610,206747,25,Cartões amarelos,Vitor Roque,1010,1,0,Athletico-PR
+31611,206747,25,Cartões amarelos,Fábio Santos,1004,1,0,Corinthians
+31612,206747,25,Cartões amarelos,Gil,1004,1,0,Corinthians
+31613,206774,2,Passes,Bruno Pacheco,1024,31,2,Fortaleza
+31614,206774,2,Passes,Caio Alexandre,1024,58,3,Fortaleza
+31615,206774,2,Passes,Calebe,1024,4,1,Fortaleza
+31616,206774,2,Passes,Guilherme,1024,6,1,Fortaleza
+31617,206774,2,Passes,Hércules,1024,34,4,Fortaleza
+31618,206774,2,Passes,João Ricardo,1024,12,0,Fortaleza
+31619,206774,2,Passes,Lucas Crispim,1024,4,0,Fortaleza
+31620,206774,2,Passes,Lucas Sasha,1024,9,2,Fortaleza
+31621,206774,2,Passes,Lucero,1024,9,2,Fortaleza
+31622,206774,2,Passes,Marcelo Benevenuto,1024,27,1,Fortaleza
+31623,206774,2,Passes,Thiago Galhardo ,1024,17,3,Fortaleza
+31624,206774,2,Passes,Tinga,1024,46,4,Fortaleza
+31625,206774,2,Passes,Titi,1024,40,1,Fortaleza
+31626,206774,2,Passes,Tomás Pochettino,1024,10,3,Fortaleza
+31627,206774,2,Passes,Yago Pikachu,1024,24,3,Fortaleza
+31628,206774,2,Passes,Alan Kardec,1009,0,1,Atlético-MG
+31629,206774,2,Passes,Bruno Fuchs,1009,41,2,Atlético-MG
+31630,206774,2,Passes,Cristian Pavón,1009,32,1,Atlético-MG
+31631,206774,2,Passes,Edenílson,1009,26,3,Atlético-MG
+31632,206774,2,Passes,Eduardo Vargas,1009,14,0,Atlético-MG
+31633,206774,2,Passes,Everson,1009,20,0,Atlético-MG
+31634,206774,2,Passes,Federico Zaracho,1009,31,2,Atlético-MG
+31635,206774,2,Passes,Guilherme Arana,1009,66,5,Atlético-MG
+31636,206774,2,Passes,Hulk,1009,13,2,Atlético-MG
+31637,206774,2,Passes,Hyoran,1009,7,0,Atlético-MG
+31638,206774,2,Passes,Igor Gomes,1009,17,0,Atlético-MG
+31639,206774,2,Passes,Igor Rabello,1009,22,0,Atlético-MG
+31640,206774,2,Passes,Jemerson,1009,76,1,Atlético-MG
+31641,206774,2,Passes,Paulinho,1009,30,9,Atlético-MG
+31642,206774,2,Passes,Rodrigo Battaglia,1009,65,3,Atlético-MG
+31643,206774,2,Passes,Saravia,1009,46,4,Atlético-MG
+31644,206774,3,Finalizações,Bruno Pacheco,1024,0,1,Fortaleza
+31645,206774,3,Finalizações,Caio Alexandre,1024,0,1,Fortaleza
+31646,206774,3,Finalizações,Calebe,1024,0,1,Fortaleza
+31647,206774,3,Finalizações,Hércules,1024,0,1,Fortaleza
+31648,206774,3,Finalizações,Tinga,1024,1,1,Fortaleza
+31649,206774,3,Finalizações,Tomás Pochettino,1024,2,0,Fortaleza
+31650,206774,3,Finalizações,Yago Pikachu,1024,0,2,Fortaleza
+31651,206774,3,Finalizações,Alan Kardec,1009,1,1,Atlético-MG
+31652,206774,3,Finalizações,Cristian Pavón,1009,0,1,Atlético-MG
+31653,206774,3,Finalizações,Federico Zaracho,1009,0,1,Atlético-MG
+31654,206774,3,Finalizações,Guilherme Arana,1009,0,1,Atlético-MG
+31655,206774,3,Finalizações,Hulk,1009,3,3,Atlético-MG
+31656,206774,3,Finalizações,Hyoran,1009,0,1,Atlético-MG
+31657,206774,3,Finalizações,Rodrigo Battaglia,1009,0,2,Atlético-MG
+31658,206774,3,Finalizações,Saravia,1009,0,3,Atlético-MG
+31659,206774,5,Desarmes,Caio Alexandre,1024,1,1,Fortaleza
+31660,206774,5,Desarmes,Calebe,1024,1,0,Fortaleza
+31661,206774,5,Desarmes,Guilherme,1024,0,1,Fortaleza
+31662,206774,5,Desarmes,Hércules,1024,2,0,Fortaleza
+31663,206774,5,Desarmes,Lucero,1024,1,0,Fortaleza
+31664,206774,5,Desarmes,Thiago Galhardo ,1024,1,0,Fortaleza
+31665,206774,5,Desarmes,Titi,1024,2,0,Fortaleza
+31666,206774,5,Desarmes,Tomás Pochettino,1024,1,1,Fortaleza
+31667,206774,5,Desarmes,Yago Pikachu,1024,1,2,Fortaleza
+31668,206774,5,Desarmes,Bruno Fuchs,1009,1,1,Atlético-MG
+31669,206774,5,Desarmes,Edenílson,1009,1,0,Atlético-MG
+31670,206774,5,Desarmes,Paulinho,1009,2,0,Atlético-MG
+31671,206774,14,Cruzamentos,Bruno Pacheco,1024,2,0,Fortaleza
+31672,206774,14,Cruzamentos,Caio Alexandre,1024,0,1,Fortaleza
+31673,206774,14,Cruzamentos,Hércules,1024,1,0,Fortaleza
+31674,206774,14,Cruzamentos,Lucas Sasha,1024,0,1,Fortaleza
+31675,206774,14,Cruzamentos,Thiago Galhardo ,1024,0,2,Fortaleza
+31676,206774,14,Cruzamentos,Titi,1024,0,1,Fortaleza
+31677,206774,14,Cruzamentos,Tomás Pochettino,1024,1,3,Fortaleza
+31678,206774,14,Cruzamentos,Yago Pikachu,1024,0,2,Fortaleza
+31679,206774,14,Cruzamentos,Alan Kardec,1009,0,1,Atlético-MG
+31680,206774,14,Cruzamentos,Cristian Pavón,1009,1,2,Atlético-MG
+31681,206774,14,Cruzamentos,Edenílson,1009,0,2,Atlético-MG
+31682,206774,14,Cruzamentos,Eduardo Vargas,1009,0,1,Atlético-MG
+31683,206774,14,Cruzamentos,Guilherme Arana,1009,1,3,Atlético-MG
+31684,206774,14,Cruzamentos,Hulk,1009,0,6,Atlético-MG
+31685,206774,14,Cruzamentos,Hyoran,1009,0,1,Atlético-MG
+31686,206774,14,Cruzamentos,Igor Gomes,1009,1,2,Atlético-MG
+31687,206774,14,Cruzamentos,Saravia,1009,0,1,Atlético-MG
+31688,206774,1,Lançamentos,Bruno Pacheco,1024,1,0,Fortaleza
+31689,206774,1,Lançamentos,Caio Alexandre,1024,0,1,Fortaleza
+31690,206774,1,Lançamentos,Calebe,1024,0,1,Fortaleza
+31691,206774,1,Lançamentos,Hércules,1024,2,2,Fortaleza
+31692,206774,1,Lançamentos,João Ricardo,1024,5,7,Fortaleza
+31693,206774,1,Lançamentos,Marcelo Benevenuto,1024,0,3,Fortaleza
+31694,206774,1,Lançamentos,Thiago Galhardo ,1024,1,2,Fortaleza
+31695,206774,1,Lançamentos,Tinga,1024,1,3,Fortaleza
+31696,206774,1,Lançamentos,Titi,1024,1,1,Fortaleza
+31697,206774,1,Lançamentos,Tomás Pochettino,1024,1,1,Fortaleza
+31698,206774,1,Lançamentos,Yago Pikachu,1024,3,0,Fortaleza
+31699,206774,1,Lançamentos,Bruno Fuchs,1009,1,3,Atlético-MG
+31700,206774,1,Lançamentos,Edenílson,1009,0,1,Atlético-MG
+31701,206774,1,Lançamentos,Eduardo Vargas,1009,1,0,Atlético-MG
+31702,206774,1,Lançamentos,Everson,1009,4,6,Atlético-MG
+31703,206774,1,Lançamentos,Federico Zaracho,1009,1,0,Atlético-MG
+31704,206774,1,Lançamentos,Hulk,1009,0,1,Atlético-MG
+31705,206774,1,Lançamentos,Hyoran,1009,0,1,Atlético-MG
+31706,206774,1,Lançamentos,Igor Gomes,1009,2,0,Atlético-MG
+31707,206774,1,Lançamentos,Igor Rabello,1009,1,1,Atlético-MG
+31708,206774,1,Lançamentos,Jemerson,1009,2,4,Atlético-MG
+31709,206774,1,Lançamentos,Rodrigo Battaglia,1009,0,1,Atlético-MG
+31710,206774,1,Lançamentos,Saravia,1009,2,4,Atlético-MG
+31711,206774,24,Interceptações,Hércules,1024,1,0,Fortaleza
+31712,206774,24,Interceptações,Marcelo Benevenuto,1024,0,1,Fortaleza
+31713,206774,24,Interceptações,Titi,1024,0,1,Fortaleza
+31714,206774,24,Interceptações,Tomás Pochettino,1024,1,0,Fortaleza
+31715,206774,24,Interceptações,Jemerson,1009,1,0,Atlético-MG
+31716,206774,24,Interceptações,Saravia,1009,1,0,Atlético-MG
+31717,206774,4,Dribles,Bruno Pacheco,1024,0,1,Fortaleza
+31718,206774,4,Dribles,Guilherme,1024,1,0,Fortaleza
+31719,206774,4,Dribles,Thiago Galhardo ,1024,1,1,Fortaleza
+31720,206774,4,Dribles,Igor Gomes,1009,1,0,Atlético-MG
+31721,206774,4,Dribles,Saravia,1009,0,1,Atlético-MG
+31722,206774,22,Viradas de jogo,Tinga,1024,1,0,Fortaleza
+31723,206774,20,Posse de bola,Bruno Pacheco,1024,122,0,Fortaleza
+31724,206774,20,Posse de bola,Caio Alexandre,1024,197,0,Fortaleza
+31725,206774,20,Posse de bola,Calebe,1024,29,0,Fortaleza
+31726,206774,20,Posse de bola,Guilherme,1024,31,0,Fortaleza
+31727,206774,20,Posse de bola,Hércules,1024,123,0,Fortaleza
+31728,206774,20,Posse de bola,João Ricardo,1024,100,0,Fortaleza
+31729,206774,20,Posse de bola,Lucas Crispim,1024,13,0,Fortaleza
+31730,206774,20,Posse de bola,Lucas Sasha,1024,30,0,Fortaleza
+31731,206774,20,Posse de bola,Lucero,1024,36,0,Fortaleza
+31732,206774,20,Posse de bola,Marcelo Benevenuto,1024,113,0,Fortaleza
+31733,206774,20,Posse de bola,Thiago Galhardo ,1024,75,0,Fortaleza
+31734,206774,20,Posse de bola,Tinga,1024,149,0,Fortaleza
+31735,206774,20,Posse de bola,Titi,1024,140,0,Fortaleza
+31736,206774,20,Posse de bola,Tomás Pochettino,1024,75,0,Fortaleza
+31737,206774,20,Posse de bola,Yago Pikachu,1024,94,0,Fortaleza
+31738,206774,20,Posse de bola,Alan Kardec,1009,10,0,Atlético-MG
+31739,206774,20,Posse de bola,Bruno Fuchs,1009,147,0,Atlético-MG
+31740,206774,20,Posse de bola,Cristian Pavón,1009,99,0,Atlético-MG
+31741,206774,20,Posse de bola,Edenílson,1009,89,0,Atlético-MG
+31742,206774,20,Posse de bola,Eduardo Vargas,1009,51,0,Atlético-MG
+31743,206774,20,Posse de bola,Everson,1009,106,0,Atlético-MG
+31744,206774,20,Posse de bola,Federico Zaracho,1009,89,0,Atlético-MG
+31745,206774,20,Posse de bola,Guilherme Arana,1009,211,0,Atlético-MG
+31746,206774,20,Posse de bola,Hulk,1009,93,0,Atlético-MG
+31747,206774,20,Posse de bola,Hyoran,1009,22,0,Atlético-MG
+31748,206774,20,Posse de bola,Igor Gomes,1009,64,0,Atlético-MG
+31749,206774,20,Posse de bola,Igor Rabello,1009,106,0,Atlético-MG
+31750,206774,20,Posse de bola,Jemerson,1009,230,0,Atlético-MG
+31751,206774,20,Posse de bola,Paulinho,1009,105,0,Atlético-MG
+31752,206774,20,Posse de bola,Rodrigo Battaglia,1009,166,0,Atlético-MG
+31753,206774,20,Posse de bola,Saravia,1009,173,0,Atlético-MG
+31754,206774,8,Gols,Tinga,1024,1,0,Fortaleza
+31755,206774,8,Gols,Tomás Pochettino,1024,1,0,Fortaleza
+31756,206774,8,Gols,Alan Kardec,1009,1,0,Atlético-MG
+31757,206774,28,Assistências para finalização,Caio Alexandre,1024,1,0,Fortaleza
+31758,206774,28,Assistências para finalização,Calebe,1024,1,0,Fortaleza
+31759,206774,28,Assistências para finalização,Lucas Crispim,1024,1,0,Fortaleza
+31760,206774,28,Assistências para finalização,Thiago Galhardo ,1024,2,0,Fortaleza
+31761,206774,28,Assistências para finalização,Tinga,1024,1,0,Fortaleza
+31762,206774,28,Assistências para finalização,Tomás Pochettino,1024,1,0,Fortaleza
+31763,206774,28,Assistências para finalização,Edenílson,1009,2,0,Atlético-MG
+31764,206774,28,Assistências para finalização,Eduardo Vargas,1009,1,0,Atlético-MG
+31765,206774,28,Assistências para finalização,Federico Zaracho,1009,1,0,Atlético-MG
+31766,206774,28,Assistências para finalização,Hulk,1009,2,0,Atlético-MG
+31767,206774,28,Assistências para finalização,Igor Gomes,1009,1,0,Atlético-MG
+31768,206774,28,Assistências para finalização,Saravia,1009,1,0,Atlético-MG
+31769,206774,27,Assistências,Titi,1024,1,0,Fortaleza
+31770,206774,27,Assistências,Edenílson,1009,1,0,Atlético-MG
+31771,206774,15,Defesas,Hércules,1024,1,0,Fortaleza
+31772,206774,15,Defesas,João Ricardo,1024,3,0,Fortaleza
+31773,206774,15,Defesas,Marcelo Benevenuto,1024,1,0,Fortaleza
+31774,206774,15,Defesas,Tinga,1024,2,0,Fortaleza
+31775,206774,15,Defesas,Titi,1024,1,0,Fortaleza
+31776,206774,15,Defesas,Everson,1009,1,0,Atlético-MG
+31777,206774,15,Defesas,Guilherme Arana,1009,2,0,Atlético-MG
+31778,206774,15,Defesas,Igor Rabello,1009,1,0,Atlético-MG
+31779,206774,15,Defesas,Jemerson,1009,1,0,Atlético-MG
+31780,206774,19,Rebatidas,Bruno Pacheco,1024,3,0,Fortaleza
+31781,206774,19,Rebatidas,Caio Alexandre,1024,3,0,Fortaleza
+31782,206774,19,Rebatidas,Calebe,1024,1,0,Fortaleza
+31783,206774,19,Rebatidas,João Ricardo,1024,4,0,Fortaleza
+31784,206774,19,Rebatidas,Marcelo Benevenuto,1024,14,0,Fortaleza
+31785,206774,19,Rebatidas,Thiago Galhardo ,1024,1,0,Fortaleza
+31786,206774,19,Rebatidas,Tinga,1024,3,0,Fortaleza
+31787,206774,19,Rebatidas,Titi,1024,8,0,Fortaleza
+31788,206774,19,Rebatidas,Tomás Pochettino,1024,1,0,Fortaleza
+31789,206774,19,Rebatidas,Yago Pikachu,1024,1,0,Fortaleza
+31790,206774,19,Rebatidas,Bruno Fuchs,1009,4,0,Atlético-MG
+31791,206774,19,Rebatidas,Guilherme Arana,1009,7,0,Atlético-MG
+31792,206774,19,Rebatidas,Igor Gomes,1009,2,0,Atlético-MG
+31793,206774,19,Rebatidas,Igor Rabello,1009,4,0,Atlético-MG
+31794,206774,19,Rebatidas,Jemerson,1009,3,0,Atlético-MG
+31795,206774,19,Rebatidas,Rodrigo Battaglia,1009,1,0,Atlético-MG
+31796,206774,19,Rebatidas,Saravia,1009,3,0,Atlético-MG
+31797,206774,6,Faltas cometidas,Caio Alexandre,1024,1,0,Fortaleza
+31798,206774,6,Faltas cometidas,Calebe,1024,1,0,Fortaleza
+31799,206774,6,Faltas cometidas,Guilherme,1024,1,0,Fortaleza
+31800,206774,6,Faltas cometidas,Marcelo Benevenuto,1024,3,0,Fortaleza
+31801,206774,6,Faltas cometidas,Tinga,1024,1,0,Fortaleza
+31802,206774,6,Faltas cometidas,Titi,1024,1,0,Fortaleza
+31803,206774,6,Faltas cometidas,Tomás Pochettino,1024,2,0,Fortaleza
+31804,206774,6,Faltas cometidas,Bruno Fuchs,1009,1,0,Atlético-MG
+31805,206774,6,Faltas cometidas,Cristian Pavón,1009,2,0,Atlético-MG
+31806,206774,6,Faltas cometidas,Edenílson,1009,1,0,Atlético-MG
+31807,206774,6,Faltas cometidas,Federico Zaracho,1009,1,0,Atlético-MG
+31808,206774,6,Faltas cometidas,Igor Gomes,1009,1,0,Atlético-MG
+31809,206774,6,Faltas cometidas,Paulinho,1009,4,0,Atlético-MG
+31810,206774,6,Faltas cometidas,Saravia,1009,2,0,Atlético-MG
+31811,206774,7,Faltas sofridas,Bruno Pacheco,1024,1,0,Fortaleza
+31812,206774,7,Faltas sofridas,Caio Alexandre,1024,2,0,Fortaleza
+31813,206774,7,Faltas sofridas,Calebe,1024,2,0,Fortaleza
+31814,206774,7,Faltas sofridas,Hércules,1024,1,0,Fortaleza
+31815,206774,7,Faltas sofridas,Lucero,1024,1,0,Fortaleza
+31816,206774,7,Faltas sofridas,Marcelo Benevenuto,1024,1,0,Fortaleza
+31817,206774,7,Faltas sofridas,Thiago Galhardo ,1024,1,0,Fortaleza
+31818,206774,7,Faltas sofridas,Tinga,1024,1,0,Fortaleza
+31819,206774,7,Faltas sofridas,Yago Pikachu,1024,2,0,Fortaleza
+31820,206774,7,Faltas sofridas,Edenílson,1009,1,0,Atlético-MG
+31821,206774,7,Faltas sofridas,Federico Zaracho,1009,1,0,Atlético-MG
+31822,206774,7,Faltas sofridas,Guilherme Arana,1009,1,0,Atlético-MG
+31823,206774,7,Faltas sofridas,Hulk,1009,3,0,Atlético-MG
+31824,206774,7,Faltas sofridas,Rodrigo Battaglia,1009,1,0,Atlético-MG
+31825,206774,7,Faltas sofridas,Saravia,1009,1,0,Atlético-MG
+31826,206774,9,Impedimentos,Tomás Pochettino,1024,1,0,Fortaleza
+31827,206774,9,Impedimentos,Alan Kardec,1009,1,0,Atlético-MG
+31828,206774,12,Perda da posse de bola,Caio Alexandre,1024,2,0,Fortaleza
+31829,206774,12,Perda da posse de bola,Calebe,1024,1,0,Fortaleza
+31830,206774,12,Perda da posse de bola,Guilherme,1024,1,0,Fortaleza
+31831,206774,12,Perda da posse de bola,Hércules,1024,3,0,Fortaleza
+31832,206774,12,Perda da posse de bola,Lucas Sasha,1024,1,0,Fortaleza
+31833,206774,12,Perda da posse de bola,Lucero,1024,2,0,Fortaleza
+31834,206774,12,Perda da posse de bola,Thiago Galhardo ,1024,3,0,Fortaleza
+31835,206774,12,Perda da posse de bola,Tinga,1024,2,0,Fortaleza
+31836,206774,12,Perda da posse de bola,Tomás Pochettino,1024,3,0,Fortaleza
+31837,206774,12,Perda da posse de bola,Yago Pikachu,1024,1,0,Fortaleza
+31838,206774,12,Perda da posse de bola,Cristian Pavón,1009,2,0,Atlético-MG
+31839,206774,12,Perda da posse de bola,Edenílson,1009,2,0,Atlético-MG
+31840,206774,12,Perda da posse de bola,Eduardo Vargas,1009,1,0,Atlético-MG
+31841,206774,12,Perda da posse de bola,Federico Zaracho,1009,3,0,Atlético-MG
+31842,206774,12,Perda da posse de bola,Guilherme Arana,1009,1,0,Atlético-MG
+31843,206774,12,Perda da posse de bola,Hulk,1009,5,0,Atlético-MG
+31844,206774,12,Perda da posse de bola,Hyoran,1009,1,0,Atlético-MG
+31845,206774,12,Perda da posse de bola,Jemerson,1009,1,0,Atlético-MG
+31846,206774,12,Perda da posse de bola,Paulinho,1009,3,0,Atlético-MG
+31847,206774,12,Perda da posse de bola,Rodrigo Battaglia,1009,1,0,Atlético-MG
+31848,206774,12,Perda da posse de bola,Saravia,1009,2,0,Atlético-MG
+31849,206774,25,Cartões amarelos,Titi,1024,1,0,Fortaleza
+31850,206774,25,Cartões amarelos,Bruno Fuchs,1009,1,0,Atlético-MG
+31851,206774,25,Cartões amarelos,Titi,1024,1,0,Fortaleza
+31852,206774,25,Cartões amarelos,Bruno Fuchs,1009,1,0,Atlético-MG
+31853,206774,26,Cartões vermelhos,Saravia,1009,1,0,Atlético-MG
+31854,206820,2,Passes,Alê,1085,8,0,América-MG
+31855,206820,2,Passes,Aloísio,1085,7,3,América-MG
+31856,206820,2,Passes,Breno,1085,14,4,América-MG
+31857,206820,2,Passes,Danilo Avelar,1085,20,4,América-MG
+31858,206820,2,Passes,Emmanuel Martínez,1085,9,1,América-MG
+31859,206820,2,Passes,Everaldo,1085,19,5,América-MG
+31860,206820,2,Passes,Felipe Azevedo,1085,11,5,América-MG
+31861,206820,2,Passes,Iago Maidana,1085,17,1,América-MG
+31862,206820,2,Passes,Juninho,1085,13,4,América-MG
+31863,206820,2,Passes,Lucas Kal,1085,23,5,América-MG
+31864,206820,2,Passes,Marcinho,1085,35,4,América-MG
+31865,206820,2,Passes,Martín Benítez,1085,13,3,América-MG
+31866,206820,2,Passes,Matheus Cavichioli,1085,10,0,América-MG
+31867,206820,2,Passes,Rodrigo Varanda,1085,4,0,América-MG
+31868,206820,2,Passes,Wanderson,1085,28,4,América-MG
+31869,206820,2,Passes,Wellington Paulista,1085,5,2,América-MG
+31870,206820,2,Passes,Alexandre Alemão,1018,3,1,Internacional
+31871,206820,2,Passes,Gabriel Barros,1018,1,1,Internacional
+31872,206820,2,Passes,Gustavo Campanharo,1018,13,1,Internacional
+31873,206820,2,Passes,Igor Gomes,1018,39,4,Internacional
+31874,206820,2,Passes,Jean Dias,1018,27,3,Internacional
+31875,206820,2,Passes,John Victor,1018,11,0,Internacional
+31876,206820,2,Passes,Johnny,1018,54,3,Internacional
+31877,206820,2,Passes,Luiz Adriano,1018,10,1,Internacional
+31878,206820,2,Passes,Nicolás Hernández,1018,49,5,Internacional
+31879,206820,2,Passes,Pedro Henrique,1018,17,3,Internacional
+31880,206820,2,Passes,Renê,1018,74,6,Internacional
+31881,206820,2,Passes,Rodrigo Moledo,1018,57,0,Internacional
+31882,206820,2,Passes,Rômulo,1018,50,2,Internacional
+31883,206820,2,Passes,Thauan Lara,1018,1,0,Internacional
+31884,206820,2,Passes,Wanderson,1018,30,6,Internacional
+31885,206820,3,Finalizações,Aloísio,1085,0,1,América-MG
+31886,206820,3,Finalizações,Breno,1085,2,1,América-MG
+31887,206820,3,Finalizações,Juninho,1085,1,0,América-MG
+31888,206820,3,Finalizações,Lucas Kal,1085,0,2,América-MG
+31889,206820,3,Finalizações,Marcinho,1085,1,1,América-MG
+31890,206820,3,Finalizações,Martín Benítez,1085,0,1,América-MG
+31891,206820,3,Finalizações,Rodrigo Varanda,1085,0,1,América-MG
+31892,206820,3,Finalizações,Wellington Paulista,1085,0,1,América-MG
+31893,206820,3,Finalizações,Alexandre Alemão,1018,1,0,Internacional
+31894,206820,3,Finalizações,Igor Gomes,1018,0,1,Internacional
+31895,206820,3,Finalizações,Jean Dias,1018,1,1,Internacional
+31896,206820,3,Finalizações,Johnny,1018,0,1,Internacional
+31897,206820,3,Finalizações,Renê,1018,0,1,Internacional
+31898,206820,3,Finalizações,Wanderson,1018,0,1,Internacional
+31899,206820,5,Desarmes,Breno,1085,1,0,América-MG
+31900,206820,5,Desarmes,Danilo Avelar,1085,1,0,América-MG
+31901,206820,5,Desarmes,Everaldo,1085,1,0,América-MG
+31902,206820,5,Desarmes,Felipe Azevedo,1085,1,0,América-MG
+31903,206820,5,Desarmes,Iago Maidana,1085,1,1,América-MG
+31904,206820,5,Desarmes,Juninho,1085,3,0,América-MG
+31905,206820,5,Desarmes,Marcinho,1085,3,0,América-MG
+31906,206820,5,Desarmes,Martín Benítez,1085,2,1,América-MG
+31907,206820,5,Desarmes,Wanderson,1085,1,0,América-MG
+31908,206820,5,Desarmes,Alexandre Alemão,1018,1,0,Internacional
+31909,206820,5,Desarmes,Gustavo Campanharo,1018,1,0,Internacional
+31910,206820,5,Desarmes,Igor Gomes,1018,2,0,Internacional
+31911,206820,5,Desarmes,Johnny,1018,1,0,Internacional
+31912,206820,5,Desarmes,Pedro Henrique,1018,1,0,Internacional
+31913,206820,5,Desarmes,Renê,1018,2,0,Internacional
+31914,206820,5,Desarmes,Rômulo,1018,0,1,Internacional
+31915,206820,14,Cruzamentos,Alê,1085,0,1,América-MG
+31916,206820,14,Cruzamentos,Breno,1085,0,2,América-MG
+31917,206820,14,Cruzamentos,Danilo Avelar,1085,0,5,América-MG
+31918,206820,14,Cruzamentos,Everaldo,1085,0,6,América-MG
+31919,206820,14,Cruzamentos,Felipe Azevedo,1085,0,5,América-MG
+31920,206820,14,Cruzamentos,Juninho,1085,1,2,América-MG
+31921,206820,14,Cruzamentos,Lucas Kal,1085,1,0,América-MG
+31922,206820,14,Cruzamentos,Marcinho,1085,3,4,América-MG
+31923,206820,14,Cruzamentos,Martín Benítez,1085,0,2,América-MG
+31924,206820,14,Cruzamentos,Rodrigo Varanda,1085,0,1,América-MG
+31925,206820,14,Cruzamentos,Igor Gomes,1018,0,2,Internacional
+31926,206820,14,Cruzamentos,Jean Dias,1018,1,6,Internacional
+31927,206820,14,Cruzamentos,Johnny,1018,0,1,Internacional
+31928,206820,14,Cruzamentos,Pedro Henrique,1018,0,5,Internacional
+31929,206820,14,Cruzamentos,Renê,1018,0,2,Internacional
+31930,206820,14,Cruzamentos,Rodrigo Moledo,1018,0,1,Internacional
+31931,206820,14,Cruzamentos,Rômulo,1018,0,1,Internacional
+31932,206820,14,Cruzamentos,Wanderson,1018,2,5,Internacional
+31933,206820,1,Lançamentos,Breno,1085,0,1,América-MG
+31934,206820,1,Lançamentos,Danilo Avelar,1085,0,1,América-MG
+31935,206820,1,Lançamentos,Felipe Azevedo,1085,0,1,América-MG
+31936,206820,1,Lançamentos,Iago Maidana,1085,1,0,América-MG
+31937,206820,1,Lançamentos,Marcinho,1085,1,4,América-MG
+31938,206820,1,Lançamentos,Martín Benítez,1085,2,1,América-MG
+31939,206820,1,Lançamentos,Matheus Cavichioli,1085,1,8,América-MG
+31940,206820,1,Lançamentos,Rodrigo Varanda,1085,0,1,América-MG
+31941,206820,1,Lançamentos,Wanderson,1085,1,1,América-MG
+31942,206820,1,Lançamentos,Igor Gomes,1018,0,2,Internacional
+31943,206820,1,Lançamentos,John Victor,1018,2,9,Internacional
+31944,206820,1,Lançamentos,Johnny,1018,0,2,Internacional
+31945,206820,1,Lançamentos,Luiz Adriano,1018,1,0,Internacional
+31946,206820,1,Lançamentos,Nicolás Hernández,1018,2,5,Internacional
+31947,206820,1,Lançamentos,Pedro Henrique,1018,0,1,Internacional
+31948,206820,1,Lançamentos,Renê,1018,4,4,Internacional
+31949,206820,1,Lançamentos,Rodrigo Moledo,1018,3,1,Internacional
+31950,206820,1,Lançamentos,Rômulo,1018,0,3,Internacional
+31951,206820,1,Lançamentos,Wanderson,1018,0,1,Internacional
+31952,206820,24,Interceptações,Everaldo,1085,1,0,América-MG
+31953,206820,24,Interceptações,Iago Maidana,1085,0,1,América-MG
+31954,206820,24,Interceptações,Lucas Kal,1085,1,0,América-MG
+31955,206820,24,Interceptações,Wanderson,1085,1,0,América-MG
+31956,206820,24,Interceptações,Gustavo Campanharo,1018,1,0,Internacional
+31957,206820,24,Interceptações,Rômulo,1018,1,0,Internacional
+31958,206820,4,Dribles,Martín Benítez,1085,0,1,América-MG
+31959,206820,4,Dribles,Alexandre Alemão,1018,0,1,Internacional
+31960,206820,4,Dribles,Gabriel Barros,1018,1,0,Internacional
+31961,206820,4,Dribles,Igor Gomes,1018,0,1,Internacional
+31962,206820,4,Dribles,Jean Dias,1018,1,0,Internacional
+31963,206820,4,Dribles,Renê,1018,1,0,Internacional
+31964,206820,4,Dribles,Wanderson,1018,0,1,Internacional
+31965,206820,4,Dribles,Martín Benítez,1085,0,1,América-MG
+31966,206820,4,Dribles,Alexandre Alemão,1018,0,1,Internacional
+31967,206820,4,Dribles,Gabriel Barros,1018,1,0,Internacional
+31968,206820,4,Dribles,Igor Gomes,1018,0,1,Internacional
+31969,206820,4,Dribles,Jean Dias,1018,1,0,Internacional
+31970,206820,4,Dribles,Renê,1018,1,0,Internacional
+31971,206820,4,Dribles,Wanderson,1018,0,1,Internacional
+31972,206820,22,Viradas de jogo,Rômulo,1018,1,0,Internacional
+31973,206820,20,Posse de bola,Alê,1085,24,0,América-MG
+31974,206820,20,Posse de bola,Aloísio,1085,32,0,América-MG
+31975,206820,20,Posse de bola,Breno,1085,62,0,América-MG
+31976,206820,20,Posse de bola,Danilo Avelar,1085,86,0,América-MG
+31977,206820,20,Posse de bola,Emmanuel Martínez,1085,24,0,América-MG
+31978,206820,20,Posse de bola,Everaldo,1085,100,0,América-MG
+31979,206820,20,Posse de bola,Felipe Azevedo,1085,69,0,América-MG
+31980,206820,20,Posse de bola,Iago Maidana,1085,81,0,América-MG
+31981,206820,20,Posse de bola,Juninho,1085,62,0,América-MG
+31982,206820,20,Posse de bola,Lucas Kal,1085,78,0,América-MG
+31983,206820,20,Posse de bola,Marcinho,1085,138,0,América-MG
+31984,206820,20,Posse de bola,Martín Benítez,1085,65,0,América-MG
+31985,206820,20,Posse de bola,Matheus Cavichioli,1085,117,0,América-MG
+31986,206820,20,Posse de bola,Rodrigo Varanda,1085,23,0,América-MG
+31987,206820,20,Posse de bola,Wanderson,1085,111,0,América-MG
+31988,206820,20,Posse de bola,Wellington Paulista,1085,16,0,América-MG
+31989,206820,20,Posse de bola,Alexandre Alemão,1018,24,0,Internacional
+31990,206820,20,Posse de bola,Gabriel Barros,1018,18,0,Internacional
+31991,206820,20,Posse de bola,Gustavo Campanharo,1018,49,0,Internacional
+31992,206820,20,Posse de bola,Igor Gomes,1018,140,0,Internacional
+31993,206820,20,Posse de bola,Jean Dias,1018,107,0,Internacional
+31994,206820,20,Posse de bola,John Victor,1018,67,0,Internacional
+31995,206820,20,Posse de bola,Johnny,1018,149,0,Internacional
+31996,206820,20,Posse de bola,Luiz Adriano,1018,37,0,Internacional
+31997,206820,20,Posse de bola,Nicolás Hernández,1018,171,0,Internacional
+31998,206820,20,Posse de bola,Pedro Henrique,1018,82,0,Internacional
+31999,206820,20,Posse de bola,Renê,1018,259,0,Internacional
+32000,206820,20,Posse de bola,Rodrigo Moledo,1018,176,0,Internacional
+32001,206820,20,Posse de bola,Rômulo,1018,135,0,Internacional
+32002,206820,20,Posse de bola,Thauan Lara,1018,2,0,Internacional
+32003,206820,20,Posse de bola,Wanderson,1018,118,0,Internacional
+32004,206820,8,Gols,Juninho,1085,1,0,América-MG
+32005,206820,8,Gols,Alexandre Alemão,1018,1,0,Internacional
+32006,206820,8,Gols,Jean Dias,1018,1,0,Internacional
+32007,206820,28,Assistências para finalização,Alê,1085,1,0,América-MG
+32008,206820,28,Assistências para finalização,Danilo Avelar,1085,1,0,América-MG
+32009,206820,28,Assistências para finalização,Felipe Azevedo,1085,3,0,América-MG
+32010,206820,28,Assistências para finalização,Lucas Kal,1085,1,0,América-MG
+32011,206820,28,Assistências para finalização,Marcinho,1085,1,0,América-MG
+32012,206820,28,Assistências para finalização,Wanderson,1085,1,0,América-MG
+32013,206820,28,Assistências para finalização,Pedro Henrique,1018,1,0,Internacional
+32014,206820,28,Assistências para finalização,Rodrigo Moledo,1018,1,0,Internacional
+32015,206820,27,Assistências,Everaldo,1085,1,0,América-MG
+32016,206820,27,Assistências,Johnny,1018,1,0,Internacional
+32017,206820,27,Assistências,Wanderson,1018,1,0,Internacional
+32018,206820,15,Defesas,Felipe Azevedo,1085,1,0,América-MG
+32019,206820,15,Defesas,Wanderson,1085,1,0,América-MG
+32020,206820,15,Defesas,John Victor,1018,3,0,Internacional
+32021,206820,15,Defesas,Luiz Adriano,1018,1,0,Internacional
+32022,206820,15,Defesas,Rodrigo Moledo,1018,1,0,Internacional
+32023,206820,19,Rebatidas,Breno,1085,1,0,América-MG
+32024,206820,19,Rebatidas,Danilo Avelar,1085,5,0,América-MG
+32025,206820,19,Rebatidas,Everaldo,1085,1,0,América-MG
+32026,206820,19,Rebatidas,Iago Maidana,1085,10,0,América-MG
+32027,206820,19,Rebatidas,Lucas Kal,1085,2,0,América-MG
+32028,206820,19,Rebatidas,Marcinho,1085,2,0,América-MG
+32029,206820,19,Rebatidas,Matheus Cavichioli,1085,3,0,América-MG
+32030,206820,19,Rebatidas,Rodrigo Varanda,1085,1,0,América-MG
+32031,206820,19,Rebatidas,Wanderson,1085,5,0,América-MG
+32032,206820,19,Rebatidas,Gustavo Campanharo,1018,1,0,Internacional
+32033,206820,19,Rebatidas,Igor Gomes,1018,3,0,Internacional
+32034,206820,19,Rebatidas,Jean Dias,1018,1,0,Internacional
+32035,206820,19,Rebatidas,John Victor,1018,2,0,Internacional
+32036,206820,19,Rebatidas,Johnny,1018,3,0,Internacional
+32037,206820,19,Rebatidas,Luiz Adriano,1018,1,0,Internacional
+32038,206820,19,Rebatidas,Nicolás Hernández,1018,7,0,Internacional
+32039,206820,19,Rebatidas,Renê,1018,1,0,Internacional
+32040,206820,19,Rebatidas,Rodrigo Moledo,1018,8,0,Internacional
+32041,206820,19,Rebatidas,Rômulo,1018,1,0,Internacional
+32042,206820,19,Rebatidas,Wanderson,1018,1,0,Internacional
+32043,206820,6,Faltas cometidas,Alê,1085,2,0,América-MG
+32044,206820,6,Faltas cometidas,Aloísio,1085,3,0,América-MG
+32045,206820,6,Faltas cometidas,Breno,1085,4,0,América-MG
+32046,206820,6,Faltas cometidas,Danilo Avelar,1085,4,0,América-MG
+32047,206820,6,Faltas cometidas,Emmanuel Martínez,1085,1,0,América-MG
+32048,206820,6,Faltas cometidas,Everaldo,1085,1,0,América-MG
+32049,206820,6,Faltas cometidas,Felipe Azevedo,1085,2,0,América-MG
+32050,206820,6,Faltas cometidas,Iago Maidana,1085,1,0,América-MG
+32051,206820,6,Faltas cometidas,Juninho,1085,1,0,América-MG
+32052,206820,6,Faltas cometidas,Lucas Kal,1085,2,0,América-MG
+32053,206820,6,Faltas cometidas,Marcinho,1085,2,0,América-MG
+32054,206820,6,Faltas cometidas,Wanderson,1085,2,0,América-MG
+32055,206820,6,Faltas cometidas,Alexandre Alemão,1018,1,0,Internacional
+32056,206820,6,Faltas cometidas,Johnny,1018,1,0,Internacional
+32057,206820,6,Faltas cometidas,Nicolás Hernández,1018,1,0,Internacional
+32058,206820,6,Faltas cometidas,Pedro Henrique,1018,3,0,Internacional
+32059,206820,7,Faltas sofridas,Alê,1085,1,0,América-MG
+32060,206820,7,Faltas sofridas,Danilo Avelar,1085,2,0,América-MG
+32061,206820,7,Faltas sofridas,Everaldo,1085,1,0,América-MG
+32062,206820,7,Faltas sofridas,Martín Benítez,1085,1,0,América-MG
+32063,206820,7,Faltas sofridas,Wanderson,1085,1,0,América-MG
+32064,206820,7,Faltas sofridas,Alexandre Alemão,1018,2,0,Internacional
+32065,206820,7,Faltas sofridas,Gustavo Campanharo,1018,3,0,Internacional
+32066,206820,7,Faltas sofridas,Igor Gomes,1018,1,0,Internacional
+32067,206820,7,Faltas sofridas,Jean Dias,1018,3,0,Internacional
+32068,206820,7,Faltas sofridas,John Victor,1018,1,0,Internacional
+32069,206820,7,Faltas sofridas,Johnny,1018,2,0,Internacional
+32070,206820,7,Faltas sofridas,Pedro Henrique,1018,4,0,Internacional
+32071,206820,7,Faltas sofridas,Renê,1018,3,0,Internacional
+32072,206820,7,Faltas sofridas,Rômulo,1018,5,0,Internacional
+32073,206820,7,Faltas sofridas,Alê,1085,1,0,América-MG
+32074,206820,7,Faltas sofridas,Danilo Avelar,1085,2,0,América-MG
+32075,206820,7,Faltas sofridas,Everaldo,1085,1,0,América-MG
+32076,206820,7,Faltas sofridas,Martín Benítez,1085,1,0,América-MG
+32077,206820,7,Faltas sofridas,Wanderson,1085,1,0,América-MG
+32078,206820,7,Faltas sofridas,Alexandre Alemão,1018,2,0,Internacional
+32079,206820,7,Faltas sofridas,Gustavo Campanharo,1018,3,0,Internacional
+32080,206820,7,Faltas sofridas,Igor Gomes,1018,1,0,Internacional
+32081,206820,7,Faltas sofridas,Jean Dias,1018,3,0,Internacional
+32082,206820,7,Faltas sofridas,John Victor,1018,1,0,Internacional
+32083,206820,7,Faltas sofridas,Johnny,1018,2,0,Internacional
+32084,206820,7,Faltas sofridas,Pedro Henrique,1018,4,0,Internacional
+32085,206820,7,Faltas sofridas,Renê,1018,3,0,Internacional
+32086,206820,7,Faltas sofridas,Rômulo,1018,5,0,Internacional
+32087,206820,9,Impedimentos,Renê,1018,1,0,Internacional
+32088,206820,12,Perda da posse de bola,Aloísio,1085,2,0,América-MG
+32089,206820,12,Perda da posse de bola,Breno,1085,1,0,América-MG
+32090,206820,12,Perda da posse de bola,Emmanuel Martínez,1085,1,0,América-MG
+32091,206820,12,Perda da posse de bola,Everaldo,1085,4,0,América-MG
+32092,206820,12,Perda da posse de bola,Felipe Azevedo,1085,6,0,América-MG
+32093,206820,12,Perda da posse de bola,Juninho,1085,4,0,América-MG
+32094,206820,12,Perda da posse de bola,Lucas Kal,1085,1,0,América-MG
+32095,206820,12,Perda da posse de bola,Alexandre Alemão,1018,1,0,Internacional
+32096,206820,12,Perda da posse de bola,Gabriel Barros,1018,3,0,Internacional
+32097,206820,12,Perda da posse de bola,Gustavo Campanharo,1018,3,0,Internacional
+32098,206820,12,Perda da posse de bola,Igor Gomes,1018,2,0,Internacional
+32099,206820,12,Perda da posse de bola,Jean Dias,1018,5,0,Internacional
+32100,206820,12,Perda da posse de bola,Johnny,1018,1,0,Internacional
+32101,206820,12,Perda da posse de bola,Luiz Adriano,1018,1,0,Internacional
+32102,206820,12,Perda da posse de bola,Nicolás Hernández,1018,1,0,Internacional
+32103,206820,12,Perda da posse de bola,Pedro Henrique,1018,2,0,Internacional
+32104,206820,12,Perda da posse de bola,Renê,1018,2,0,Internacional
+32105,206820,12,Perda da posse de bola,Rodrigo Moledo,1018,2,0,Internacional
+32106,206820,12,Perda da posse de bola,Wanderson,1018,3,0,Internacional
+32107,206820,25,Cartões amarelos,Danilo Avelar,1085,1,0,América-MG
+32108,206820,25,Cartões amarelos,Mateus Pasinato,1085,1,0,América-MG
+32109,206820,25,Cartões amarelos,Nicolás Hernández,1018,1,0,Internacional
