@@ -1,0 +1,11 @@
+partida_id,clube_casa_id,clube_casa_posicao,clube_visitante_id,aproveitamento_mandante,aproveitamento_visitante,clube_visitante_posicao,partida_data,timestamp,local,valida,placar_oficial_mandante,placar_oficial_visitante,campeonato_id,rodada_id
+302625,263,1,280,"['v', 'v', 'v', 'v', 'v']","['e', 'v', 'v', 'v', 'e']",6,2023-07-15 21:00:00,1689465600,Nilton Santos (Engenhão),True,,,26.0,15.0
+306169,283,9,294,"['e', 'd', 'v', 'e', 'v']","['e', 'd', 'd', 'v', 'v']",18,2023-07-16 11:00:00,1689516000,Independência,True,,,26.0,15.0
+302623,266,4,262,"['e', 'e', 'v', 'd', 'v']","['v', 'd', 'v', 'v', 'e']",2,2023-07-16 16:00:00,1689534000,Maracanã,True,,,26.0,15.0
+302627,276,8,277,"['d', 'v', 'd', 'v', 'e']","['e', 'd', 'd', 'd', 'v']",13,2023-07-16 16:00:00,1689534000,Morumbi,True,,,26.0,15.0
+302639,356,7,1371,"['d', 'v', 'v', 'd', 'v']","['e', 'd', 'd', 'v', 'e']",14,2023-07-16 16:00:00,1689534000,Castelão (CE),True,,,26.0,15.0
+302635,285,10,275,"['v', 'v', 'v', 'e', 'd']","['v', 'd', 'd', 'e', 'e']",5,2023-07-16 18:30:00,1689543000,Beira-Rio,True,,,26.0,15.0
+302637,293,11,265,"['e', 'd', 'v', 'e', 'd']","['e', 'v', 'd', 'd', 'e']",16,2023-07-16 18:30:00,1689543000,Ligga Arena,True,,,26.0,15.0
+302631,290,17,282,"['e', 'v', 'd', 'd', 'd']","['e', 'e', 'd', 'e', 'd']",12,2023-07-17 20:00:00,1689634800,Hailé Pinheiro (Serrinha),True,,,26.0,15.0
+302629,264,15,284,"['e', 'v', 'd', 'd', 'v']","['d', 'v', 'v', 'v', 'd']",3,2023-07-31 21:30:00,1690849800,Neo Química Arena,False,,,26.0,15.0
+302640,327,20,267,"['e', 'd', 'd', 'e', 'd']","['d', 'd', 'v', 'd', 'd']",19,2023-07-31 21:30:00,1690849800,Independência,False,,,26.0,15.0
