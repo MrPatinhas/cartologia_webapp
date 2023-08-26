@@ -1,0 +1,11 @@
+partida_id,clube_casa_id,clube_casa_posicao,clube_visitante_id,aproveitamento_mandante,aproveitamento_visitante,clube_visitante_posicao,partida_data,timestamp,local,valida,placar_oficial_mandante,placar_oficial_visitante,campeonato_id,rodada_id
+302841,262,3,285,"['e', 'v', 'd', 'e', 'v']","['e', 'd', 'e', 'd', 'd']",14,2023-08-26 18:30:00,1693085400,Maracanã,True,,,26.0,21.0
+302844,264,13,290,"['e', 'v', 'e', 'v', 'e']","['v', 'e', 'v', 'v', 'e']",15,2023-08-26 21:00:00,1693094400,Neo Química Arena,True,,,26.0,21.0
+302845,280,7,1371,"['e', 'v', 'v', 'e', 'd']","['v', 'v', 'v', 'd', 'd']",9,2023-08-27 11:00:00,1693144800,Nabi Abi Chedid,True,,,26.0,21.0
+302842,263,1,265,"['e', 'v', 'e', 'v', 'e']","['e', 'e', 'v', 'd', 'v']",16,2023-08-27 16:00:00,1693162800,Nilton Santos (Engenhão),True,,,26.0,21.0
+302847,284,5,283,"['v', 'e', 'd', 'v', 'd']","['d', 'e', 'e', 'd', 'e']",12,2023-08-27 19:00:00,1693173600,Arena do Grêmio,True,,,26.0,21.0
+302850,327,20,276,"['e', 'd', 'd', 'd', 'd']","['d', 'e', 'd', 'e', 'e']",10,2023-08-27 16:00:00,1693162800,Independência,True,,,26.0,21.0
+302843,275,2,267,"['v', 'v', 'd', 'v', 'v']","['d', 'd', 'v', 'e', 'v']",18,2023-08-27 18:30:00,1693171800,Allianz Parque,True,,,26.0,21.0
+302846,282,11,277,"['d', 'd', 'v', 'v', 'd']","['e', 'd', 'e', 'd', 'v']",17,2023-08-27 16:00:00,1693162800,Arena MRV,True,,,26.0,21.0
+302848,293,6,266,"['v', 'e', 'e', 'v', 'e']","['d', 'v', 'v', 'd', 'v']",4,2023-08-27 18:30:00,1693171800,Ligga Arena,True,,,26.0,21.0
+302849,356,8,294,"['d', 'd', 'd', 'v', 'v']","['v', 'd', 'd', 'd', 'd']",19,2023-08-27 18:30:00,1693171800,Presidente Vargas (CE),True,,,26.0,21.0

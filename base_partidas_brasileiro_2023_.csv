@@ -139,3 +139,61 @@
 137,Final,206718,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,14
 138,Final,206780,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,14
 139,Final,206840,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,1085,América-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/america-mg.png,14
+140,Final,206501,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,15
+141,Final,206600,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,15
+142,Final,206631,1017,Cruzeiro,https://frontendapiapp.blob.core.windows.net/images/88x88/cruzeiro.png,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,15
+143,Final,206655,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,15
+144,Final,206736,1014,Goiás,https://frontendapiapp.blob.core.windows.net/images/88x88/goias.png,1009,Atlético-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/atletico-mg.png,15
+145,Final,206757,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,15
+146,Final,206777,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1755,Cuiabá,https://frontendapiapp.blob.core.windows.net/images/88x88/cuiaba.png,15
+147,Final,206784,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,15
+148,Final,206476,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,16
+149,Final,206527,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,16
+150,Final,206553,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,16
+151,Final,206570,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,16
+152,Final,206592,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1085,América-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/america-mg.png,16
+153,Final,206626,1017,Cruzeiro,https://frontendapiapp.blob.core.windows.net/images/88x88/cruzeiro.png,1014,Goiás,https://frontendapiapp.blob.core.windows.net/images/88x88/goias.png,16
+154,Final,206671,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,16
+155,Final,206691,1755,Cuiabá,https://frontendapiapp.blob.core.windows.net/images/88x88/cuiaba.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,16
+156,Final,206717,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1009,Atlético-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/atletico-mg.png,16
+157,Final,206829,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,16
+158,Final,206484,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,17
+159,Final,206509,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,17
+160,Final,206597,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,17
+161,Final,206638,1009,Atlético-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/atletico-mg.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,17
+162,Final,206669,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,17
+163,Final,206740,1014,Goiás,https://frontendapiapp.blob.core.windows.net/images/88x88/goias.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,17
+164,Final,206754,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,1017,Cruzeiro,https://frontendapiapp.blob.core.windows.net/images/88x88/cruzeiro.png,17
+165,Final,206769,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,17
+166,Final,206796,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1755,Cuiabá,https://frontendapiapp.blob.core.windows.net/images/88x88/cuiaba.png,17
+167,Final,206803,1085,América-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/america-mg.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,17
+168,Final,206507,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1009,Atlético-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/atletico-mg.png,18
+169,Final,206532,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,18
+170,Final,206568,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,18
+171,Final,206594,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,18
+172,Final,206622,1017,Cruzeiro,https://frontendapiapp.blob.core.windows.net/images/88x88/cruzeiro.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,18
+173,Final,206687,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,1085,América-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/america-mg.png,18
+174,Final,206695,1755,Cuiabá,https://frontendapiapp.blob.core.windows.net/images/88x88/cuiaba.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,18
+175,Final,206742,1014,Goiás,https://frontendapiapp.blob.core.windows.net/images/88x88/goias.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,18
+176,Final,206785,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,18
+177,Final,206826,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,18
+178,Final,206468,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,1017,Cruzeiro,https://frontendapiapp.blob.core.windows.net/images/88x88/cruzeiro.png,19
+179,Final,206498,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,19
+180,Final,206541,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,19
+181,Final,206577,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,19
+182,Final,206642,1009,Atlético-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/atletico-mg.png,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,19
+183,Final,206667,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,19
+184,Final,206715,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,19
+185,Final,206758,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,1755,Cuiabá,https://frontendapiapp.blob.core.windows.net/images/88x88/cuiaba.png,19
+186,Final,206768,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,19
+187,Final,206817,1085,América-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/america-mg.png,1014,Goiás,https://frontendapiapp.blob.core.windows.net/images/88x88/goias.png,19
+188,Final,206508,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,20
+189,Final,206530,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,20
+190,Final,206564,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1009,Atlético-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/atletico-mg.png,20
+191,Final,206611,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1085,América-MG,https://frontendapiapp.blob.core.windows.net/images/88x88/america-mg.png,20
+192,Final,206614,1017,Cruzeiro,https://frontendapiapp.blob.core.windows.net/images/88x88/cruzeiro.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,20
+193,Final,206674,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,20
+194,Final,206689,1755,Cuiabá,https://frontendapiapp.blob.core.windows.net/images/88x88/cuiaba.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,20
+195,Final,206741,1014,Goiás,https://frontendapiapp.blob.core.windows.net/images/88x88/goias.png,1010,Athletico-PR,https://frontendapiapp.blob.core.windows.net/images/88x88/athletico-pr.png,20
+196,Final,206800,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,20
+197,Final,206828,1008,Coritiba,https://frontendapiapp.blob.core.windows.net/images/88x88/coritiba.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,20
